@@ -6,12 +6,12 @@ import html, json, re
 DATA = json.load(open("tiktok_drop.json", encoding="utf-8"))
 ACCENT = {"coldcasedaily667": "#ff4d5e", "UnexplainedDaily": "#a988ff", "MotivationFactory": "#ffb03a"}
 SONGS = {
-    "coldcasedaily667": [("Moment Of Reflection", "Jhonatan · Piano Sky · Dee Piano", "temné piano, atmosféra"),
-                          ("i just get so nervy (super slowed)", "HYFY", "napätie, suspense")],
-    "UnexplainedDaily": [("Moment Of Reflection", "Jhonatan · Piano Sky · Dee Piano", "záhadná atmosféra"),
-                          ("i just get so nervy (super slowed)", "HYFY", "mysteriózne napätie")],
-    "MotivationFactory": [("PRESSURE!", "Nyck Caution", "epické, high-octane"),
-                           ("How You Like Me Now", "The Heavy", "víťazný, silný beat")],
+    "coldcasedaily667": [("E85", "Don Toliver", "temný trap ambient"),
+                          ("Raindance", "Dave ft. Tems", "napäté, atmosferické")],
+    "UnexplainedDaily": [("E85", "Don Toliver", "mysteriózny ambient"),
+                          ("Fate of Ophelia", "Taylor Swift", "trending background")],
+    "MotivationFactory": [("I Just Might", "Bruno Mars", "uplift, lifestyle"),
+                           ("PRESSURE!", "Nyck Caution", "tvrdá motivácia")],
 }
 HANDLES = {"coldcasedaily667": "coldcasedaily667", "UnexplainedDaily": "unexplained_daily",
            "MotivationFactory": "disciplinedaily667"}
@@ -127,17 +127,13 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
 @media(max-width:560px){.songs{margin-left:0;width:100%}header{padding:40px 0 24px}}
 """
 
-EYE_ICON = {"star": "&#9733;", "ok": "&#10003;", "warn": "&#9888;"}
 def card_html(v, acc):
     cap = clean(v["desc"])
     tags = " ".join(v.get("hashtags", [])[:8])
     full = cap + "\n\n" + tags
-    vk, vlabel, vtip = verdict(v["file"])
-    eye = (f'<span class="eye {vk}" title="{esc(vtip)}">{EYE_ICON.get(vk, "")} {esc(vlabel)}</span>'
-           if vk != "na" else '<span class="meta">{}</span>'.format(esc(v['created'])))
     return f"""
     <article class="card" style="--acc:{acc}">
-      <div class="top">{eye}<span class="meta">{esc(v['created'])} · {v['size_mb']} MB</span></div>
+      <div class="top"><span class="eyebrow">{esc(v['created'])}</span><span class="meta">{v['size_mb']} MB · 9:16</span></div>
       <h4>{esc(v['title'])}</h4>
       <div class="cap">{esc(cap)}<span class="tags">{esc(tags)}</span></div>
       <div class="row">
@@ -151,7 +147,9 @@ navs = []
 total = 0
 for repo, blk in DATA.items():
     acc = ACCENT.get(repo, "#35d3e0")
-    vids = blk["videos"]; total += len(vids)
+    # auto-filter: vyhoď technicky zlé videá (čierny frame / mäkký obraz / zlá dĺžka), potom max 6
+    vids = [v for v in blk["videos"] if verdict(v["file"])[0] != "warn"][:6]
+    total += len(vids)
     songs = "".join(
         f'<div class="song" style="--acc:{acc}"><span class="t">&#9834; {esc(t)}</span><span class="a">{esc(a)}</span><span class="v">{esc(vibe)}</span></div>'
         for t, a, vibe in SONGS.get(repo, []))
@@ -189,8 +187,6 @@ HTML = f"""<style>{CSS}</style>
 <div class="note"><b>Prečo trending zvuk potichu:</b> voiceover musí ostať čitateľný, ale TikTok algoritmus boostuje videá čo používajú trending sound. Nastav zvuk na ~10 % hlasitosti. Nájdeš ich v appke: <b>Add sound → hľadaj názov nižšie</b>, alebo prezeraj <b>Trending</b> a ber tie so šípkou &#8599;. Pre komerčný obsah použi zvuky z TikTok <b>Commercial Music Library</b>.</div>
 
 <div class="note" style="--accent:#7dd3a8;border-left-color:#7dd3a8"><b>Prihlásenie (bezpečne, raz):</b> každá sekcia nižšie hovorí <b>na ktorý účet</b> postovať. V TikTok appke sa <b>prihlás do všetkých 3 účtov raz</b> (Profil → meno hore → <b>Pridať účet</b>) a potom už len <b>prepínaj účty</b> — žiadne heslá kopírovať netreba. Prihlasovacie údaje si nechaj v správcovi hesiel telefónu (iCloud/Google), ten ich vyplní. <i>Heslá zámerne nedávam na túto stránku — plaintext heslá na webe = riziko úniku účtu.</i></div>
-
-<div class="legend"><b>Kontrola kvality (automat):</b> <span class="eye star">&#9733; Silný</span> postni prvé &middot; <span class="eye ok">&#10003; OK</span> v pohode &middot; <span class="eye warn">&#9888; Pozri</span> mrkni pred postom. Meria jas + ostrosť + dĺžku (technika) — <b>tému neposudzuje, tá je na tvojom oku</b>.</div>
 
 {''.join(sections)}
 

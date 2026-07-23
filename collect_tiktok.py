@@ -38,7 +38,7 @@ for repo,label in NICHES.items():
     assets.sort(key=lambda a:a.get("created_at",""),reverse=True)
     c=cfg(repo); bh=c.get("brand_hashtags",[]); cta=c.get("brand_cta","")
     vids=[]
-    for a in assets[:6]:
+    for a in assets[:8]:   # headroom — build vyfiltruje technicky zlé, zobrazí max 6
         slug=a["name"][:-4]
         sp=spec(repo,slug)
         title=sp.get("title") or slug.replace("_"," ").title()
