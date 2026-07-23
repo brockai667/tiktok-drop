@@ -1,0 +1,336 @@
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0c0d11; --surf:#14161d; --surf2:#1a1d27; --line:#282c38;
+  --tx:#edeff5; --mut:#98a0b3; --mut2:#5c6377; --accent:#35d3e0;
+  --r:14px; --maxw:1180px;
+}
+html{scroll-behavior:smooth}
+body{background:radial-gradient(1200px 600px at 50% -10%,#161a26 0%,var(--bg) 55%);
+  color:var(--tx);font-family:"SF Pro Text",-apple-system,"Segoe UI",system-ui,sans-serif;
+  line-height:1.5;-webkit-font-smoothing:antialiased;padding:0 20px 80px}
+.wrap{max-width:var(--maxw);margin:0 auto}
+.disp{font-family:"SF Pro Display",-apple-system,"Segoe UI",system-ui,sans-serif;font-weight:800;letter-spacing:-.02em;text-wrap:balance}
+.eyebrow{font-size:11px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--mut2)}
+
+/* header */
+header{padding:56px 0 30px;text-align:center;border-bottom:1px solid var(--line);margin-bottom:34px}
+header h1{font-size:clamp(38px,7vw,68px);line-height:.98;background:linear-gradient(180deg,#fff, #b8bece);
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+header .sub{color:var(--mut);margin-top:14px;font-size:16px;max-width:56ch;margin-left:auto;margin-right:auto}
+.pill{display:inline-flex;gap:8px;align-items:center;background:var(--surf);border:1px solid var(--line);
+  border-radius:999px;padding:6px 14px;font-size:12.5px;color:var(--mut);margin-top:20px}
+.pill b{color:var(--accent);font-weight:700}
+
+/* how-to steps */
+.how{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin:0 0 20px}
+.step{background:var(--surf);border:1px solid var(--line);border-radius:var(--r);padding:16px 18px;position:relative}
+.step .n{font-family:"SF Pro Display",system-ui;font-weight:800;font-size:13px;color:var(--accent);letter-spacing:.02em}
+.step h3{font-size:14.5px;font-weight:700;margin:6px 0 3px}
+.step p{font-size:13px;color:var(--mut)}
+.note{background:linear-gradient(180deg,var(--surf),var(--surf2));border:1px solid var(--line);border-left:3px solid var(--accent);
+  border-radius:12px;padding:15px 18px;font-size:13.5px;color:var(--mut);margin-bottom:44px}
+.note b{color:var(--tx)}
+
+/* section */
+section{margin-bottom:52px;scroll-margin-top:20px}
+.shead{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;padding-bottom:16px;margin-bottom:22px;
+  border-bottom:1px solid var(--line)}
+.dot{width:11px;height:11px;border-radius:3px;flex:none;transform:translateY(1px)}
+.shead h2{font-size:26px}
+.shead .cnt{color:var(--mut2);font-size:13px;font-variant-numeric:tabular-nums}
+.acct{font-size:13px;color:var(--tx);background:color-mix(in srgb,var(--acc) 14%,transparent);
+  border:1px solid color-mix(in srgb,var(--acc) 45%,transparent);border-radius:999px;padding:4px 12px}
+.acct b{color:var(--acc);font-weight:700}
+.songs{display:flex;gap:10px;flex-wrap:wrap;margin-left:auto}
+.song{display:flex;flex-direction:column;background:var(--surf);border:1px solid var(--line);border-radius:10px;
+  padding:8px 13px;min-width:0}
+.song .t{font-size:13px;font-weight:600}.song .a{font-size:11.5px;color:var(--mut2)}
+.song .v{font-size:10.5px;color:var(--acc);letter-spacing:.02em;margin-top:2px}
+
+/* cards */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px}
+.card{background:var(--surf);border:1px solid var(--line);border-radius:var(--r);padding:18px;display:flex;flex-direction:column;gap:13px;
+  transition:border-color .18s,transform .18s}
+.card:hover{border-color:var(--acc);transform:translateY(-2px)}
+.card .top{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.card .meta{font-size:11px;color:var(--mut2);font-variant-numeric:tabular-nums;letter-spacing:.02em}
+.card h4{font-size:17px;font-weight:700;line-height:1.25;letter-spacing:-.01em}
+.cap{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:12px;font-size:13px;color:var(--mut);
+  max-height:132px;overflow:auto}
+.cap .tags{color:var(--acc);margin-top:8px;display:block;font-weight:500}
+.row{display:flex;gap:9px;margin-top:auto}
+.btn{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:7px;border-radius:10px;padding:11px 12px;
+  font-size:13.5px;font-weight:700;cursor:pointer;border:1px solid transparent;text-decoration:none;transition:filter .15s,background .15s;font-family:inherit}
+.btn.dl{background:var(--acc);color:#0b0c10}
+.btn.dl:hover{filter:brightness(1.08)}
+.btn.cp{background:transparent;border-color:var(--line);color:var(--tx);flex:0 0 auto;padding:11px 15px}
+.btn.cp:hover{border-color:var(--acc);color:var(--acc)}
+.btn.cp.done{color:var(--acc);border-color:var(--acc)}
+a.btn:focus-visible,button.btn:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid var(--line);padding-top:26px;max-width:64ch;margin:0 auto}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}html{scroll-behavior:auto}}
+@media(max-width:560px){.songs{margin-left:0;width:100%}header{padding:40px 0 24px}}
+</style>
+<div class="wrap">
+<header>
+  <span class="eyebrow">Native TikTok · denný drop</span>
+  <h1 class="disp">TikTok Drop</h1>
+  <p class="sub">Stiahni → nahraj natívne v TikTok appke → vlož popis → pridaj trending zvuk potichu. Natívny upload = oveľa väčší dosah než auto-post.</p>
+  <div class="pill">Auto-post cez Buffer je <b>vypnutý</b> na týchto 3 účtoch — žiadne duplicity</div>
+</header>
+
+<div class="how">
+  <div class="step"><div class="n">01</div><h3>Stiahni video</h3><p>Klikni „Stiahnuť" — MP4 9:16 pripravené na TikTok.</p></div>
+  <div class="step"><div class="n">02</div><h3>Nahraj natívne</h3><p>V TikTok appke z telefónu (nie cez plánovač) — to je celý trik.</p></div>
+  <div class="step"><div class="n">03</div><h3>Vlož popis</h3><p>„Kopírovať popis" → vlož do TikToku. Hotové hashtagy.</p></div>
+  <div class="step"><div class="n">04</div><h3>Pridaj zvuk</h3><p>Add sound → trending pesnička (dole) na <b>~8–12 %</b> hlasitosti pod voiceover.</p></div>
+</div>
+
+<div class="note"><b>Prečo trending zvuk potichu:</b> voiceover musí ostať čitateľný, ale TikTok algoritmus boostuje videá čo používajú trending sound. Nastav zvuk na ~10 % hlasitosti. Nájdeš ich v appke: <b>Add sound → hľadaj názov nižšie</b>, alebo prezeraj <b>Trending</b> a ber tie so šípkou &#8599;. Pre komerčný obsah použi zvuky z TikTok <b>Commercial Music Library</b>.</div>
+
+<div class="note" style="--accent:#7dd3a8;border-left-color:#7dd3a8"><b>Prihlásenie (bezpečne, raz):</b> každá sekcia nižšie hovorí <b>na ktorý účet</b> postovať. V TikTok appke sa <b>prihlás do všetkých 3 účtov raz</b> (Profil → meno hore → <b>Pridať účet</b>) a potom už len <b>prepínaj účty</b> — žiadne heslá kopírovať netreba. Prihlasovacie údaje si nechaj v správcovi hesiel telefónu (iCloud/Google), ten ich vyplní. <i>Heslá zámerne nedávam na túto stránku — plaintext heslá na webe = riziko úniku účtu.</i></div>
+
+
+    <section id="coldcasedaily667" style="--acc:#ff4d5e">
+      <div class="shead">
+        <span class="dot" style="background:#ff4d5e"></span>
+        <h2 class="disp">True Crime</h2>
+        <span class="acct" style="--acc:#ff4d5e">postuj na &rarr; <b>@coldcasedaily667</b></span>
+        <span class="cnt">6 videí</span>
+        <div class="songs"><div class="song" style="--acc:#ff4d5e"><span class="t">&#9834; Moment Of Reflection</span><span class="a">Jhonatan · Piano Sky · Dee Piano</span><span class="v">temné piano, atmosféra</span></div><div class="song" style="--acc:#ff4d5e"><span class="t">&#9834; i just get so nervy (super slowed)</span><span class="a">HYFY</span><span class="v">napätie, suspense</span></div></div>
+      </div>
+      <div class="grid">
+    <article class="card" style="--acc:#ff4d5e">
+      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">21.9 MB · 9:16</span></div>
+      <h4>Unmasking the Case of the Zodiac Killer</h4>
+      <div class="cap">The Zodiac Killer remains one of America&#x27;s most infamous unsolved cases. With five known victims and a history of taunting police, this mystery captivates true crime enthusiasts. Stay tuned.<span class="tags">#ZodiacKiller #TrueCrime #Unsolved #Mystery #SanFrancisco #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/coldcasedaily667/releases/download/media/unmasking_the_case_of_the_zodiac_killer.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="The Zodiac Killer remains one of America&#x27;s most infamous unsolved cases. With five known victims and a history of taunting police, this mystery captivates true crime enthusiasts. Stay tuned.
+
+#ZodiacKiller #TrueCrime #Unsolved #Mystery #SanFrancisco #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#ff4d5e">
+      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">21.7 MB · 9:16</span></div>
+      <h4>The Infamous Burglary of the Isabella Stewart Gardner Museum</h4>
+      <div class="cap">The Isabella Stewart Gardner Museum heist stands as one of the most infamous thefts in art history, with $500 million worth of masterpieces lost to time. Join us for more true crime tales.<span class="tags">#ArtHeist #TrueCrime #Unsolved #MuseumMystery #Boston #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/coldcasedaily667/releases/download/media/the_infamous_burglary_of_the_isabella_stewart_gard.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="The Isabella Stewart Gardner Museum heist stands as one of the most infamous thefts in art history, with $500 million worth of masterpieces lost to time. Join us for more true crime tales.
+
+#ArtHeist #TrueCrime #Unsolved #MuseumMystery #Boston #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#ff4d5e">
+      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">20.1 MB · 9:16</span></div>
+      <h4>The Great Train Robbery That Shook the Nation</h4>
+      <div class="cap">The Great Train Robbery of 1963 became legendary, with £2.6 million stolen through a cunning plot. Discover more about notorious heists as we delve into the world of true crime.<span class="tags">#TrainRobbery #TrueCrime #LegendaryHeists #Unsolved #History #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/coldcasedaily667/releases/download/media/the_great_train_robbery_that_shook_the_nation.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="The Great Train Robbery of 1963 became legendary, with £2.6 million stolen through a cunning plot. Discover more about notorious heists as we delve into the world of true crime.
+
+#TrainRobbery #TrueCrime #LegendaryHeists #Unsolved #History #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#ff4d5e">
+      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">28.4 MB · 9:16</span></div>
+      <h4>The Mysterious Vanishing of Flight MH370</h4>
+      <div class="cap">The disappearance of Flight MH370 is one of the most significant unsolved aviation mysteries in history, leaving 239 people unaccounted for. Stay tuned for more captivating true crime stories.<span class="tags">#FlightMH370 #AviationMystery #TrueCrime #Unsolved #AirlineMystery #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/coldcasedaily667/releases/download/media/the_mysterious_vanishing_of_flight_mh370.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="The disappearance of Flight MH370 is one of the most significant unsolved aviation mysteries in history, leaving 239 people unaccounted for. Stay tuned for more captivating true crime stories.
+
+#FlightMH370 #AviationMystery #TrueCrime #Unsolved #AirlineMystery #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#ff4d5e">
+      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">21.5 MB · 9:16</span></div>
+      <h4>The Mom Who Disappeared Into Thin Air</h4>
+      <div class="cap">The chilling case of Sheila&#x27;s disappearance in 1985 continues to haunt Cincinnati. Investigators still hope to uncover the truth behind her sudden vanishing. Keep following for more true crime mysteries.<span class="tags">#MissingPerson #TrueCrime #Unsolved #Mystery #Cincinnati #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/coldcasedaily667/releases/download/media/the_mom_who_disappeared_into_thin_air.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="The chilling case of Sheila&#x27;s disappearance in 1985 continues to haunt Cincinnati. Investigators still hope to uncover the truth behind her sudden vanishing. Keep following for more true crime mysteries.
+
+#MissingPerson #TrueCrime #Unsolved #Mystery #Cincinnati #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#ff4d5e">
+      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">19.9 MB · 9:16</span></div>
+      <h4>The Heist That Vanished Without a Trace</h4>
+      <div class="cap">In 2005, a heist at Brussels Airport made headlines with a staggering €100 million in stolen diamonds, but the culprits vanished without a trace. Join us for more gripping crime stories.<span class="tags">#Heist #TrueCrime #Mystery #Unsolved #CrimeStory #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/coldcasedaily667/releases/download/media/the_heist_that_vanished_without_a_trace.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="In 2005, a heist at Brussels Airport made headlines with a staggering €100 million in stolen diamonds, but the culprits vanished without a trace. Join us for more gripping crime stories.
+
+#Heist #TrueCrime #Mystery #Unsolved #CrimeStory #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article></div>
+    </section>
+    <section id="UnexplainedDaily" style="--acc:#a988ff">
+      <div class="shead">
+        <span class="dot" style="background:#a988ff"></span>
+        <h2 class="disp">Unsolved Mysteries</h2>
+        <span class="acct" style="--acc:#a988ff">postuj na &rarr; <b>@unexplained_daily</b></span>
+        <span class="cnt">6 videí</span>
+        <div class="songs"><div class="song" style="--acc:#a988ff"><span class="t">&#9834; Moment Of Reflection</span><span class="a">Jhonatan · Piano Sky · Dee Piano</span><span class="v">záhadná atmosféra</span></div><div class="song" style="--acc:#a988ff"><span class="t">&#9834; i just get so nervy (super slowed)</span><span class="a">HYFY</span><span class="v">mysteriózne napätie</span></div></div>
+      </div>
+      <div class="grid">
+    <article class="card" style="--acc:#a988ff">
+      <div class="top"><span class="eyebrow">2026-07-22</span><span class="meta">25.0 MB · 9:16</span></div>
+      <h4>The Voynich Manuscript: The Most Mysterious Book?</h4>
+      <div class="cap">The Voynich Manuscript continues to baffle scholars and enthusiasts alike. Explore its mysteries with us as we dig into its origins and meanings!<span class="tags">#VoynichManuscript #MysteriousBooks #History #Unsolved #Shorts #FYP</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_voynich_manuscript_the_most_mysterious_book.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="The Voynich Manuscript continues to baffle scholars and enthusiasts alike. Explore its mysteries with us as we dig into its origins and meanings!
+
+#VoynichManuscript #MysteriousBooks #History #Unsolved #Shorts #FYP" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#a988ff">
+      <div class="top"><span class="eyebrow">2026-07-22</span><span class="meta">27.9 MB · 9:16</span></div>
+      <h4>The Nazca Lines: Messages from the Ancients?</h4>
+      <div class="cap">The Nazca Lines have puzzled historians for decades, igniting theories of communication, worship, and observation. Dive deeper into their enigma!<span class="tags">#NazcaLines #Geoglyphs #AncientCivilizations #Mystery #Shorts #FYP</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_nazca_lines_messages_from_the_ancients.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="The Nazca Lines have puzzled historians for decades, igniting theories of communication, worship, and observation. Dive deeper into their enigma!
+
+#NazcaLines #Geoglyphs #AncientCivilizations #Mystery #Shorts #FYP" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#a988ff">
+      <div class="top"><span class="eyebrow">2026-07-22</span><span class="meta">27.0 MB · 9:16</span></div>
+      <h4>The Great Pyramids: How Were They Built?</h4>
+      <div class="cap">The Great Pyramids of Giza stand as monumental achievements of ancient architecture. Explore how they were constructed amidst ongoing debates.<span class="tags">#GreatPyramids #AncientEgypt #History #Mysteries #Shorts #FYP</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_great_pyramids_how_were_they_built.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="The Great Pyramids of Giza stand as monumental achievements of ancient architecture. Explore how they were constructed amidst ongoing debates.
+
+#GreatPyramids #AncientEgypt #History #Mysteries #Shorts #FYP" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#a988ff">
+      <div class="top"><span class="eyebrow">2026-07-21</span><span class="meta">26.4 MB · 9:16</span></div>
+      <h4>Unsolved Anomalies: The Great Silence</h4>
+      <div class="cap">An entire region of space dubbed &#x27;The Great Silence&#x27; has yielded no detectable signals, posing profound questions about cosmic existence. Follow for daily mysteries!<span class="tags">#mystery #unexplained #spaceanomalies #thegreatsilence #universe #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/UnexplainedDaily/releases/download/media/unsolved_anomalies_the_great_silence.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="An entire region of space dubbed &#x27;The Great Silence&#x27; has yielded no detectable signals, posing profound questions about cosmic existence. Follow for daily mysteries!
+
+#mystery #unexplained #spaceanomalies #thegreatsilence #universe #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#a988ff">
+      <div class="top"><span class="eyebrow">2026-07-21</span><span class="meta">18.1 MB · 9:16</span></div>
+      <h4>The Enigma of the Baghdad Battery</h4>
+      <div class="cap">The Baghdad Battery is a fascinating artifact that might have generated electricity. What could this mean for our understanding of ancient technology? Follow for more mysteries!<span class="tags">#ancient #technology #Baghdad #history #mystery #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_enigma_of_the_baghdad_battery.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="The Baghdad Battery is a fascinating artifact that might have generated electricity. What could this mean for our understanding of ancient technology? Follow for more mysteries!
+
+#ancient #technology #Baghdad #history #mystery #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#a988ff">
+      <div class="top"><span class="eyebrow">2026-07-20</span><span class="meta">32.4 MB · 9:16</span></div>
+      <h4>The Mysterious Count Who Refused to Die</h4>
+      <div class="cap">📍 Various, Europe - 18th Century. The Count of Saint Germain claimed to be over 500 years old, weaving a tale of mystery throughout Europe. Follow for daily mysteries!<span class="tags">#mystery #unexplained #history #SaintGermain #alchemy #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_mysterious_count_who_refused_to_die.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="📍 Various, Europe - 18th Century. The Count of Saint Germain claimed to be over 500 years old, weaving a tale of mystery throughout Europe. Follow for daily mysteries!
+
+#mystery #unexplained #history #SaintGermain #alchemy #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article></div>
+    </section>
+    <section id="MotivationFactory" style="--acc:#ffb03a">
+      <div class="shead">
+        <span class="dot" style="background:#ffb03a"></span>
+        <h2 class="disp">Motivation</h2>
+        <span class="acct" style="--acc:#ffb03a">postuj na &rarr; <b>@disciplinedaily667</b></span>
+        <span class="cnt">6 videí</span>
+        <div class="songs"><div class="song" style="--acc:#ffb03a"><span class="t">&#9834; PRESSURE!</span><span class="a">Nyck Caution</span><span class="v">epické, high-octane</span></div><div class="song" style="--acc:#ffb03a"><span class="t">&#9834; How You Like Me Now</span><span class="a">The Heavy</span><span class="v">víťazný, silný beat</span></div></div>
+      </div>
+      <div class="grid">
+    <article class="card" style="--acc:#ffb03a">
+      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">14.2 MB · 9:16</span></div>
+      <h4>The Secret Behind Daily Writing</h4>
+      <div class="cap">Explore how daily writing not only boosts productivity but also builds discipline and mental toughness. Follow for tips and challenges!<span class="tags">#shorts #fyp #writingcommunity #discipline #mentalhealth #creativity #habits #selfimprovement</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/MotivationFactory/releases/download/media/the_secret_behind_daily_writing.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="Explore how daily writing not only boosts productivity but also builds discipline and mental toughness. Follow for tips and challenges!
+
+#shorts #fyp #writingcommunity #discipline #mentalhealth #creativity #habits #selfimprovement" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#ffb03a">
+      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">15.8 MB · 9:16</span></div>
+      <h4>Lose 30 Pounds in 3 Months</h4>
+      <div class="cap">Discover how discipline and consistency led to a remarkable 30-pound weight loss in just three months. Follow for more inspiring journeys!<span class="tags">#shorts #fyp #weightloss #transformation #fitnessjourney #discipline #consistency #motivation</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/MotivationFactory/releases/download/media/lose_30_pounds_in_3_months.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="Discover how discipline and consistency led to a remarkable 30-pound weight loss in just three months. Follow for more inspiring journeys!
+
+#shorts #fyp #weightloss #transformation #fitnessjourney #discipline #consistency #motivation" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#ffb03a">
+      <div class="top"><span class="eyebrow">2026-07-21</span><span class="meta">18.6 MB · 9:16</span></div>
+      <h4>You Don&#x27;t Need to Explain Yourself</h4>
+      <div class="cap">Your choices belong to you, not others. By focusing on your goals, you fuel your discipline and creativity. Follow for more empowering insights!<span class="tags">#empowerment #mindset #selfdiscovery #discipline #creativity #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/MotivationFactory/releases/download/media/you_don_t_need_to_explain_yourself.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="Your choices belong to you, not others. By focusing on your goals, you fuel your discipline and creativity. Follow for more empowering insights!
+
+#empowerment #mindset #selfdiscovery #discipline #creativity #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#ffb03a">
+      <div class="top"><span class="eyebrow">2026-07-21</span><span class="meta">21.1 MB · 9:16</span></div>
+      <h4>Restarting Is Not Failure</h4>
+      <div class="cap">Restarting is a powerful chance to refine your journey, not a sign of failure. Small steps lead to big changes. Follow for courage to restart!<span class="tags">#resilience #restart #mindset #selfimprovement #motivation #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/MotivationFactory/releases/download/media/restarting_is_not_failure.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="Restarting is a powerful chance to refine your journey, not a sign of failure. Small steps lead to big changes. Follow for courage to restart!
+
+#resilience #restart #mindset #selfimprovement #motivation #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#ffb03a">
+      <div class="top"><span class="eyebrow">2026-07-20</span><span class="meta">18.2 MB · 9:16</span></div>
+      <h4>Why Tiny Promises Matter</h4>
+      <div class="cap">Tiny promises can dramatically shift your self-perception. Follow for daily discipline insights!<span class="tags">#selfdiscipline #mindset #habits #selfimprovement #stoicism #motivation #shorts</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/MotivationFactory/releases/download/media/why_tiny_promises_matter.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="Tiny promises can dramatically shift your self-perception. Follow for daily discipline insights!
+
+#selfdiscipline #mindset #habits #selfimprovement #stoicism #motivation #shorts" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article>
+    <article class="card" style="--acc:#ffb03a">
+      <div class="top"><span class="eyebrow">2026-07-20</span><span class="meta">16.8 MB · 9:16</span></div>
+      <h4>Why Choosing Difficulties Leads to Growth</h4>
+      <div class="cap">Choose the difficult path; discomfort leads to strength. Follow for insights on embracing challenges!<span class="tags">#growth #discipline #resilience #stoicism #success #motivation #shorts #fyp</span></div>
+      <div class="row">
+        <a class="btn dl" href="https://github.com/brockai667/MotivationFactory/releases/download/media/why_choosing_difficulties_leads_to_growth.mp4" download>&#8595; Stiahnuť</a>
+        <button class="btn cp" data-cap="Choose the difficult path; discomfort leads to strength. Follow for insights on embracing challenges!
+
+#growth #discipline #resilience #stoicism #success #motivation #shorts #fyp" aria-label="Kopírovať popis">Kopírovať popis</button>
+      </div>
+    </article></div>
+    </section>
+
+<footer>Toto sú tvoje živé videá (bežia aj na YouTube/IG). Board sa dá kedykoľvek pregenerovať s novými. Chceš iný niche alebo iné pesničky — povedz.</footer>
+</div>
+<script>
+document.querySelectorAll('.btn.cp').forEach(function(b){
+  b.addEventListener('click',function(){
+    var t=b.getAttribute('data-cap');
+    navigator.clipboard.writeText(t).then(function(){
+      var o=b.textContent;b.textContent='Skopírované \u2713';b.classList.add('done');
+      setTimeout(function(){b.textContent=o;b.classList.remove('done');},1600);
+    });
+  });
+});
+</script>
