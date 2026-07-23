@@ -31,6 +31,9 @@ header .sub{color:var(--mut);margin-top:14px;font-size:16px;max-width:56ch;margi
 .note{background:linear-gradient(180deg,var(--surf),var(--surf2));border:1px solid var(--line);border-left:3px solid var(--accent);
   border-radius:12px;padding:15px 18px;font-size:13.5px;color:var(--mut);margin-bottom:44px}
 .note b{color:var(--tx)}
+.legend{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:12.5px;color:var(--mut);
+  background:var(--surf);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin-bottom:44px}
+.legend .eye{font-size:10.5px;padding:2px 8px}
 
 /* section */
 section{margin-bottom:52px;scroll-margin-top:20px}
@@ -54,7 +57,12 @@ section{margin-bottom:52px;scroll-margin-top:20px}
   transition:border-color .18s,transform .18s}
 .card:hover{border-color:var(--acc);transform:translateY(-2px)}
 .card .top{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.card .top{align-items:center}
 .card .meta{font-size:11px;color:var(--mut2);font-variant-numeric:tabular-nums;letter-spacing:.02em}
+.eye{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:700;border-radius:999px;padding:3px 10px;white-space:nowrap}
+.eye.star{background:rgba(255,209,102,.16);color:#ffd166;border:1px solid rgba(255,209,102,.42)}
+.eye.ok{background:rgba(125,211,168,.13);color:#7dd3a8;border:1px solid rgba(125,211,168,.3)}
+.eye.warn{background:rgba(255,138,76,.16);color:#ff9a52;border:1px solid rgba(255,138,76,.42)}
 .card h4{font-size:17px;font-weight:700;line-height:1.25;letter-spacing:-.01em}
 .cap{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:12px;font-size:13px;color:var(--mut);
   max-height:132px;overflow:auto}
@@ -91,6 +99,8 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
 
 <div class="note" style="--accent:#7dd3a8;border-left-color:#7dd3a8"><b>Prihlásenie (bezpečne, raz):</b> každá sekcia nižšie hovorí <b>na ktorý účet</b> postovať. V TikTok appke sa <b>prihlás do všetkých 3 účtov raz</b> (Profil → meno hore → <b>Pridať účet</b>) a potom už len <b>prepínaj účty</b> — žiadne heslá kopírovať netreba. Prihlasovacie údaje si nechaj v správcovi hesiel telefónu (iCloud/Google), ten ich vyplní. <i>Heslá zámerne nedávam na túto stránku — plaintext heslá na webe = riziko úniku účtu.</i></div>
 
+<div class="legend"><b>Kontrola kvality (automat):</b> <span class="eye star">&#9733; Silný</span> postni prvé &middot; <span class="eye ok">&#10003; OK</span> v pohode &middot; <span class="eye warn">&#9888; Pozri</span> mrkni pred postom. Meria jas + ostrosť + dĺžku (technika) — <b>tému neposudzuje, tá je na tvojom oku</b>.</div>
+
 
     <section id="coldcasedaily667" style="--acc:#ff4d5e">
       <div class="shead">
@@ -102,7 +112,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
       <div class="grid">
     <article class="card" style="--acc:#ff4d5e">
-      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">21.9 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 30 · ostrosť 101 · 20s">&#10003; OK</span><span class="meta">2026-07-23 · 21.9 MB</span></div>
       <h4>Unmasking the Case of the Zodiac Killer</h4>
       <div class="cap">The Zodiac Killer remains one of America&#x27;s most infamous unsolved cases. With five known victims and a history of taunting police, this mystery captivates true crime enthusiasts. Stay tuned.<span class="tags">#ZodiacKiller #TrueCrime #Unsolved #Mystery #SanFrancisco #shorts #fyp</span></div>
       <div class="row">
@@ -113,7 +123,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#ff4d5e">
-      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">21.7 MB · 9:16</span></div>
+      <div class="top"><span class="eye star" title="jas 58 · ostrosť 263 · 21s">&#9733; Silný vizuál</span><span class="meta">2026-07-23 · 21.7 MB</span></div>
       <h4>The Infamous Burglary of the Isabella Stewart Gardner Museum</h4>
       <div class="cap">The Isabella Stewart Gardner Museum heist stands as one of the most infamous thefts in art history, with $500 million worth of masterpieces lost to time. Join us for more true crime tales.<span class="tags">#ArtHeist #TrueCrime #Unsolved #MuseumMystery #Boston #shorts #fyp</span></div>
       <div class="row">
@@ -124,7 +134,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#ff4d5e">
-      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">20.1 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 55 · ostrosť 148 · 19s">&#10003; OK</span><span class="meta">2026-07-23 · 20.1 MB</span></div>
       <h4>The Great Train Robbery That Shook the Nation</h4>
       <div class="cap">The Great Train Robbery of 1963 became legendary, with £2.6 million stolen through a cunning plot. Discover more about notorious heists as we delve into the world of true crime.<span class="tags">#TrainRobbery #TrueCrime #LegendaryHeists #Unsolved #History #shorts #fyp</span></div>
       <div class="row">
@@ -135,7 +145,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#ff4d5e">
-      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">28.4 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 49 · ostrosť 174 · 26s">&#10003; OK</span><span class="meta">2026-07-23 · 28.4 MB</span></div>
       <h4>The Mysterious Vanishing of Flight MH370</h4>
       <div class="cap">The disappearance of Flight MH370 is one of the most significant unsolved aviation mysteries in history, leaving 239 people unaccounted for. Stay tuned for more captivating true crime stories.<span class="tags">#FlightMH370 #AviationMystery #TrueCrime #Unsolved #AirlineMystery #shorts #fyp</span></div>
       <div class="row">
@@ -146,7 +156,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#ff4d5e">
-      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">21.5 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 35 · ostrosť 128 · 19s">&#10003; OK</span><span class="meta">2026-07-23 · 21.5 MB</span></div>
       <h4>The Mom Who Disappeared Into Thin Air</h4>
       <div class="cap">The chilling case of Sheila&#x27;s disappearance in 1985 continues to haunt Cincinnati. Investigators still hope to uncover the truth behind her sudden vanishing. Keep following for more true crime mysteries.<span class="tags">#MissingPerson #TrueCrime #Unsolved #Mystery #Cincinnati #shorts #fyp</span></div>
       <div class="row">
@@ -157,7 +167,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#ff4d5e">
-      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">19.9 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 50 · ostrosť 127 · 18s">&#10003; OK</span><span class="meta">2026-07-23 · 19.9 MB</span></div>
       <h4>The Heist That Vanished Without a Trace</h4>
       <div class="cap">In 2005, a heist at Brussels Airport made headlines with a staggering €100 million in stolen diamonds, but the culprits vanished without a trace. Join us for more gripping crime stories.<span class="tags">#Heist #TrueCrime #Mystery #Unsolved #CrimeStory #shorts #fyp</span></div>
       <div class="row">
@@ -178,7 +188,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
       <div class="grid">
     <article class="card" style="--acc:#a988ff">
-      <div class="top"><span class="eyebrow">2026-07-22</span><span class="meta">25.0 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 40 · ostrosť 193 · 23s">&#10003; OK</span><span class="meta">2026-07-22 · 25.0 MB</span></div>
       <h4>The Voynich Manuscript: The Most Mysterious Book?</h4>
       <div class="cap">The Voynich Manuscript continues to baffle scholars and enthusiasts alike. Explore its mysteries with us as we dig into its origins and meanings!<span class="tags">#VoynichManuscript #MysteriousBooks #History #Unsolved #Shorts #FYP</span></div>
       <div class="row">
@@ -189,7 +199,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#a988ff">
-      <div class="top"><span class="eyebrow">2026-07-22</span><span class="meta">27.9 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 55 · ostrosť 182 · 26s">&#10003; OK</span><span class="meta">2026-07-22 · 27.9 MB</span></div>
       <h4>The Nazca Lines: Messages from the Ancients?</h4>
       <div class="cap">The Nazca Lines have puzzled historians for decades, igniting theories of communication, worship, and observation. Dive deeper into their enigma!<span class="tags">#NazcaLines #Geoglyphs #AncientCivilizations #Mystery #Shorts #FYP</span></div>
       <div class="row">
@@ -200,7 +210,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#a988ff">
-      <div class="top"><span class="eyebrow">2026-07-22</span><span class="meta">27.0 MB · 9:16</span></div>
+      <div class="top"><span class="eye star" title="jas 71 · ostrosť 744 · 25s">&#9733; Silný vizuál</span><span class="meta">2026-07-22 · 27.0 MB</span></div>
       <h4>The Great Pyramids: How Were They Built?</h4>
       <div class="cap">The Great Pyramids of Giza stand as monumental achievements of ancient architecture. Explore how they were constructed amidst ongoing debates.<span class="tags">#GreatPyramids #AncientEgypt #History #Mysteries #Shorts #FYP</span></div>
       <div class="row">
@@ -211,7 +221,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#a988ff">
-      <div class="top"><span class="eyebrow">2026-07-21</span><span class="meta">26.4 MB · 9:16</span></div>
+      <div class="top"><span class="eye warn" title="jas 28 · ostrosť 205 · 24s">&#9888; Pozri: čierny frame</span><span class="meta">2026-07-21 · 26.4 MB</span></div>
       <h4>Unsolved Anomalies: The Great Silence</h4>
       <div class="cap">An entire region of space dubbed &#x27;The Great Silence&#x27; has yielded no detectable signals, posing profound questions about cosmic existence. Follow for daily mysteries!<span class="tags">#mystery #unexplained #spaceanomalies #thegreatsilence #universe #shorts #fyp</span></div>
       <div class="row">
@@ -222,7 +232,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#a988ff">
-      <div class="top"><span class="eyebrow">2026-07-21</span><span class="meta">18.1 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 25 · ostrosť 123 · 16s">&#10003; OK</span><span class="meta">2026-07-21 · 18.1 MB</span></div>
       <h4>The Enigma of the Baghdad Battery</h4>
       <div class="cap">The Baghdad Battery is a fascinating artifact that might have generated electricity. What could this mean for our understanding of ancient technology? Follow for more mysteries!<span class="tags">#ancient #technology #Baghdad #history #mystery #shorts #fyp</span></div>
       <div class="row">
@@ -233,7 +243,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#a988ff">
-      <div class="top"><span class="eyebrow">2026-07-20</span><span class="meta">32.4 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 51 · ostrosť 449 · 32s">&#10003; OK</span><span class="meta">2026-07-20 · 32.4 MB</span></div>
       <h4>The Mysterious Count Who Refused to Die</h4>
       <div class="cap">📍 Various, Europe - 18th Century. The Count of Saint Germain claimed to be over 500 years old, weaving a tale of mystery throughout Europe. Follow for daily mysteries!<span class="tags">#mystery #unexplained #history #SaintGermain #alchemy #shorts #fyp</span></div>
       <div class="row">
@@ -254,7 +264,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
       <div class="grid">
     <article class="card" style="--acc:#ffb03a">
-      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">14.2 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 79 · ostrosť 367 · 14s">&#10003; OK</span><span class="meta">2026-07-23 · 14.2 MB</span></div>
       <h4>The Secret Behind Daily Writing</h4>
       <div class="cap">Explore how daily writing not only boosts productivity but also builds discipline and mental toughness. Follow for tips and challenges!<span class="tags">#shorts #fyp #writingcommunity #discipline #mentalhealth #creativity #habits #selfimprovement</span></div>
       <div class="row">
@@ -265,7 +275,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#ffb03a">
-      <div class="top"><span class="eyebrow">2026-07-23</span><span class="meta">15.8 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 99 · ostrosť 175 · 16s">&#10003; OK</span><span class="meta">2026-07-23 · 15.8 MB</span></div>
       <h4>Lose 30 Pounds in 3 Months</h4>
       <div class="cap">Discover how discipline and consistency led to a remarkable 30-pound weight loss in just three months. Follow for more inspiring journeys!<span class="tags">#shorts #fyp #weightloss #transformation #fitnessjourney #discipline #consistency #motivation</span></div>
       <div class="row">
@@ -276,7 +286,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#ffb03a">
-      <div class="top"><span class="eyebrow">2026-07-21</span><span class="meta">18.6 MB · 9:16</span></div>
+      <div class="top"><span class="eye star" title="jas 68 · ostrosť 407 · 18s">&#9733; Silný vizuál</span><span class="meta">2026-07-21 · 18.6 MB</span></div>
       <h4>You Don&#x27;t Need to Explain Yourself</h4>
       <div class="cap">Your choices belong to you, not others. By focusing on your goals, you fuel your discipline and creativity. Follow for more empowering insights!<span class="tags">#empowerment #mindset #selfdiscovery #discipline #creativity #shorts #fyp</span></div>
       <div class="row">
@@ -287,7 +297,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#ffb03a">
-      <div class="top"><span class="eyebrow">2026-07-21</span><span class="meta">21.1 MB · 9:16</span></div>
+      <div class="top"><span class="eye star" title="jas 91 · ostrosť 235 · 21s">&#9733; Silný vizuál</span><span class="meta">2026-07-21 · 21.1 MB</span></div>
       <h4>Restarting Is Not Failure</h4>
       <div class="cap">Restarting is a powerful chance to refine your journey, not a sign of failure. Small steps lead to big changes. Follow for courage to restart!<span class="tags">#resilience #restart #mindset #selfimprovement #motivation #shorts #fyp</span></div>
       <div class="row">
@@ -298,7 +308,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#ffb03a">
-      <div class="top"><span class="eyebrow">2026-07-20</span><span class="meta">18.2 MB · 9:16</span></div>
+      <div class="top"><span class="eye ok" title="jas 74 · ostrosť 166 · 19s">&#10003; OK</span><span class="meta">2026-07-20 · 18.2 MB</span></div>
       <h4>Why Tiny Promises Matter</h4>
       <div class="cap">Tiny promises can dramatically shift your self-perception. Follow for daily discipline insights!<span class="tags">#selfdiscipline #mindset #habits #selfimprovement #stoicism #motivation #shorts</span></div>
       <div class="row">
@@ -309,7 +319,7 @@ footer{color:var(--mut2);font-size:12.5px;text-align:center;border-top:1px solid
       </div>
     </article>
     <article class="card" style="--acc:#ffb03a">
-      <div class="top"><span class="eyebrow">2026-07-20</span><span class="meta">16.8 MB · 9:16</span></div>
+      <div class="top"><span class="eye star" title="jas 76 · ostrosť 321 · 16s">&#9733; Silný vizuál</span><span class="meta">2026-07-20 · 16.8 MB</span></div>
       <h4>Why Choosing Difficulties Leads to Growth</h4>
       <div class="cap">Choose the difficult path; discomfort leads to strength. Follow for insights on embracing challenges!<span class="tags">#growth #discipline #resilience #stoicism #success #motivation #shorts #fyp</span></div>
       <div class="row">
