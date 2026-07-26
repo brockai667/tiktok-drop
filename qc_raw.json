@@ -1,123 +1,223 @@
 [
  {
-  "dur": 20,
-  "b_avg": 30,
-  "b_min": 15,
-  "s_avg": 101,
-  "s_min": 15,
-  "title": "Unmasking the Case of the Zodiac Kil",
-  "repo": "coldcasedaily667",
-  "file": "unmasking_the_case_of_the_zodiac_killer.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 58,
-  "b_min": 26,
-  "s_avg": 263,
-  "s_min": 105,
-  "title": "The Infamous Burglary of the Isabell",
-  "repo": "coldcasedaily667",
-  "file": "the_infamous_burglary_of_the_isabella_stewart_gard.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 55,
-  "b_min": 21,
-  "s_avg": 148,
-  "s_min": 40,
-  "title": "The Great Train Robbery That Shook t",
-  "repo": "coldcasedaily667",
-  "file": "the_great_train_robbery_that_shook_the_nation.mp4"
- },
- {
-  "dur": 26,
-  "b_avg": 49,
-  "b_min": 8,
-  "s_avg": 174,
-  "s_min": 51,
-  "title": "The Mysterious Vanishing of Flight M",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_vanishing_of_flight_mh370.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 35,
-  "b_min": 13,
-  "s_avg": 128,
-  "s_min": 26,
-  "title": "The Mom Who Disappeared Into Thin Ai",
-  "repo": "coldcasedaily667",
-  "file": "the_mom_who_disappeared_into_thin_air.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 50,
-  "b_min": 24,
-  "s_avg": 127,
-  "s_min": 12,
-  "title": "The Heist That Vanished Without a Tr",
-  "repo": "coldcasedaily667",
-  "file": "the_heist_that_vanished_without_a_trace.mp4"
- },
- {
-  "dur": 23,
-  "b_avg": 40,
-  "b_min": 16,
-  "s_avg": 193,
-  "s_min": 69,
-  "title": "The Voynich Manuscript: The Most Mys",
-  "repo": "UnexplainedDaily",
-  "file": "the_voynich_manuscript_the_most_mysterious_book.mp4"
- },
- {
-  "dur": 26,
-  "b_avg": 55,
-  "b_min": 18,
-  "s_avg": 182,
-  "s_min": 110,
-  "title": "The Nazca Lines: Messages from the A",
-  "repo": "UnexplainedDaily",
-  "file": "the_nazca_lines_messages_from_the_ancients.mp4"
- },
- {
   "dur": 25,
-  "b_avg": 71,
+  "b_avg": 49,
   "b_min": 20,
-  "s_avg": 744,
-  "s_min": 189,
-  "title": "The Great Pyramids: How Were They Bu",
-  "repo": "UnexplainedDaily",
-  "file": "the_great_pyramids_how_were_they_built.mp4"
+  "s_avg": 138,
+  "s_min": 28,
+  "title": "The Unsolved Mystery of the Zodiac K",
+  "repo": "coldcasedaily667",
+  "file": "the_unsolved_mystery_of_the_zodiac_killer.mp4"
  },
  {
-  "dur": 24,
-  "b_avg": 28,
-  "b_min": 1,
-  "s_avg": 205,
-  "s_min": 47,
-  "title": "Unsolved Anomalies: The Great Silenc",
-  "repo": "UnexplainedDaily",
-  "file": "unsolved_anomalies_the_great_silence.mp4"
+  "dur": 12,
+  "b_avg": 70,
+  "b_min": 24,
+  "s_avg": 218,
+  "s_min": 137,
+  "title": "The Strange Case of the Zodiac Ciphe",
+  "repo": "coldcasedaily667",
+  "file": "the_strange_case_of_the_zodiac_cipher.mp4"
  },
  {
   "dur": 16,
-  "b_avg": 25,
-  "b_min": 11,
-  "s_avg": 123,
-  "s_min": 32,
-  "title": "The Enigma of the Baghdad Battery",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigma_of_the_baghdad_battery.mp4"
+  "b_avg": 22,
+  "b_min": 12,
+  "s_avg": 163,
+  "s_min": 40,
+  "title": "The Enigma of the Zodiac: Ciphers an",
+  "repo": "coldcasedaily667",
+  "file": "the_enigma_of_the_zodiac_ciphers_and_codes_unravel.mp4"
  },
  {
-  "dur": 32,
-  "b_avg": 51,
-  "b_min": 28,
-  "s_avg": 449,
-  "s_min": 105,
-  "title": "The Mysterious Count Who Refused to ",
+  "dur": 26,
+  "b_avg": 30,
+  "b_min": 5,
+  "s_avg": 151,
+  "s_min": 14,
+  "title": "The Vanishing of the Hope Diamond",
+  "repo": "coldcasedaily667",
+  "file": "the_vanishing_of_the_hope_diamond.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 42,
+  "b_min": 33,
+  "s_avg": 179,
+  "s_min": 84,
+  "title": "The Mysterious Heist of the Century",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_heist_of_the_century.mp4"
+ },
+ {
+  "dur": 27,
+  "b_avg": 41,
+  "b_min": 17,
+  "s_avg": 180,
+  "s_min": 79,
+  "title": "The Bank Heist That Shocked America",
+  "repo": "coldcasedaily667",
+  "file": "the_bank_heist_that_shocked_america.mp4"
+ },
+ {
+  "dur": 17,
+  "b_avg": 44,
+  "b_min": 30,
+  "s_avg": 193,
+  "s_min": 116,
+  "title": "The Mystery of the Black Dahlia: Wha",
+  "repo": "coldcasedaily667",
+  "file": "the_mystery_of_the_black_dahlia_what_happened_to_e.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 32,
+  "b_min": 13,
+  "s_avg": 183,
+  "s_min": 23,
+  "title": "The Heist That Changed Everything: T",
+  "repo": "coldcasedaily667",
+  "file": "the_heist_that_changed_everything_the_banco_centra.mp4"
+ },
+ {
+  "dur": 15,
+  "b_avg": 43,
+  "b_min": 10,
+  "s_avg": 309,
+  "s_min": 55,
+  "title": "What Lies Beyond The Nazca Lines?",
   "repo": "UnexplainedDaily",
-  "file": "the_mysterious_count_who_refused_to_die.mp4"
+  "file": "what_lies_beyond_the_nazca_lines.mp4"
+ },
+ {
+  "dur": 24,
+  "b_avg": 62,
+  "b_min": 46,
+  "s_avg": 391,
+  "s_min": 95,
+  "title": "The Unexplainable Nazca Lines",
+  "repo": "UnexplainedDaily",
+  "file": "the_unexplainable_nazca_lines.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 49,
+  "b_min": 6,
+  "s_avg": 629,
+  "s_min": 187,
+  "title": "The Puzzling Nazca Lines",
+  "repo": "UnexplainedDaily",
+  "file": "the_puzzling_nazca_lines.mp4"
+ },
+ {
+  "dur": 14,
+  "b_avg": 47,
+  "b_min": 15,
+  "s_avg": 628,
+  "s_min": 84,
+  "title": "The Nazca Lines: Messages from Ancie",
+  "repo": "UnexplainedDaily",
+  "file": "the_nazca_lines_messages_from_ancient_cultures.mp4"
+ },
+ {
+  "dur": 24,
+  "b_avg": 61,
+  "b_min": 45,
+  "s_avg": 531,
+  "s_min": 175,
+  "title": "Lost Signals From the Ancient Past",
+  "repo": "UnexplainedDaily",
+  "file": "lost_signals_from_the_ancient_past.mp4"
+ },
+ {
+  "dur": 14,
+  "b_avg": 34,
+  "b_min": 6,
+  "s_avg": 951,
+  "s_min": 64,
+  "title": "Is There a Lost City Under Mexico?",
+  "repo": "UnexplainedDaily",
+  "file": "is_there_a_lost_city_under_mexico.mp4"
+ },
+ {
+  "dur": 15,
+  "b_avg": 61,
+  "b_min": 15,
+  "s_avg": 361,
+  "s_min": 67,
+  "title": "The Secret of the Antikythera Mechan",
+  "repo": "UnexplainedDaily",
+  "file": "the_secret_of_the_antikythera_mechanism.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 44,
+  "b_min": 14,
+  "s_avg": 155,
+  "s_min": 25,
+  "title": "The Mystery of the Bermuda Triangle",
+  "repo": "UnexplainedDaily",
+  "file": "the_mystery_of_the_bermuda_triangle.mp4"
+ },
+ {
+  "dur": 12,
+  "b_avg": 92,
+  "b_min": 42,
+  "s_avg": 160,
+  "s_min": 112,
+  "title": "Transform Your Life: 120 Days to Pro",
+  "repo": "MotivationFactory",
+  "file": "transform_your_life_120_days_to_progress.mp4"
+ },
+ {
+  "dur": 10,
+  "b_avg": 108,
+  "b_min": 80,
+  "s_avg": 156,
+  "s_min": 32,
+  "title": "From Zero to Hero: 30 Days of Mindfu",
+  "repo": "MotivationFactory",
+  "file": "from_zero_to_hero_30_days_of_mindfulness.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 87,
+  "b_min": 61,
+  "s_avg": 189,
+  "s_min": 82,
+  "title": "Transforming Your Sleep Habits",
+  "repo": "MotivationFactory",
+  "file": "transforming_your_sleep_habits.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 32,
+  "b_min": 6,
+  "s_avg": 218,
+  "s_min": 61,
+  "title": "One Habit Changed My Career",
+  "repo": "MotivationFactory",
+  "file": "one_habit_changed_my_career.mp4"
+ },
+ {
+  "dur": 17,
+  "b_avg": 53,
+  "b_min": 14,
+  "s_avg": 253,
+  "s_min": 79,
+  "title": "The Fitness Habit that Works",
+  "repo": "MotivationFactory",
+  "file": "the_fitness_habit_that_works.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 108,
+  "b_min": 53,
+  "s_avg": 213,
+  "s_min": 38,
+  "title": "Mastering Time Management",
+  "repo": "MotivationFactory",
+  "file": "mastering_time_management.mp4"
  },
  {
   "dur": 14,
@@ -138,45 +238,5 @@
   "title": "Lose 30 Pounds in 3 Months",
   "repo": "MotivationFactory",
   "file": "lose_30_pounds_in_3_months.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 68,
-  "b_min": 13,
-  "s_avg": 407,
-  "s_min": 115,
-  "title": "You Don't Need to Explain Yourself",
-  "repo": "MotivationFactory",
-  "file": "you_don_t_need_to_explain_yourself.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 91,
-  "b_min": 63,
-  "s_avg": 235,
-  "s_min": 78,
-  "title": "Restarting Is Not Failure",
-  "repo": "MotivationFactory",
-  "file": "restarting_is_not_failure.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 74,
-  "b_min": 53,
-  "s_avg": 166,
-  "s_min": 33,
-  "title": "Why Tiny Promises Matter",
-  "repo": "MotivationFactory",
-  "file": "why_tiny_promises_matter.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 76,
-  "b_min": 40,
-  "s_avg": 321,
-  "s_min": 35,
-  "title": "Why Choosing Difficulties Leads to G",
-  "repo": "MotivationFactory",
-  "file": "why_choosing_difficulties_leads_to_growth.mp4"
  }
 ]

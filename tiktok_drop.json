@@ -14,106 +14,136 @@
     ],
     "videos": [
       {
-        "title": "Unmasking the Case of the Zodiac Killer",
-        "file": "unmasking_the_case_of_the_zodiac_killer.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/unmasking_the_case_of_the_zodiac_killer.mp4",
-        "size_mb": 21.9,
-        "desc": "The Zodiac Killer remains one of America's most infamous unsolved cases. With five known victims and a history of taunting police, this mystery captivates true crime enthusiasts. Stay tuned.",
+        "title": "The Unsolved Mystery of the Zodiac Killer",
+        "file": "the_unsolved_mystery_of_the_zodiac_killer.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_unsolved_mystery_of_the_zodiac_killer.mp4",
+        "size_mb": 25.1,
+        "desc": "The Zodiac Killer terrifies San Francisco in the late 1960s, leaving behind a legacy of unanswered questions. Can we still find him? #shorts #truecrime #coldcase #ZodiacKiller #mystery #fyp",
+        "hashtags": [
+          "#truecrime",
+          "#unsolved",
+          "#ZodiacKiller",
+          "#coldcase",
+          "#mystery",
+          "#shorts"
+        ],
+        "created": "2026-07-26"
+      },
+      {
+        "title": "The Strange Case of the Zodiac Cipher",
+        "file": "the_strange_case_of_the_zodiac_cipher.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_strange_case_of_the_zodiac_cipher.mp4",
+        "size_mb": 12.6,
+        "desc": "The Zodiac Killer left behind ciphers, many of which remain unsolved after decades. Explore this enigmatic case that continues to haunt investigators. Follow for more intriguing stories.",
         "hashtags": [
           "#ZodiacKiller",
           "#TrueCrime",
-          "#Unsolved",
           "#Mystery",
-          "#SanFrancisco",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-07-23"
-      },
-      {
-        "title": "The Infamous Burglary of the Isabella Stewart Gardner Museum",
-        "file": "the_infamous_burglary_of_the_isabella_stewart_gard.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_infamous_burglary_of_the_isabella_stewart_gard.mp4",
-        "size_mb": 21.7,
-        "desc": "The Isabella Stewart Gardner Museum heist stands as one of the most infamous thefts in art history, with $500 million worth of masterpieces lost to time. Join us for more true crime tales.",
-        "hashtags": [
-          "#ArtHeist",
-          "#TrueCrime",
           "#Unsolved",
-          "#MuseumMystery",
-          "#Boston",
+          "#Shorts",
+          "#FYP"
+        ],
+        "created": "2026-07-26"
+      },
+      {
+        "title": "The Enigma of the Zodiac: Ciphers and Codes Unraveled",
+        "file": "the_enigma_of_the_zodiac_ciphers_and_codes_unravel.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_enigma_of_the_zodiac_ciphers_and_codes_unravel.mp4",
+        "size_mb": 15.8,
+        "desc": "The Zodiac Killer left behind ciphers that captivated investigators for decades. With new breakthroughs potentially unraveling the mystery, the truth is inching closer. Follow for updates!",
+        "hashtags": [
+          "#ZodiacKiller",
+          "#ciphers",
+          "#mystery",
+          "#unsolved",
+          "#truecrime",
           "#shorts",
           "#fyp"
         ],
-        "created": "2026-07-23"
+        "created": "2026-07-26"
       },
       {
-        "title": "The Great Train Robbery That Shook the Nation",
-        "file": "the_great_train_robbery_that_shook_the_nation.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_great_train_robbery_that_shook_the_nation.mp4",
-        "size_mb": 20.1,
-        "desc": "The Great Train Robbery of 1963 became legendary, with £2.6 million stolen through a cunning plot. Discover more about notorious heists as we delve into the world of true crime.",
+        "title": "The Vanishing of the Hope Diamond",
+        "file": "the_vanishing_of_the_hope_diamond.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_vanishing_of_the_hope_diamond.mp4",
+        "size_mb": 26.7,
+        "desc": "The Hope Diamond's mysterious disappearance in 1958 raised many questions and suspicions. Explore its legendary allure and the case that remains unsolved! #shorts #truecrime #heist #mystery #unsolved #fyp",
         "hashtags": [
-          "#TrainRobbery",
+          "#truecrime",
+          "#diamondmystery",
+          "#heist",
+          "#unsolved",
+          "#mystery",
+          "#shorts"
+        ],
+        "created": "2026-07-25"
+      },
+      {
+        "title": "The Mysterious Heist of the Century",
+        "file": "the_mysterious_heist_of_the_century.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_mysterious_heist_of_the_century.mp4",
+        "size_mb": 23.2,
+        "desc": "Explore the details of a heist where masterpieces vanished without a trace. Don't miss our other captivating stories.",
+        "hashtags": [
+          "#truecrime",
+          "#arttheft",
+          "#mystery",
+          "#shorts",
+          "#fyp",
+          "#heist"
+        ],
+        "created": "2026-07-25"
+      },
+      {
+        "title": "The Bank Heist That Shocked America",
+        "file": "the_bank_heist_that_shocked_america.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_bank_heist_that_shocked_america.mp4",
+        "size_mb": 29.1,
+        "desc": "In 1997, a dramatic bank heist in North Hollywood unfolded into one of the longest gun battles in U.S. history. Discover what happened next! #shorts #truecrime #heist #bankrobbery #unsolvedmysteries #fyp",
+        "hashtags": [
+          "#truecrime",
+          "#heist",
+          "#bankrobbery",
+          "#mystery",
+          "#unsolved",
+          "#shorts"
+        ],
+        "created": "2026-07-25"
+      },
+      {
+        "title": "The Mystery of the Black Dahlia: What Happened to Elizabeth Short?",
+        "file": "the_mystery_of_the_black_dahlia_what_happened_to_e.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_mystery_of_the_black_dahlia_what_happened_to_e.mp4",
+        "size_mb": 17.7,
+        "desc": "The mystery surrounding Elizabeth Short and her tragic fate continues to captivate the public. Explore the details of this iconic unsolved case in today's deep dive.",
+        "hashtags": [
+          "#BlackDahlia",
           "#TrueCrime",
-          "#LegendaryHeists",
-          "#Unsolved",
-          "#History",
+          "#UnsolvedMystery",
+          "#LosAngeles",
+          "#CrimeDocumentary",
           "#shorts",
           "#fyp"
         ],
-        "created": "2026-07-23"
+        "created": "2026-07-24"
       },
       {
-        "title": "The Mysterious Vanishing of Flight MH370",
-        "file": "the_mysterious_vanishing_of_flight_mh370.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_mysterious_vanishing_of_flight_mh370.mp4",
-        "size_mb": 28.4,
-        "desc": "The disappearance of Flight MH370 is one of the most significant unsolved aviation mysteries in history, leaving 239 people unaccounted for. Stay tuned for more captivating true crime stories.",
+        "title": "The Heist That Changed Everything: The Banco Central Robbery",
+        "file": "the_heist_that_changed_everything_the_banco_centra.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_heist_that_changed_everything_the_banco_centra.mp4",
+        "size_mb": 19.0,
+        "desc": "In what was one of the biggest bank robberies in history, thieves executed a meticulous plan that resulted in the theft of millions. Don't miss out on more incredible stories!",
         "hashtags": [
-          "#FlightMH370",
-          "#AviationMystery",
           "#TrueCrime",
-          "#Unsolved",
-          "#AirlineMystery",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-07-23"
-      },
-      {
-        "title": "The Mom Who Disappeared Into Thin Air",
-        "file": "the_mom_who_disappeared_into_thin_air.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_mom_who_disappeared_into_thin_air.mp4",
-        "size_mb": 21.5,
-        "desc": "The chilling case of Sheila's disappearance in 1985 continues to haunt Cincinnati. Investigators still hope to uncover the truth behind her sudden vanishing. Keep following for more true crime mysteries.",
-        "hashtags": [
-          "#MissingPerson",
-          "#TrueCrime",
-          "#Unsolved",
-          "#Mystery",
-          "#Cincinnati",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-07-23"
-      },
-      {
-        "title": "The Heist That Vanished Without a Trace",
-        "file": "the_heist_that_vanished_without_a_trace.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_heist_that_vanished_without_a_trace.mp4",
-        "size_mb": 19.9,
-        "desc": "In 2005, a heist at Brussels Airport made headlines with a staggering €100 million in stolen diamonds, but the culprits vanished without a trace. Join us for more gripping crime stories.",
-        "hashtags": [
           "#Heist",
-          "#TrueCrime",
-          "#Mystery",
-          "#Unsolved",
-          "#CrimeStory",
-          "#shorts",
-          "#fyp"
+          "#BancoCentral",
+          "#Shorts",
+          "#FamousCases",
+          "#Brazil",
+          "#CrimeHistory",
+          "#Mystery"
         ],
-        "created": "2026-07-23"
+        "created": "2026-07-24"
       }
     ]
   },
@@ -132,103 +162,140 @@
     ],
     "videos": [
       {
-        "title": "The Voynich Manuscript: The Most Mysterious Book?",
-        "file": "the_voynich_manuscript_the_most_mysterious_book.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_voynich_manuscript_the_most_mysterious_book.mp4",
-        "size_mb": 25.0,
-        "desc": "The Voynich Manuscript continues to baffle scholars and enthusiasts alike. Explore its mysteries with us as we dig into its origins and meanings!",
-        "hashtags": [
-          "#VoynichManuscript",
-          "#MysteriousBooks",
-          "#History",
-          "#Unsolved",
-          "#Shorts",
-          "#FYP"
-        ],
-        "created": "2026-07-22"
-      },
-      {
-        "title": "The Nazca Lines: Messages from the Ancients?",
-        "file": "the_nazca_lines_messages_from_the_ancients.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_nazca_lines_messages_from_the_ancients.mp4",
-        "size_mb": 27.9,
-        "desc": "The Nazca Lines have puzzled historians for decades, igniting theories of communication, worship, and observation. Dive deeper into their enigma!",
+        "title": "What Lies Beyond The Nazca Lines?",
+        "file": "what_lies_beyond_the_nazca_lines.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/what_lies_beyond_the_nazca_lines.mp4",
+        "size_mb": 16.5,
+        "desc": "The Nazca Lines have fascinated researchers for decades with their enormous geoglyphs etched into the Peruvian desert. Despite various theories, their purpose remains a mystery. Stay curious and follow for more!",
         "hashtags": [
           "#NazcaLines",
-          "#Geoglyphs",
-          "#AncientCivilizations",
-          "#Mystery",
-          "#Shorts",
-          "#FYP"
-        ],
-        "created": "2026-07-22"
-      },
-      {
-        "title": "The Great Pyramids: How Were They Built?",
-        "file": "the_great_pyramids_how_were_they_built.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_great_pyramids_how_were_they_built.mp4",
-        "size_mb": 27.0,
-        "desc": "The Great Pyramids of Giza stand as monumental achievements of ancient architecture. Explore how they were constructed amidst ongoing debates.",
-        "hashtags": [
-          "#GreatPyramids",
-          "#AncientEgypt",
+          "#AncientMysteries",
+          "#Archaeology",
           "#History",
+          "#Peru",
+          "#shorts",
+          "#fyp"
+        ],
+        "created": "2026-07-26"
+      },
+      {
+        "title": "The Unexplainable Nazca Lines",
+        "file": "the_unexplainable_nazca_lines.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_unexplainable_nazca_lines.mp4",
+        "size_mb": 25.8,
+        "desc": "The Nazca Lines are one of the most intriguing mysteries of ancient civilization, with their purpose remaining elusive. Follow for more fascinating tales!",
+        "hashtags": [
+          "#NazcaLines",
+          "#AncientMysteries",
+          "#Geoglyphs",
+          "#Peru",
+          "#shorts",
+          "#fyp"
+        ],
+        "created": "2026-07-26"
+      },
+      {
+        "title": "The Puzzling Nazca Lines",
+        "file": "the_puzzling_nazca_lines.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_puzzling_nazca_lines.mp4",
+        "size_mb": 21.4,
+        "desc": "The Nazca Lines are a marvel of ancient engineering, yet their purpose remains a mystery. Could they have celestial connections? Join us to explore this ancient wonder! #shorts #NazcaLines #ancienthistory #geoglyphs #fyp",
+        "hashtags": [
+          "#shorts",
+          "#NazcaLines",
+          "#ancienthistory",
+          "#geoglyphs",
+          "#mystery",
+          "#fyp"
+        ],
+        "created": "2026-07-26"
+      },
+      {
+        "title": "The Nazca Lines: Messages from Ancient Cultures?",
+        "file": "the_nazca_lines_messages_from_ancient_cultures.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_nazca_lines_messages_from_ancient_cultures.mp4",
+        "size_mb": 15.4,
+        "desc": "The Nazca Lines, often thought to be connected to aliens, were likely a product of ancient human artistry and spirituality. Discover more about these fascinating creations and follow for more historic insights!",
+        "hashtags": [
+          "#NazcaLines",
+          "#Archaeology",
+          "#AncientMysteries",
+          "#shorts",
+          "#fyp",
+          "#Peru",
+          "#Geoglyphs",
+          "#History",
+          "#AncientCultures"
+        ],
+        "created": "2026-07-25"
+      },
+      {
+        "title": "Lost Signals From the Ancient Past",
+        "file": "lost_signals_from_the_ancient_past.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/lost_signals_from_the_ancient_past.mp4",
+        "size_mb": 25.6,
+        "desc": "The enigmatic site of Mohenjo-Daro holds signals from an ancient past that may tell us about a lost civilization. Stay tuned for more mysteries!",
+        "hashtags": [
+          "#MohenjoDaro",
+          "#AncientCivilizations",
+          "#Archaeology",
+          "#HistoryMysteries",
+          "#shorts",
+          "#fyp"
+        ],
+        "created": "2026-07-25"
+      },
+      {
+        "title": "Is There a Lost City Under Mexico?",
+        "file": "is_there_a_lost_city_under_mexico.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/is_there_a_lost_city_under_mexico.mp4",
+        "size_mb": 14.6,
+        "desc": "Chichen Itza is famed for its splendor, but legends whisper of hidden cities. What's the truth behind these ancient myths? Follow for more explorations!",
+        "hashtags": [
+          "#ChichenItza",
+          "#LostCity",
           "#Mysteries",
-          "#Shorts",
-          "#FYP"
-        ],
-        "created": "2026-07-22"
-      },
-      {
-        "title": "Unsolved Anomalies: The Great Silence",
-        "file": "unsolved_anomalies_the_great_silence.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/unsolved_anomalies_the_great_silence.mp4",
-        "size_mb": 26.4,
-        "desc": "📍 N/A, N/A - Unknown. An entire region of space dubbed 'The Great Silence' has yielded no detectable signals, posing profound questions about cosmic existence. Follow for daily mysteries!",
-        "hashtags": [
-          "#mystery",
-          "#unexplained",
-          "#spaceanomalies",
-          "#thegreatsilence",
-          "#universe",
+          "#Archaeology",
+          "#AncientRuins",
           "#shorts",
           "#fyp"
         ],
-        "created": "2026-07-21"
+        "created": "2026-07-25"
       },
       {
-        "title": "The Enigma of the Baghdad Battery",
-        "file": "the_enigma_of_the_baghdad_battery.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_enigma_of_the_baghdad_battery.mp4",
-        "size_mb": 18.1,
-        "desc": "The Baghdad Battery is a fascinating artifact that might have generated electricity. What could this mean for our understanding of ancient technology? Follow for more mysteries!",
+        "title": "The Secret of the Antikythera Mechanism",
+        "file": "the_secret_of_the_antikythera_mechanism.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_secret_of_the_antikythera_mechanism.mp4",
+        "size_mb": 15.6,
+        "desc": "The Antikythera Mechanism is often misunderstood as a simple astrological tool, but its true purpose as an astronomical calculator reveals an advanced level of ancient technology. Dive deeper into this historical enigma and follow for more!",
         "hashtags": [
-          "#ancient",
-          "#technology",
-          "#Baghdad",
-          "#history",
+          "#AntikytheraMechanism",
+          "#AncientHistory",
+          "#Mystery",
+          "#shorts",
+          "#fyp",
+          "#Astronomy",
+          "#AncientTech",
+          "#Greece",
+          "#Artifacts"
+        ],
+        "created": "2026-07-24"
+      },
+      {
+        "title": "The Mystery of the Bermuda Triangle",
+        "file": "the_mystery_of_the_bermuda_triangle.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_mystery_of_the_bermuda_triangle.mp4",
+        "size_mb": 17.7,
+        "desc": "The Bermuda Triangle remains one of the world's greatest enigmas, with over 1,000 disappearances. While theories abound, none can fully explain the mystery! Follow for more fascinating stories.",
+        "hashtags": [
+          "#BermudaTriangle",
           "#mystery",
+          "#disappearances",
+          "#oceanmysteries",
           "#shorts",
           "#fyp"
         ],
-        "created": "2026-07-21"
-      },
-      {
-        "title": "The Mysterious Count Who Refused to Die",
-        "file": "the_mysterious_count_who_refused_to_die.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_mysterious_count_who_refused_to_die.mp4",
-        "size_mb": 32.4,
-        "desc": "📍 Various, Europe - 18th Century. The Count of Saint Germain claimed to be over 500 years old, weaving a tale of mystery throughout Europe. Follow for daily mysteries!",
-        "hashtags": [
-          "#mystery",
-          "#unexplained",
-          "#history",
-          "#SaintGermain",
-          "#alchemy",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-07-20"
+        "created": "2026-07-24"
       }
     ]
   },
@@ -246,6 +313,110 @@
       "#selfimprovement"
     ],
     "videos": [
+      {
+        "title": "Transform Your Life: 120 Days to Progress",
+        "file": "transform_your_life_120_days_to_progress.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/transform_your_life_120_days_to_progress.mp4",
+        "size_mb": 12.4,
+        "desc": "Are you ready to lose weight and transform your life in just 120 days? Follow for daily tips! ",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#weightloss",
+          "#discipline",
+          "#transformation",
+          "#motivation"
+        ],
+        "created": "2026-07-26"
+      },
+      {
+        "title": "From Zero to Hero: 30 Days of Mindfulness",
+        "file": "from_zero_to_hero_30_days_of_mindfulness.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/from_zero_to_hero_30_days_of_mindfulness.mp4",
+        "size_mb": 10.0,
+        "desc": "Join the 30-day mindfulness challenge to improve your focus and reduce anxiety! Follow for daily inspiration!",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#mindfulness",
+          "#selfimprovement",
+          "#anxietyrelief",
+          "#mentalhealth"
+        ],
+        "created": "2026-07-26"
+      },
+      {
+        "title": "Transforming Your Sleep Habits",
+        "file": "transforming_your_sleep_habits.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/transforming_your_sleep_habits.mp4",
+        "size_mb": 14.6,
+        "desc": "Explore how transforming sleep habits can dramatically improve focus and performance, highlighting the role of discipline in achieving it. Follow for tips!",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#sleep",
+          "#health",
+          "#selfimprovement",
+          "#discipline",
+          "#focus",
+          "#wellness"
+        ],
+        "created": "2026-07-25"
+      },
+      {
+        "title": "One Habit Changed My Career",
+        "file": "one_habit_changed_my_career.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/one_habit_changed_my_career.mp4",
+        "size_mb": 16.4,
+        "desc": "Learn how one habit can boost your career success through networking and professional growth, showcasing the impact of discipline. Follow for insights!",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#career",
+          "#networking",
+          "#selfimprovement",
+          "#discipline",
+          "#professionaldevelopment",
+          "#success"
+        ],
+        "created": "2026-07-25"
+      },
+      {
+        "title": "The Fitness Habit that Works",
+        "file": "the_fitness_habit_that_works.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/the_fitness_habit_that_works.mp4",
+        "size_mb": 17.0,
+        "desc": "Learn about the fitness habit that enhances consistency and results, proving that discipline leads to success. Follow for more insights!",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#fitness",
+          "#discipline",
+          "#healthylifestyle",
+          "#workout",
+          "#musclebuilding",
+          "#motivation"
+        ],
+        "created": "2026-07-24"
+      },
+      {
+        "title": "Mastering Time Management",
+        "file": "mastering_time_management.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/mastering_time_management.mp4",
+        "size_mb": 16.6,
+        "desc": "Discover how mastering time management leads to significant productivity gains and reduced stress, demonstrating the power of discipline. Follow for tips!",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#timemanagement",
+          "#discipline",
+          "#productivity",
+          "#stressrelief",
+          "#selfimprovement",
+          "#growth"
+        ],
+        "created": "2026-07-24"
+      },
       {
         "title": "The Secret Behind Daily Writing",
         "file": "the_secret_behind_daily_writing.mp4",
@@ -281,75 +452,6 @@
           "#motivation"
         ],
         "created": "2026-07-23"
-      },
-      {
-        "title": "You Don't Need to Explain Yourself",
-        "file": "you_don_t_need_to_explain_yourself.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/you_don_t_need_to_explain_yourself.mp4",
-        "size_mb": 18.6,
-        "desc": "Your choices belong to you, not others. By focusing on your goals, you fuel your discipline and creativity. Follow for more empowering insights!",
-        "hashtags": [
-          "#empowerment",
-          "#mindset",
-          "#selfdiscovery",
-          "#discipline",
-          "#creativity",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-07-21"
-      },
-      {
-        "title": "Restarting Is Not Failure",
-        "file": "restarting_is_not_failure.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/restarting_is_not_failure.mp4",
-        "size_mb": 21.1,
-        "desc": "Restarting is a powerful chance to refine your journey, not a sign of failure. Small steps lead to big changes. Follow for courage to restart!",
-        "hashtags": [
-          "#resilience",
-          "#restart",
-          "#mindset",
-          "#selfimprovement",
-          "#motivation",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-07-21"
-      },
-      {
-        "title": "Why Tiny Promises Matter",
-        "file": "why_tiny_promises_matter.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/why_tiny_promises_matter.mp4",
-        "size_mb": 18.2,
-        "desc": "Tiny promises can dramatically shift your self-perception. Follow for daily discipline insights!",
-        "hashtags": [
-          "#selfdiscipline",
-          "#mindset",
-          "#habits",
-          "#selfimprovement",
-          "#stoicism",
-          "#motivation",
-          "#shorts"
-        ],
-        "created": "2026-07-20"
-      },
-      {
-        "title": "Why Choosing Difficulties Leads to Growth",
-        "file": "why_choosing_difficulties_leads_to_growth.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/why_choosing_difficulties_leads_to_growth.mp4",
-        "size_mb": 16.8,
-        "desc": "Choose the difficult path; discomfort leads to strength. Follow for insights on embracing challenges!",
-        "hashtags": [
-          "#growth",
-          "#discipline",
-          "#resilience",
-          "#stoicism",
-          "#success",
-          "#motivation",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-07-20"
       }
     ]
   }
