@@ -1,5 +1,35 @@
 [
  {
+  "dur": 18,
+  "b_avg": 62,
+  "b_min": 35,
+  "s_avg": 188,
+  "s_min": 98,
+  "title": "The Vanishing of the Sodder Children",
+  "repo": "coldcasedaily667",
+  "file": "the_vanishing_of_the_sodder_children_a_family_myst.mp4"
+ },
+ {
+  "dur": 13,
+  "b_avg": 43,
+  "b_min": 19,
+  "s_avg": 230,
+  "s_min": 54,
+  "title": "The Great Museum Heist: Art Stolen",
+  "repo": "coldcasedaily667",
+  "file": "the_great_museum_heist_art_stolen.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 49,
+  "b_min": 33,
+  "s_avg": 139,
+  "s_min": 64,
+  "title": "The Enigma of the Mary Celeste: Ghos",
+  "repo": "coldcasedaily667",
+  "file": "the_enigma_of_the_mary_celeste_ghost_ship_or_myste.mp4"
+ },
+ {
   "dur": 25,
   "b_avg": 49,
   "b_min": 20,
@@ -50,34 +80,34 @@
   "file": "the_mysterious_heist_of_the_century.mp4"
  },
  {
-  "dur": 27,
-  "b_avg": 41,
-  "b_min": 17,
-  "s_avg": 180,
-  "s_min": 79,
-  "title": "The Bank Heist That Shocked America",
-  "repo": "coldcasedaily667",
-  "file": "the_bank_heist_that_shocked_america.mp4"
- },
- {
   "dur": 17,
-  "b_avg": 44,
-  "b_min": 30,
-  "s_avg": 193,
-  "s_min": 116,
-  "title": "The Mystery of the Black Dahlia: Wha",
-  "repo": "coldcasedaily667",
-  "file": "the_mystery_of_the_black_dahlia_what_happened_to_e.mp4"
+  "b_avg": 45,
+  "b_min": 11,
+  "s_avg": 238,
+  "s_min": 11,
+  "title": "The Shocking Truth of the Antikyther",
+  "repo": "UnexplainedDaily",
+  "file": "the_shocking_truth_of_the_antikythera_device.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 32,
-  "b_min": 13,
-  "s_avg": 183,
-  "s_min": 23,
-  "title": "The Heist That Changed Everything: T",
-  "repo": "coldcasedaily667",
-  "file": "the_heist_that_changed_everything_the_banco_centra.mp4"
+  "dur": 20,
+  "b_avg": 30,
+  "b_min": 6,
+  "s_avg": 186,
+  "s_min": 54,
+  "title": "The Mystery of the Voynich Manuscrip",
+  "repo": "UnexplainedDaily",
+  "file": "the_mystery_of_the_voynich_manuscript.mp4"
+ },
+ {
+  "dur": 14,
+  "b_avg": 33,
+  "b_min": 14,
+  "s_avg": 516,
+  "s_min": 220,
+  "title": "The Enigmatic Baghdad Battery: Ancie",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigmatic_baghdad_battery_ancient_power_source.mp4"
  },
  {
   "dur": 15,
@@ -130,34 +160,24 @@
   "file": "lost_signals_from_the_ancient_past.mp4"
  },
  {
-  "dur": 14,
-  "b_avg": 34,
-  "b_min": 6,
-  "s_avg": 951,
-  "s_min": 64,
-  "title": "Is There a Lost City Under Mexico?",
-  "repo": "UnexplainedDaily",
-  "file": "is_there_a_lost_city_under_mexico.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 61,
-  "b_min": 15,
-  "s_avg": 361,
-  "s_min": 67,
-  "title": "The Secret of the Antikythera Mechan",
-  "repo": "UnexplainedDaily",
-  "file": "the_secret_of_the_antikythera_mechanism.mp4"
+  "dur": 11,
+  "b_avg": 77,
+  "b_min": 34,
+  "s_avg": 235,
+  "s_min": 119,
+  "title": "The 75 Hard Challenge: Beat the Odds",
+  "repo": "MotivationFactory",
+  "file": "the_75_hard_challenge_beat_the_odds.mp4"
  },
  {
   "dur": 16,
-  "b_avg": 44,
-  "b_min": 14,
-  "s_avg": 155,
-  "s_min": 25,
-  "title": "The Mystery of the Bermuda Triangle",
-  "repo": "UnexplainedDaily",
-  "file": "the_mystery_of_the_bermuda_triangle.mp4"
+  "b_avg": 76,
+  "b_min": 51,
+  "s_avg": 218,
+  "s_min": 47,
+  "title": "How This Habit Changed Everything",
+  "repo": "MotivationFactory",
+  "file": "how_this_habit_changed_everything.mp4"
  },
  {
   "dur": 12,
@@ -218,25 +238,5 @@
   "title": "Mastering Time Management",
   "repo": "MotivationFactory",
   "file": "mastering_time_management.mp4"
- },
- {
-  "dur": 14,
-  "b_avg": 79,
-  "b_min": 36,
-  "s_avg": 367,
-  "s_min": 27,
-  "title": "The Secret Behind Daily Writing",
-  "repo": "MotivationFactory",
-  "file": "the_secret_behind_daily_writing.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 99,
-  "b_min": 42,
-  "s_avg": 175,
-  "s_min": 45,
-  "title": "Lose 30 Pounds in 3 Months",
-  "repo": "MotivationFactory",
-  "file": "lose_30_pounds_in_3_months.mp4"
  }
 ]
