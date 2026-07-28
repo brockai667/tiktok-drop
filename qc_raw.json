@@ -1,5 +1,35 @@
 [
  {
+  "dur": 20,
+  "b_avg": 28,
+  "b_min": 6,
+  "s_avg": 235,
+  "s_min": 64,
+  "title": "THE UNSOLVED HEIST AT THE BACK OF A ",
+  "repo": "coldcasedaily667",
+  "file": "the_unsolved_heist_at_the_back_of_a_bar.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 44,
+  "b_min": 24,
+  "s_avg": 252,
+  "s_min": 85,
+  "title": "THE BIZARRE HEIST THAT ROCKED PARIS",
+  "repo": "coldcasedaily667",
+  "file": "the_bizarre_heist_that_rocked_paris.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 55,
+  "b_min": 23,
+  "s_avg": 223,
+  "s_min": 142,
+  "title": "The $5 Million Art Heist That Shocke",
+  "repo": "coldcasedaily667",
+  "file": "the_5_million_art_heist_that_shocked_boston.mp4"
+ },
+ {
   "dur": 18,
   "b_avg": 62,
   "b_min": 35,
@@ -50,34 +80,34 @@
   "file": "the_strange_case_of_the_zodiac_cipher.mp4"
  },
  {
-  "dur": 16,
-  "b_avg": 22,
-  "b_min": 12,
-  "s_avg": 163,
-  "s_min": 40,
-  "title": "The Enigma of the Zodiac: Ciphers an",
-  "repo": "coldcasedaily667",
-  "file": "the_enigma_of_the_zodiac_ciphers_and_codes_unravel.mp4"
+  "dur": 15,
+  "b_avg": 35,
+  "b_min": 11,
+  "s_avg": 190,
+  "s_min": 17,
+  "title": "Titan's Unknown Substance: Alien or ",
+  "repo": "UnexplainedDaily",
+  "file": "titan_s_unknown_substance_alien_or_natural.mp4"
  },
  {
-  "dur": 26,
-  "b_avg": 30,
-  "b_min": 5,
-  "s_avg": 151,
-  "s_min": 14,
-  "title": "The Vanishing of the Hope Diamond",
-  "repo": "coldcasedaily667",
-  "file": "the_vanishing_of_the_hope_diamond.mp4"
+  "dur": 18,
+  "b_avg": 28,
+  "b_min": 7,
+  "s_avg": 230,
+  "s_min": 99,
+  "title": "The Mysterious Nazca Lines: Who Made",
+  "repo": "UnexplainedDaily",
+  "file": "the_mysterious_nazca_lines_who_made_them.mp4"
  },
  {
-  "dur": 21,
-  "b_avg": 42,
-  "b_min": 33,
-  "s_avg": 179,
-  "s_min": 84,
-  "title": "The Mysterious Heist of the Century",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_heist_of_the_century.mp4"
+  "dur": 15,
+  "b_avg": 64,
+  "b_min": 31,
+  "s_avg": 433,
+  "s_min": 103,
+  "title": "Nazca Lines: Ancient Mysteries Unvei",
+  "repo": "UnexplainedDaily",
+  "file": "nazca_lines_ancient_mysteries_unveiled.mp4"
  },
  {
   "dur": 17,
@@ -130,34 +160,24 @@
   "file": "the_unexplainable_nazca_lines.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 49,
-  "b_min": 6,
-  "s_avg": 629,
-  "s_min": 187,
-  "title": "The Puzzling Nazca Lines",
-  "repo": "UnexplainedDaily",
-  "file": "the_puzzling_nazca_lines.mp4"
+  "dur": 15,
+  "b_avg": 76,
+  "b_min": 36,
+  "s_avg": 182,
+  "s_min": 56,
+  "title": "What Consistency Can Achieve",
+  "repo": "MotivationFactory",
+  "file": "what_consistency_can_achieve.mp4"
  },
  {
-  "dur": 14,
-  "b_avg": 47,
-  "b_min": 15,
-  "s_avg": 628,
-  "s_min": 84,
-  "title": "The Nazca Lines: Messages from Ancie",
-  "repo": "UnexplainedDaily",
-  "file": "the_nazca_lines_messages_from_ancient_cultures.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 61,
-  "b_min": 45,
-  "s_avg": 531,
-  "s_min": 175,
-  "title": "Lost Signals From the Ancient Past",
-  "repo": "UnexplainedDaily",
-  "file": "lost_signals_from_the_ancient_past.mp4"
+  "dur": 18,
+  "b_avg": 104,
+  "b_min": 63,
+  "s_avg": 393,
+  "s_min": 19,
+  "title": "Transforming Bad Habits Into Good On",
+  "repo": "MotivationFactory",
+  "file": "transforming_bad_habits_into_good_ones.mp4"
  },
  {
   "dur": 11,
@@ -218,25 +238,5 @@
   "title": "One Habit Changed My Career",
   "repo": "MotivationFactory",
   "file": "one_habit_changed_my_career.mp4"
- },
- {
-  "dur": 17,
-  "b_avg": 53,
-  "b_min": 14,
-  "s_avg": 253,
-  "s_min": 79,
-  "title": "The Fitness Habit that Works",
-  "repo": "MotivationFactory",
-  "file": "the_fitness_habit_that_works.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 108,
-  "b_min": 53,
-  "s_avg": 213,
-  "s_min": 38,
-  "title": "Mastering Time Management",
-  "repo": "MotivationFactory",
-  "file": "mastering_time_management.mp4"
  }
 ]
