@@ -1,6 +1,36 @@
 [
  {
   "dur": 20,
+  "b_avg": 31,
+  "b_min": 3,
+  "s_avg": 167,
+  "s_min": 42,
+  "title": "The Mysterious Disappearance of the ",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_disappearance_of_the_sodder_childre.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 43,
+  "b_min": 24,
+  "s_avg": 468,
+  "s_min": 8,
+  "title": "The Great Train Robbery of 1963",
+  "repo": "coldcasedaily667",
+  "file": "the_great_train_robbery_of_1963.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 43,
+  "b_min": 5,
+  "s_avg": 147,
+  "s_min": 13,
+  "title": "The Disappearance of Flight MH370",
+  "repo": "coldcasedaily667",
+  "file": "the_disappearance_of_flight_mh370.mp4"
+ },
+ {
+  "dur": 20,
   "b_avg": 28,
   "b_min": 6,
   "s_avg": 235,
@@ -50,34 +80,34 @@
   "file": "the_great_museum_heist_art_stolen.mp4"
  },
  {
+  "dur": 15,
+  "b_avg": 55,
+  "b_min": 12,
+  "s_avg": 207,
+  "s_min": 109,
+  "title": "The Voynich Manuscript: The Riddle C",
+  "repo": "UnexplainedDaily",
+  "file": "the_voynich_manuscript_the_riddle_continues.mp4"
+ },
+ {
   "dur": 18,
-  "b_avg": 49,
-  "b_min": 33,
-  "s_avg": 139,
-  "s_min": 64,
-  "title": "The Enigma of the Mary Celeste: Ghos",
-  "repo": "coldcasedaily667",
-  "file": "the_enigma_of_the_mary_celeste_ghost_ship_or_myste.mp4"
+  "b_avg": 43,
+  "b_min": 14,
+  "s_avg": 384,
+  "s_min": 133,
+  "title": "The Mysterious Baghdad Battery: Anci",
+  "repo": "UnexplainedDaily",
+  "file": "the_mysterious_baghdad_battery_ancient_power_sourc.mp4"
  },
  {
-  "dur": 25,
-  "b_avg": 49,
-  "b_min": 20,
-  "s_avg": 138,
-  "s_min": 28,
-  "title": "The Unsolved Mystery of the Zodiac K",
-  "repo": "coldcasedaily667",
-  "file": "the_unsolved_mystery_of_the_zodiac_killer.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 70,
-  "b_min": 24,
-  "s_avg": 218,
-  "s_min": 137,
-  "title": "The Strange Case of the Zodiac Ciphe",
-  "repo": "coldcasedaily667",
-  "file": "the_strange_case_of_the_zodiac_cipher.mp4"
+  "dur": 17,
+  "b_avg": 50,
+  "b_min": 14,
+  "s_avg": 276,
+  "s_min": 60,
+  "title": "The Antikythera Mechanism: Ancient T",
+  "repo": "UnexplainedDaily",
+  "file": "the_antikythera_mechanism_ancient_tech_unraveled.mp4"
  },
  {
   "dur": 15,
@@ -130,34 +160,24 @@
   "file": "the_mystery_of_the_voynich_manuscript.mp4"
  },
  {
-  "dur": 14,
-  "b_avg": 33,
-  "b_min": 14,
-  "s_avg": 516,
-  "s_min": 220,
-  "title": "The Enigmatic Baghdad Battery: Ancie",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigmatic_baghdad_battery_ancient_power_source.mp4"
+  "dur": 11,
+  "b_avg": 61,
+  "b_min": 22,
+  "s_avg": 782,
+  "s_min": 112,
+  "title": "Transform Your Fitness: 75 Days to C",
+  "repo": "MotivationFactory",
+  "file": "transform_your_fitness_75_days_to_change.mp4"
  },
  {
   "dur": 15,
-  "b_avg": 43,
-  "b_min": 10,
-  "s_avg": 309,
-  "s_min": 55,
-  "title": "What Lies Beyond The Nazca Lines?",
-  "repo": "UnexplainedDaily",
-  "file": "what_lies_beyond_the_nazca_lines.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 62,
-  "b_min": 46,
-  "s_avg": 391,
-  "s_min": 95,
-  "title": "The Unexplainable Nazca Lines",
-  "repo": "UnexplainedDaily",
-  "file": "the_unexplainable_nazca_lines.mp4"
+  "b_avg": 76,
+  "b_min": 57,
+  "s_avg": 215,
+  "s_min": 28,
+  "title": "The Secret of Daily Journaling",
+  "repo": "MotivationFactory",
+  "file": "the_secret_of_daily_journaling.mp4"
  },
  {
   "dur": 15,
@@ -218,25 +238,5 @@
   "title": "From Zero to Hero: 30 Days of Mindfu",
   "repo": "MotivationFactory",
   "file": "from_zero_to_hero_30_days_of_mindfulness.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 87,
-  "b_min": 61,
-  "s_avg": 189,
-  "s_min": 82,
-  "title": "Transforming Your Sleep Habits",
-  "repo": "MotivationFactory",
-  "file": "transforming_your_sleep_habits.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 32,
-  "b_min": 6,
-  "s_avg": 218,
-  "s_min": 61,
-  "title": "One Habit Changed My Career",
-  "repo": "MotivationFactory",
-  "file": "one_habit_changed_my_career.mp4"
  }
 ]
