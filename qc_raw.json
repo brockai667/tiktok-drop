@@ -1,5 +1,35 @@
 [
  {
+  "dur": 17,
+  "b_avg": 43,
+  "b_min": 12,
+  "s_avg": 166,
+  "s_min": 23,
+  "title": "THE INFAMOUS GREAT ESCAPE",
+  "repo": "coldcasedaily667",
+  "file": "the_infamous_great_escape.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 60,
+  "b_min": 24,
+  "s_avg": 273,
+  "s_min": 62,
+  "title": "THE ENIGMA OF THE ZODIAC KILLER",
+  "repo": "coldcasedaily667",
+  "file": "the_enigma_of_the_zodiac_killer.mp4"
+ },
+ {
+  "dur": 22,
+  "b_avg": 35,
+  "b_min": 14,
+  "s_avg": 142,
+  "s_min": 49,
+  "title": "The Daring $70 Million Theft: The Ha",
+  "repo": "coldcasedaily667",
+  "file": "the_daring_70_million_theft_the_hatton_garden_heis.mp4"
+ },
+ {
   "dur": 20,
   "b_avg": 31,
   "b_min": 3,
@@ -50,34 +80,34 @@
   "file": "the_bizarre_heist_that_rocked_paris.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 55,
-  "b_min": 23,
-  "s_avg": 223,
-  "s_min": 142,
-  "title": "The $5 Million Art Heist That Shocke",
-  "repo": "coldcasedaily667",
-  "file": "the_5_million_art_heist_that_shocked_boston.mp4"
+  "dur": 14,
+  "b_avg": 23,
+  "b_min": 6,
+  "s_avg": 139,
+  "s_min": 29,
+  "title": "The Enigmatic Voynich Manuscript Exp",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigmatic_voynich_manuscript_explained.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 62,
-  "b_min": 35,
-  "s_avg": 188,
-  "s_min": 98,
-  "title": "The Vanishing of the Sodder Children",
-  "repo": "coldcasedaily667",
-  "file": "the_vanishing_of_the_sodder_children_a_family_myst.mp4"
+  "dur": 17,
+  "b_avg": 49,
+  "b_min": 11,
+  "s_avg": 247,
+  "s_min": 65,
+  "title": "The Antikythera Mechanism: Ancient T",
+  "repo": "UnexplainedDaily",
+  "file": "the_antikythera_mechanism_ancient_tech_or_alien_ar.mp4"
  },
  {
-  "dur": 13,
-  "b_avg": 43,
-  "b_min": 19,
-  "s_avg": 230,
-  "s_min": 54,
-  "title": "The Great Museum Heist: Art Stolen",
-  "repo": "coldcasedaily667",
-  "file": "the_great_museum_heist_art_stolen.mp4"
+  "dur": 19,
+  "b_avg": 54,
+  "b_min": 27,
+  "s_avg": 214,
+  "s_min": 110,
+  "title": "Lost Signals: The Mystery of the Wow",
+  "repo": "UnexplainedDaily",
+  "file": "lost_signals_the_mystery_of_the_wow_signal.mp4"
  },
  {
   "dur": 15,
@@ -130,34 +160,24 @@
   "file": "the_mysterious_nazca_lines_who_made_them.mp4"
  },
  {
-  "dur": 15,
-  "b_avg": 64,
-  "b_min": 31,
-  "s_avg": 433,
-  "s_min": 103,
-  "title": "Nazca Lines: Ancient Mysteries Unvei",
-  "repo": "UnexplainedDaily",
-  "file": "nazca_lines_ancient_mysteries_unveiled.mp4"
+  "dur": 14,
+  "b_avg": 109,
+  "b_min": 87,
+  "s_avg": 244,
+  "s_min": 62,
+  "title": "How 40 Days to Discipline Changed My",
+  "repo": "MotivationFactory",
+  "file": "how_40_days_to_discipline_changed_my_life.mp4"
  },
  {
-  "dur": 17,
-  "b_avg": 45,
-  "b_min": 11,
-  "s_avg": 238,
-  "s_min": 11,
-  "title": "The Shocking Truth of the Antikyther",
-  "repo": "UnexplainedDaily",
-  "file": "the_shocking_truth_of_the_antikythera_device.mp4"
- },
- {
-  "dur": 20,
-  "b_avg": 30,
-  "b_min": 6,
-  "s_avg": 186,
-  "s_min": 54,
-  "title": "The Mystery of the Voynich Manuscrip",
-  "repo": "UnexplainedDaily",
-  "file": "the_mystery_of_the_voynich_manuscript.mp4"
+  "dur": 12,
+  "b_avg": 87,
+  "b_min": 75,
+  "s_avg": 162,
+  "s_min": 72,
+  "title": "Bouncing Back: From Zero Workouts to",
+  "repo": "MotivationFactory",
+  "file": "bouncing_back_from_zero_workouts_to_4_a_week.mp4"
  },
  {
   "dur": 11,
@@ -218,25 +238,5 @@
   "title": "How This Habit Changed Everything",
   "repo": "MotivationFactory",
   "file": "how_this_habit_changed_everything.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 92,
-  "b_min": 42,
-  "s_avg": 160,
-  "s_min": 112,
-  "title": "Transform Your Life: 120 Days to Pro",
-  "repo": "MotivationFactory",
-  "file": "transform_your_life_120_days_to_progress.mp4"
- },
- {
-  "dur": 10,
-  "b_avg": 108,
-  "b_min": 80,
-  "s_avg": 156,
-  "s_min": 32,
-  "title": "From Zero to Hero: 30 Days of Mindfu",
-  "repo": "MotivationFactory",
-  "file": "from_zero_to_hero_30_days_of_mindfulness.mp4"
  }
 ]
