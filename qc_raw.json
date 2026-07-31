@@ -1,5 +1,35 @@
 [
  {
+  "dur": 16,
+  "b_avg": 49,
+  "b_min": 17,
+  "s_avg": 244,
+  "s_min": 98,
+  "title": "The Unsolved Mystery of D.B. Cooper",
+  "repo": "coldcasedaily667",
+  "file": "the_unsolved_mystery_of_d_b_cooper.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 73,
+  "b_min": 25,
+  "s_avg": 165,
+  "s_min": 51,
+  "title": "THE LITTLE-KNOWN MYSTERY OF FLIGHT 1",
+  "repo": "coldcasedaily667",
+  "file": "the_little_known_mystery_of_flight_19.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 28,
+  "b_min": 15,
+  "s_avg": 365,
+  "s_min": 72,
+  "title": "The Great Train Robbery Mystery",
+  "repo": "coldcasedaily667",
+  "file": "the_great_train_robbery_mystery.mp4"
+ },
+ {
   "dur": 17,
   "b_avg": 43,
   "b_min": 12,
@@ -50,34 +80,34 @@
   "file": "the_great_train_robbery_of_1963.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 43,
-  "b_min": 5,
-  "s_avg": 147,
-  "s_min": 13,
-  "title": "The Disappearance of Flight MH370",
-  "repo": "coldcasedaily667",
-  "file": "the_disappearance_of_flight_mh370.mp4"
+  "dur": 17,
+  "b_avg": 45,
+  "b_min": 11,
+  "s_avg": 329,
+  "s_min": 122,
+  "title": "The Unexplained Mystery of the Baghd",
+  "repo": "UnexplainedDaily",
+  "file": "the_unexplained_mystery_of_the_baghdad_battery.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 28,
-  "b_min": 6,
-  "s_avg": 235,
-  "s_min": 64,
-  "title": "THE UNSOLVED HEIST AT THE BACK OF A ",
-  "repo": "coldcasedaily667",
-  "file": "the_unsolved_heist_at_the_back_of_a_bar.mp4"
+  "dur": 18,
+  "b_avg": 30,
+  "b_min": 10,
+  "s_avg": 312,
+  "s_min": 66,
+  "title": "The Enigmatic Antikythera Mechanism ",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigmatic_antikythera_mechanism_revealed.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 44,
-  "b_min": 24,
-  "s_avg": 252,
-  "s_min": 85,
-  "title": "THE BIZARRE HEIST THAT ROCKED PARIS",
-  "repo": "coldcasedaily667",
-  "file": "the_bizarre_heist_that_rocked_paris.mp4"
+  "dur": 18,
+  "b_avg": 38,
+  "b_min": 14,
+  "s_avg": 427,
+  "s_min": 42,
+  "title": "Nazca Lines: Ancient Messages to the",
+  "repo": "UnexplainedDaily",
+  "file": "nazca_lines_ancient_messages_to_the_sky.mp4"
  },
  {
   "dur": 14,
@@ -130,34 +160,24 @@
   "file": "the_mysterious_baghdad_battery_ancient_power_sourc.mp4"
  },
  {
-  "dur": 17,
-  "b_avg": 50,
-  "b_min": 14,
-  "s_avg": 276,
-  "s_min": 60,
-  "title": "The Antikythera Mechanism: Ancient T",
-  "repo": "UnexplainedDaily",
-  "file": "the_antikythera_mechanism_ancient_tech_unraveled.mp4"
+  "dur": 11,
+  "b_avg": 82,
+  "b_min": 66,
+  "s_avg": 198,
+  "s_min": 83,
+  "title": "Transform Your Day: 30 Minutes to Be",
+  "repo": "MotivationFactory",
+  "file": "transform_your_day_30_minutes_to_better_focus.mp4"
  },
  {
-  "dur": 15,
-  "b_avg": 35,
-  "b_min": 11,
-  "s_avg": 190,
-  "s_min": 17,
-  "title": "Titan's Unknown Substance: Alien or ",
-  "repo": "UnexplainedDaily",
-  "file": "titan_s_unknown_substance_alien_or_natural.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 28,
-  "b_min": 7,
-  "s_avg": 230,
-  "s_min": 99,
-  "title": "The Mysterious Nazca Lines: Who Made",
-  "repo": "UnexplainedDaily",
-  "file": "the_mysterious_nazca_lines_who_made_them.mp4"
+  "dur": 12,
+  "b_avg": 102,
+  "b_min": 34,
+  "s_avg": 821,
+  "s_min": 52,
+  "title": "The Surprising Impact of 5 Minutes: ",
+  "repo": "MotivationFactory",
+  "file": "the_surprising_impact_of_5_minutes_daily_disciplin.mp4"
  },
  {
   "dur": 14,
@@ -218,25 +238,5 @@
   "title": "Transforming Bad Habits Into Good On",
   "repo": "MotivationFactory",
   "file": "transforming_bad_habits_into_good_ones.mp4"
- },
- {
-  "dur": 11,
-  "b_avg": 77,
-  "b_min": 34,
-  "s_avg": 235,
-  "s_min": 119,
-  "title": "The 75 Hard Challenge: Beat the Odds",
-  "repo": "MotivationFactory",
-  "file": "the_75_hard_challenge_beat_the_odds.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 76,
-  "b_min": 51,
-  "s_avg": 218,
-  "s_min": 47,
-  "title": "How This Habit Changed Everything",
-  "repo": "MotivationFactory",
-  "file": "how_this_habit_changed_everything.mp4"
  }
 ]
