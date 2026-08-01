@@ -1,5 +1,35 @@
 [
  {
+  "dur": 12,
+  "b_avg": 37,
+  "b_min": 4,
+  "s_avg": 139,
+  "s_min": 63,
+  "title": "The Mysterious Disappearance of the ",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_disappearance_of_the_mary_celeste.mp4"
+ },
+ {
+  "dur": 11,
+  "b_avg": 51,
+  "b_min": 39,
+  "s_avg": 121,
+  "s_min": 58,
+  "title": "The Great Brink's Job: A Legendary H",
+  "repo": "coldcasedaily667",
+  "file": "the_great_brink_s_job_a_legendary_heist.mp4"
+ },
+ {
+  "dur": 24,
+  "b_avg": 53,
+  "b_min": 43,
+  "s_avg": 235,
+  "s_min": 87,
+  "title": "The Art Heist That Shocked Boston",
+  "repo": "coldcasedaily667",
+  "file": "the_art_heist_that_shocked_boston.mp4"
+ },
+ {
   "dur": 16,
   "b_avg": 49,
   "b_min": 17,
@@ -50,34 +80,64 @@
   "file": "the_enigma_of_the_zodiac_killer.mp4"
  },
  {
-  "dur": 22,
-  "b_avg": 35,
+  "dur": 15,
+  "b_avg": 54,
   "b_min": 14,
-  "s_avg": 142,
-  "s_min": 49,
-  "title": "The Daring $70 Million Theft: The Ha",
-  "repo": "coldcasedaily667",
-  "file": "the_daring_70_million_theft_the_hatton_garden_heis.mp4"
+  "s_avg": 382,
+  "s_min": 151,
+  "title": "Unraveling G\u00f6bekli Tepe's Mysteries",
+  "repo": "UnexplainedDaily",
+  "file": "unraveling_g_bekli_tepe_s_mysteries.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 31,
-  "b_min": 3,
-  "s_avg": 167,
-  "s_min": 42,
-  "title": "The Mysterious Disappearance of the ",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_disappearance_of_the_sodder_childre.mp4"
+  "dur": 14,
+  "b_avg": 28,
+  "b_min": 14,
+  "s_avg": 177,
+  "s_min": 79,
+  "title": "The Enigmatic Handbag of the Gods",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigmatic_handbag_of_the_gods.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 43,
-  "b_min": 24,
-  "s_avg": 468,
-  "s_min": 8,
-  "title": "The Great Train Robbery of 1963",
-  "repo": "coldcasedaily667",
-  "file": "the_great_train_robbery_of_1963.mp4"
+  "dur": 17,
+  "b_avg": 52,
+  "b_min": 14,
+  "s_avg": 286,
+  "s_min": 22,
+  "title": "Havana Syndrome: The Frey Effect",
+  "repo": "UnexplainedDaily",
+  "file": "havana_syndrome_the_frey_effect.mp4"
+ },
+ {
+  "dur": 13,
+  "b_avg": 40,
+  "b_min": 12,
+  "s_avg": 490,
+  "s_min": 55,
+  "title": "Unveiling G\u00f6bekli Tepe's Ancient Sec",
+  "repo": "UnexplainedDaily",
+  "file": "unveiling_g_bekli_tepe_s_ancient_secrets.mp4"
+ },
+ {
+  "dur": 12,
+  "b_avg": 40,
+  "b_min": 10,
+  "s_avg": 196,
+  "s_min": 45,
+  "title": "The Baffling Nazca Lines Mystery",
+  "repo": "UnexplainedDaily",
+  "file": "the_baffling_nazca_lines_mystery.mp4"
+ },
+ {
+  "dur": 14,
+  "b_avg": 53,
+  "b_min": 13,
+  "s_avg": 109,
+  "s_min": 33,
+  "title": "The Baffling J\u2019ba Fofi Legend",
+  "repo": "UnexplainedDaily",
+  "file": "the_baffling_j_ba_fofi_legend.mp4"
  },
  {
   "dur": 17,
@@ -100,64 +160,24 @@
   "file": "the_enigmatic_antikythera_mechanism_revealed.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 38,
-  "b_min": 14,
-  "s_avg": 427,
-  "s_min": 42,
-  "title": "Nazca Lines: Ancient Messages to the",
-  "repo": "UnexplainedDaily",
-  "file": "nazca_lines_ancient_messages_to_the_sky.mp4"
- },
- {
-  "dur": 14,
-  "b_avg": 23,
-  "b_min": 6,
-  "s_avg": 139,
-  "s_min": 29,
-  "title": "The Enigmatic Voynich Manuscript Exp",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigmatic_voynich_manuscript_explained.mp4"
+  "dur": 19,
+  "b_avg": 80,
+  "b_min": 19,
+  "s_avg": 187,
+  "s_min": 81,
+  "title": "How I Built Discipline in Just 7 Day",
+  "repo": "MotivationFactory",
+  "file": "how_i_built_discipline_in_just_7_days.mp4"
  },
  {
   "dur": 17,
-  "b_avg": 49,
-  "b_min": 11,
-  "s_avg": 247,
-  "s_min": 65,
-  "title": "The Antikythera Mechanism: Ancient T",
-  "repo": "UnexplainedDaily",
-  "file": "the_antikythera_mechanism_ancient_tech_or_alien_ar.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 54,
-  "b_min": 27,
-  "s_avg": 214,
-  "s_min": 110,
-  "title": "Lost Signals: The Mystery of the Wow",
-  "repo": "UnexplainedDaily",
-  "file": "lost_signals_the_mystery_of_the_wow_signal.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 55,
-  "b_min": 12,
-  "s_avg": 207,
-  "s_min": 109,
-  "title": "The Voynich Manuscript: The Riddle C",
-  "repo": "UnexplainedDaily",
-  "file": "the_voynich_manuscript_the_riddle_continues.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 43,
-  "b_min": 14,
-  "s_avg": 384,
-  "s_min": 133,
-  "title": "The Mysterious Baghdad Battery: Anci",
-  "repo": "UnexplainedDaily",
-  "file": "the_mysterious_baghdad_battery_ancient_power_sourc.mp4"
+  "b_avg": 112,
+  "b_min": 36,
+  "s_avg": 233,
+  "s_min": 49,
+  "title": "How 1 Habit Boosted My Income",
+  "repo": "MotivationFactory",
+  "file": "how_1_habit_boosted_my_income.mp4"
  },
  {
   "dur": 11,
@@ -218,25 +238,5 @@
   "title": "The Secret of Daily Journaling",
   "repo": "MotivationFactory",
   "file": "the_secret_of_daily_journaling.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 76,
-  "b_min": 36,
-  "s_avg": 182,
-  "s_min": 56,
-  "title": "What Consistency Can Achieve",
-  "repo": "MotivationFactory",
-  "file": "what_consistency_can_achieve.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 104,
-  "b_min": 63,
-  "s_avg": 393,
-  "s_min": 19,
-  "title": "Transforming Bad Habits Into Good On",
-  "repo": "MotivationFactory",
-  "file": "transforming_bad_habits_into_good_ones.mp4"
  }
 ]
