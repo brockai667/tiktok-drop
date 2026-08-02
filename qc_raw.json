@@ -1,5 +1,25 @@
 [
  {
+  "dur": 14,
+  "b_avg": 57,
+  "b_min": 42,
+  "s_avg": 332,
+  "s_min": 21,
+  "title": "The Mysterious Disappearance of the ",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_disappearance_of_the_beaumont_child.mp4"
+ },
+ {
+  "dur": 17,
+  "b_avg": 70,
+  "b_min": 45,
+  "s_avg": 443,
+  "s_min": 83,
+  "title": "The Legend of the Mary Celeste",
+  "repo": "coldcasedaily667",
+  "file": "the_legend_of_the_mary_celeste.mp4"
+ },
+ {
   "dur": 12,
   "b_avg": 37,
   "b_min": 4,
@@ -60,24 +80,14 @@
   "file": "the_great_train_robbery_mystery.mp4"
  },
  {
-  "dur": 17,
-  "b_avg": 43,
-  "b_min": 12,
-  "s_avg": 166,
-  "s_min": 23,
-  "title": "THE INFAMOUS GREAT ESCAPE",
-  "repo": "coldcasedaily667",
-  "file": "the_infamous_great_escape.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 60,
-  "b_min": 24,
-  "s_avg": 273,
-  "s_min": 62,
-  "title": "THE ENIGMA OF THE ZODIAC KILLER",
-  "repo": "coldcasedaily667",
-  "file": "the_enigma_of_the_zodiac_killer.mp4"
+  "dur": 15,
+  "b_avg": 13,
+  "b_min": 10,
+  "s_avg": 149,
+  "s_min": 43,
+  "title": "The Enigmatic Fae Tree Portal",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigmatic_fae_tree_portal.mp4"
  },
  {
   "dur": 15,
@@ -150,14 +160,24 @@
   "file": "the_unexplained_mystery_of_the_baghdad_battery.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 30,
-  "b_min": 10,
-  "s_avg": 312,
-  "s_min": 66,
-  "title": "The Enigmatic Antikythera Mechanism ",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigmatic_antikythera_mechanism_revealed.mp4"
+  "dur": 53,
+  "b_avg": 109,
+  "b_min": 59,
+  "s_avg": 235,
+  "s_min": 98,
+  "title": "Riddle 002 Nine Balls",
+  "repo": "MotivationFactory",
+  "file": "riddle_002_nine_balls.mp4"
+ },
+ {
+  "dur": 83,
+  "b_avg": 120,
+  "b_min": 110,
+  "s_avg": 231,
+  "s_min": 103,
+  "title": "Riddle 001 Choc Million",
+  "repo": "MotivationFactory",
+  "file": "riddle_001_choc_million.mp4"
  },
  {
   "dur": 19,
@@ -218,25 +238,5 @@
   "title": "Bouncing Back: From Zero Workouts to",
   "repo": "MotivationFactory",
   "file": "bouncing_back_from_zero_workouts_to_4_a_week.mp4"
- },
- {
-  "dur": 11,
-  "b_avg": 61,
-  "b_min": 22,
-  "s_avg": 782,
-  "s_min": 112,
-  "title": "Transform Your Fitness: 75 Days to C",
-  "repo": "MotivationFactory",
-  "file": "transform_your_fitness_75_days_to_change.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 76,
-  "b_min": 57,
-  "s_avg": 215,
-  "s_min": 28,
-  "title": "The Secret of Daily Journaling",
-  "repo": "MotivationFactory",
-  "file": "the_secret_of_daily_journaling.mp4"
  }
 ]
