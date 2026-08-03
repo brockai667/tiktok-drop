@@ -1,5 +1,35 @@
 [
  {
+  "dur": 15,
+  "b_avg": 37,
+  "b_min": 24,
+  "s_avg": 258,
+  "s_min": 111,
+  "title": "The Mysterious Death of Albert Parso",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_death_of_albert_parsons.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 52,
+  "b_min": 36,
+  "s_avg": 279,
+  "s_min": 115,
+  "title": "The Baffling Case of the Philadelphi",
+  "repo": "coldcasedaily667",
+  "file": "the_baffling_case_of_the_philadelphia_experiment.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 56,
+  "b_min": 38,
+  "s_avg": 203,
+  "s_min": 85,
+  "title": "The Baffling Case of the Isabella St",
+  "repo": "coldcasedaily667",
+  "file": "the_baffling_case_of_the_isabella_stewart_gardner_.mp4"
+ },
+ {
   "dur": 14,
   "b_avg": 57,
   "b_min": 42,
@@ -50,34 +80,34 @@
   "file": "the_art_heist_that_shocked_boston.mp4"
  },
  {
-  "dur": 16,
-  "b_avg": 49,
-  "b_min": 17,
-  "s_avg": 244,
-  "s_min": 98,
-  "title": "The Unsolved Mystery of D.B. Cooper",
-  "repo": "coldcasedaily667",
-  "file": "the_unsolved_mystery_of_d_b_cooper.mp4"
+  "dur": 27,
+  "b_avg": 42,
+  "b_min": 14,
+  "s_avg": 341,
+  "s_min": 277,
+  "title": "Unveiling the Secrets of the Terraco",
+  "repo": "UnexplainedDaily",
+  "file": "unveiling_the_secrets_of_the_terracotta_army.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 73,
-  "b_min": 25,
-  "s_avg": 165,
-  "s_min": 51,
-  "title": "THE LITTLE-KNOWN MYSTERY OF FLIGHT 1",
-  "repo": "coldcasedaily667",
-  "file": "the_little_known_mystery_of_flight_19.mp4"
+  "dur": 22,
+  "b_avg": 60,
+  "b_min": 14,
+  "s_avg": 306,
+  "s_min": 56,
+  "title": "The Mysterious Sumerian King List",
+  "repo": "UnexplainedDaily",
+  "file": "the_mysterious_sumerian_king_list.mp4"
  },
  {
-  "dur": 21,
-  "b_avg": 28,
-  "b_min": 15,
-  "s_avg": 365,
-  "s_min": 72,
-  "title": "The Great Train Robbery Mystery",
-  "repo": "coldcasedaily667",
-  "file": "the_great_train_robbery_mystery.mp4"
+  "dur": 26,
+  "b_avg": 39,
+  "b_min": 14,
+  "s_avg": 371,
+  "s_min": 95,
+  "title": "The Enigmatic Moai Statues of Easter",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigmatic_moai_statues_of_easter_island.mp4"
  },
  {
   "dur": 15,
@@ -130,34 +160,14 @@
   "file": "unveiling_g_bekli_tepe_s_ancient_secrets.mp4"
  },
  {
-  "dur": 12,
-  "b_avg": 40,
-  "b_min": 10,
-  "s_avg": 196,
-  "s_min": 45,
-  "title": "The Baffling Nazca Lines Mystery",
-  "repo": "UnexplainedDaily",
-  "file": "the_baffling_nazca_lines_mystery.mp4"
- },
- {
-  "dur": 14,
-  "b_avg": 53,
-  "b_min": 13,
-  "s_avg": 109,
-  "s_min": 33,
-  "title": "The Baffling J\u2019ba Fofi Legend",
-  "repo": "UnexplainedDaily",
-  "file": "the_baffling_j_ba_fofi_legend.mp4"
- },
- {
-  "dur": 17,
-  "b_avg": 45,
-  "b_min": 11,
-  "s_avg": 329,
-  "s_min": 122,
-  "title": "The Unexplained Mystery of the Baghd",
-  "repo": "UnexplainedDaily",
-  "file": "the_unexplained_mystery_of_the_baghdad_battery.mp4"
+  "dur": 64,
+  "b_avg": 168,
+  "b_min": 153,
+  "s_avg": 217,
+  "s_min": 88,
+  "title": "Riddle 003 Fake Coin 12",
+  "repo": "MotivationFactory",
+  "file": "riddle_003_fake_coin_12.mp4"
  },
  {
   "dur": 53,
@@ -228,15 +238,5 @@
   "title": "How 40 Days to Discipline Changed My",
   "repo": "MotivationFactory",
   "file": "how_40_days_to_discipline_changed_my_life.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 87,
-  "b_min": 75,
-  "s_avg": 162,
-  "s_min": 72,
-  "title": "Bouncing Back: From Zero Workouts to",
-  "repo": "MotivationFactory",
-  "file": "bouncing_back_from_zero_workouts_to_4_a_week.mp4"
  }
 ]
