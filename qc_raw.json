@@ -1,5 +1,25 @@
 [
  {
+  "dur": 18,
+  "b_avg": 42,
+  "b_min": 24,
+  "s_avg": 224,
+  "s_min": 128,
+  "title": "**The Legendary Heist at the Isabell",
+  "repo": "coldcasedaily667",
+  "file": "the_legendary_heist_at_the_isabella_stewart_gardne.mp4"
+ },
+ {
+  "dur": 12,
+  "b_avg": 51,
+  "b_min": 36,
+  "s_avg": 111,
+  "s_min": 82,
+  "title": "The Legend of the Beale Code",
+  "repo": "coldcasedaily667",
+  "file": "the_legend_of_the_beale_code.mp4"
+ },
+ {
   "dur": 15,
   "b_avg": 37,
   "b_min": 24,
@@ -58,26 +78,6 @@
   "title": "The Mysterious Disappearance of the ",
   "repo": "coldcasedaily667",
   "file": "the_mysterious_disappearance_of_the_mary_celeste.mp4"
- },
- {
-  "dur": 11,
-  "b_avg": 51,
-  "b_min": 39,
-  "s_avg": 121,
-  "s_min": 58,
-  "title": "The Great Brink's Job: A Legendary H",
-  "repo": "coldcasedaily667",
-  "file": "the_great_brink_s_job_a_legendary_heist.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 53,
-  "b_min": 43,
-  "s_avg": 235,
-  "s_min": 87,
-  "title": "The Art Heist That Shocked Boston",
-  "repo": "coldcasedaily667",
-  "file": "the_art_heist_that_shocked_boston.mp4"
  },
  {
   "dur": 27,
