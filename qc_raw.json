@@ -1,5 +1,35 @@
 [
  {
+  "dur": 10,
+  "b_avg": 31,
+  "b_min": 5,
+  "s_avg": 108,
+  "s_min": 11,
+  "title": "**The Mysterious Case of the Phantom",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_case_of_the_phantom_killer.mp4"
+ },
+ {
+  "dur": 11,
+  "b_avg": 38,
+  "b_min": 7,
+  "s_avg": 149,
+  "s_min": 17,
+  "title": "**The Bizarre Disappearance of the M",
+  "repo": "coldcasedaily667",
+  "file": "the_bizarre_disappearance_of_the_martin_family.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 51,
+  "b_min": 25,
+  "s_avg": 137,
+  "s_min": 21,
+  "title": "**The Baffling Disappearance of Amel",
+  "repo": "coldcasedaily667",
+  "file": "the_baffling_disappearance_of_amelia_earhart.mp4"
+ },
+ {
   "dur": 18,
   "b_avg": 42,
   "b_min": 24,
@@ -50,34 +80,14 @@
   "file": "the_baffling_case_of_the_isabella_stewart_gardner_.mp4"
  },
  {
-  "dur": 14,
-  "b_avg": 57,
-  "b_min": 42,
-  "s_avg": 332,
-  "s_min": 21,
-  "title": "The Mysterious Disappearance of the ",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_disappearance_of_the_beaumont_child.mp4"
- },
- {
-  "dur": 17,
-  "b_avg": 70,
-  "b_min": 45,
-  "s_avg": 443,
-  "s_min": 83,
-  "title": "The Legend of the Mary Celeste",
-  "repo": "coldcasedaily667",
-  "file": "the_legend_of_the_mary_celeste.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 37,
-  "b_min": 4,
-  "s_avg": 139,
-  "s_min": 63,
-  "title": "The Mysterious Disappearance of the ",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_disappearance_of_the_mary_celeste.mp4"
+  "dur": 28,
+  "b_avg": 56,
+  "b_min": 14,
+  "s_avg": 296,
+  "s_min": 123,
+  "title": "The Mystery of the Gobekli Tepe Temp",
+  "repo": "UnexplainedDaily",
+  "file": "the_mystery_of_the_gobekli_tepe_temple.mp4"
  },
  {
   "dur": 27,
@@ -150,14 +160,14 @@
   "file": "havana_syndrome_the_frey_effect.mp4"
  },
  {
-  "dur": 13,
-  "b_avg": 40,
-  "b_min": 12,
-  "s_avg": 490,
-  "s_min": 55,
-  "title": "Unveiling G\u00f6bekli Tepe's Ancient Sec",
-  "repo": "UnexplainedDaily",
-  "file": "unveiling_g_bekli_tepe_s_ancient_secrets.mp4"
+  "dur": 58,
+  "b_avg": 59,
+  "b_min": 53,
+  "s_avg": 312,
+  "s_min": 143,
+  "title": "Riddle 004 Two Ropes",
+  "repo": "MotivationFactory",
+  "file": "riddle_004_two_ropes.mp4"
  },
  {
   "dur": 64,
@@ -228,15 +238,5 @@
   "title": "The Surprising Impact of 5 Minutes: ",
   "repo": "MotivationFactory",
   "file": "the_surprising_impact_of_5_minutes_daily_disciplin.mp4"
- },
- {
-  "dur": 14,
-  "b_avg": 109,
-  "b_min": 87,
-  "s_avg": 244,
-  "s_min": 62,
-  "title": "How 40 Days to Discipline Changed My",
-  "repo": "MotivationFactory",
-  "file": "how_40_days_to_discipline_changed_my_life.mp4"
  }
 ]
