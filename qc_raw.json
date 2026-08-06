@@ -1,5 +1,35 @@
 [
  {
+  "dur": 11,
+  "b_avg": 34,
+  "b_min": 6,
+  "s_avg": 162,
+  "s_min": 53,
+  "title": "**The Legend of the Black Dahlia Mur",
+  "repo": "coldcasedaily667",
+  "file": "the_legend_of_the_black_dahlia_murder.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 49,
+  "b_min": 18,
+  "s_avg": 158,
+  "s_min": 70,
+  "title": "**The Great Northern Bank Robbery**",
+  "repo": "coldcasedaily667",
+  "file": "the_great_northern_bank_robbery.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 40,
+  "b_min": 23,
+  "s_avg": 559,
+  "s_min": 82,
+  "title": "**The Antwerp Diamond Heist**",
+  "repo": "coldcasedaily667",
+  "file": "the_antwerp_diamond_heist.mp4"
+ },
+ {
   "dur": 10,
   "b_avg": 31,
   "b_min": 5,
@@ -48,36 +78,6 @@
   "title": "The Legend of the Beale Code",
   "repo": "coldcasedaily667",
   "file": "the_legend_of_the_beale_code.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 37,
-  "b_min": 24,
-  "s_avg": 258,
-  "s_min": 111,
-  "title": "The Mysterious Death of Albert Parso",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_death_of_albert_parsons.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 52,
-  "b_min": 36,
-  "s_avg": 279,
-  "s_min": 115,
-  "title": "The Baffling Case of the Philadelphi",
-  "repo": "coldcasedaily667",
-  "file": "the_baffling_case_of_the_philadelphia_experiment.mp4"
- },
- {
-  "dur": 20,
-  "b_avg": 56,
-  "b_min": 38,
-  "s_avg": 203,
-  "s_min": 85,
-  "title": "The Baffling Case of the Isabella St",
-  "repo": "coldcasedaily667",
-  "file": "the_baffling_case_of_the_isabella_stewart_gardner_.mp4"
  },
  {
   "dur": 28,
