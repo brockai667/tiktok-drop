@@ -14,6 +14,59 @@
     ],
     "videos": [
       {
+        "title": "**The Great Brink's Robbery**",
+        "file": "the_great_brink_s_robbery.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_great_brink_s_robbery.mp4",
+        "size_mb": 13.2,
+        "desc": "Discover the shocking details of the Great Brink's Robbery, one of the most infamous heists in American history. A gang of 13 men stole $2.7 million in cash, making it one of the biggest robberies of its time. Follow us for more thrilling true crime stories. #TheGreatBrinksRobbery #TrueCrime #Heist #Boston #USA",
+        "hashtags": [
+          "#TheGreatBrinksRobbery",
+          "#TrueCrime",
+          "#Heist",
+          "#Boston",
+          "#USA",
+          "#shorts",
+          "#fyp"
+        ],
+        "created": "2026-08-07"
+      },
+      {
+        "title": "**The Banco Central Burglary**",
+        "file": "the_banco_central_burglary.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_banco_central_burglary.mp4",
+        "size_mb": 17.5,
+        "desc": "The Banco Central Burglary was a massive heist that took place in 2005. The thieves stole an estimated $100 million from the Banco Central in Fortaleza, Brazil. Follow for more true crime stories.",
+        "hashtags": [
+          "#truecrime",
+          "#heist",
+          "#bancocentral",
+          "#fortaleza",
+          "#brazil",
+          "#daring",
+          "#crime",
+          "#shorts",
+          "#fyp"
+        ],
+        "created": "2026-08-07"
+      },
+      {
+        "title": "**The Baffling Case of DB Cooper**",
+        "file": "the_baffling_case_of_db_cooper.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_baffling_case_of_db_cooper.mp4",
+        "size_mb": 14.1,
+        "desc": "Uncover the fascinating story of DB Cooper, the man who hijacked a plane and jumped out with a ransom, never to be seen again. One of the most baffling cases in true crime history, DB Cooper's identity remains a mystery. Follow us for more intriguing true crime stories. #DBCooter #TrueCrime #Mystery #Seattle #USA",
+        "hashtags": [
+          "#DBCooter",
+          "#TrueCrime",
+          "#Mystery",
+          "#Seattle",
+          "#USA",
+          "#shorts",
+          "#fyp"
+        ],
+        "created": "2026-08-07"
+      },
+      {
         "title": "**The Legend of the Black Dahlia Murder**",
         "file": "the_legend_of_the_black_dahlia_murder.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_legend_of_the_black_dahlia_murder.mp4",
@@ -101,58 +154,6 @@
           "#fyp"
         ],
         "created": "2026-08-05"
-      },
-      {
-        "title": "**The Baffling Disappearance of Amelia Earhart**",
-        "file": "the_baffling_disappearance_of_amelia_earhart.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_baffling_disappearance_of_amelia_earhart.mp4",
-        "size_mb": 19.7,
-        "desc": "Amelia Earhart's disappearance is one of the most enduring unsolved mysteries in history. On July 2, 1937, Earhart's Lockheed Electra 10E disappeared over the Pacific Ocean, and despite numerous theories, what really happened remains a mystery. Follow us for more true crime stories.",
-        "hashtags": [
-          "#truecrime",
-          "#unsolvedmystery",
-          "#AmeliaEarhart",
-          "#aviation",
-          "#mystery",
-          "#history",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-08-05"
-      },
-      {
-        "title": "**The Legendary Heist at the Isabella Stewart Gardner Museum**",
-        "file": "the_legendary_heist_at_the_isabella_stewart_gardne.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_legendary_heist_at_the_isabella_stewart_gardne.mp4",
-        "size_mb": 19.6,
-        "desc": "The Isabella Stewart Gardner Museum heist is one of the most famous art thefts in history. On March 18, 1990, 13 works of art were stolen, and the case remains unsolved. Theories persist, but what really happened? Follow us for more true crime stories.",
-        "hashtags": [
-          "#truecrime",
-          "#unsolvedheist",
-          "#GardnerMuseum",
-          "#arttheft",
-          "#mystery",
-          "#crime",
-          "#history",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-08-04"
-      },
-      {
-        "title": "The Legend of the Beale Code",
-        "file": "the_legend_of_the_beale_code.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_legend_of_the_beale_code.mp4",
-        "size_mb": 13.4,
-        "desc": "The Beale Code is one of the most enduring treasure hunts in American history. Can you crack the code? Follow us for more treasure hunts. #shorts #treasurehunt #BealeCode",
-        "hashtags": [
-          "#shorts",
-          "#treasurehunt",
-          "#BealeCode",
-          "#cryptography",
-          "#mystery"
-        ],
-        "created": "2026-08-04"
       }
     ]
   },

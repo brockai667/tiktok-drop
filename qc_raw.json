@@ -1,5 +1,35 @@
 [
  {
+  "dur": 12,
+  "b_avg": 52,
+  "b_min": 40,
+  "s_avg": 277,
+  "s_min": 99,
+  "title": "**The Great Brink's Robbery**",
+  "repo": "coldcasedaily667",
+  "file": "the_great_brink_s_robbery.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 34,
+  "b_min": 11,
+  "s_avg": 286,
+  "s_min": 167,
+  "title": "**The Banco Central Burglary**",
+  "repo": "coldcasedaily667",
+  "file": "the_banco_central_burglary.mp4"
+ },
+ {
+  "dur": 13,
+  "b_avg": 36,
+  "b_min": 0,
+  "s_avg": 179,
+  "s_min": 7,
+  "title": "**The Baffling Case of DB Cooper**",
+  "repo": "coldcasedaily667",
+  "file": "the_baffling_case_of_db_cooper.mp4"
+ },
+ {
   "dur": 11,
   "b_avg": 34,
   "b_min": 6,
@@ -48,36 +78,6 @@
   "title": "**The Bizarre Disappearance of the M",
   "repo": "coldcasedaily667",
   "file": "the_bizarre_disappearance_of_the_martin_family.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 51,
-  "b_min": 25,
-  "s_avg": 137,
-  "s_min": 21,
-  "title": "**The Baffling Disappearance of Amel",
-  "repo": "coldcasedaily667",
-  "file": "the_baffling_disappearance_of_amelia_earhart.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 42,
-  "b_min": 24,
-  "s_avg": 224,
-  "s_min": 128,
-  "title": "**The Legendary Heist at the Isabell",
-  "repo": "coldcasedaily667",
-  "file": "the_legendary_heist_at_the_isabella_stewart_gardne.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 51,
-  "b_min": 36,
-  "s_avg": 111,
-  "s_min": 82,
-  "title": "The Legend of the Beale Code",
-  "repo": "coldcasedaily667",
-  "file": "the_legend_of_the_beale_code.mp4"
  },
  {
   "dur": 28,
