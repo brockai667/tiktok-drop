@@ -1,5 +1,25 @@
 [
  {
+  "dur": 18,
+  "b_avg": 40,
+  "b_min": 12,
+  "s_avg": 214,
+  "s_min": 64,
+  "title": "**The Mysterious Disappearance of Gl",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_disappearance_of_glenn_miller.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 54,
+  "b_min": 12,
+  "s_avg": 175,
+  "s_min": 51,
+  "title": "**The Great Brink's Robbery of 1950*",
+  "repo": "coldcasedaily667",
+  "file": "the_great_brink_s_robbery_of_1950.mp4"
+ },
+ {
   "dur": 12,
   "b_avg": 52,
   "b_min": 40,
@@ -60,24 +80,34 @@
   "file": "the_antwerp_diamond_heist.mp4"
  },
  {
-  "dur": 10,
-  "b_avg": 31,
-  "b_min": 5,
-  "s_avg": 108,
-  "s_min": 11,
-  "title": "**The Mysterious Case of the Phantom",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_case_of_the_phantom_killer.mp4"
+  "dur": 20,
+  "b_avg": 51,
+  "b_min": 14,
+  "s_avg": 485,
+  "s_min": 119,
+  "title": "Unveiling the Anunnaki Mystery",
+  "repo": "UnexplainedDaily",
+  "file": "unveiling_the_anunnaki_mystery.mp4"
  },
  {
-  "dur": 11,
-  "b_avg": 38,
-  "b_min": 7,
-  "s_avg": 149,
-  "s_min": 17,
-  "title": "**The Bizarre Disappearance of the M",
-  "repo": "coldcasedaily667",
-  "file": "the_bizarre_disappearance_of_the_martin_family.mp4"
+  "dur": 19,
+  "b_avg": 37,
+  "b_min": 14,
+  "s_avg": 619,
+  "s_min": 195,
+  "title": "The Global Megalithic Masonry Enigma",
+  "repo": "UnexplainedDaily",
+  "file": "the_global_megalithic_masonry_enigma.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 45,
+  "b_min": 14,
+  "s_avg": 501,
+  "s_min": 118,
+  "title": "The Enigmatic 7-Headed Serpent",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigmatic_7_headed_serpent.mp4"
  },
  {
   "dur": 28,
@@ -128,36 +158,6 @@
   "title": "The Enigmatic Fae Tree Portal",
   "repo": "UnexplainedDaily",
   "file": "the_enigmatic_fae_tree_portal.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 54,
-  "b_min": 14,
-  "s_avg": 382,
-  "s_min": 151,
-  "title": "Unraveling G\u00f6bekli Tepe's Mysteries",
-  "repo": "UnexplainedDaily",
-  "file": "unraveling_g_bekli_tepe_s_mysteries.mp4"
- },
- {
-  "dur": 14,
-  "b_avg": 28,
-  "b_min": 14,
-  "s_avg": 177,
-  "s_min": 79,
-  "title": "The Enigmatic Handbag of the Gods",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigmatic_handbag_of_the_gods.mp4"
- },
- {
-  "dur": 17,
-  "b_avg": 52,
-  "b_min": 14,
-  "s_avg": 286,
-  "s_min": 22,
-  "title": "Havana Syndrome: The Frey Effect",
-  "repo": "UnexplainedDaily",
-  "file": "havana_syndrome_the_frey_effect.mp4"
  },
  {
   "dur": 58,
