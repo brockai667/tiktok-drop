@@ -1,5 +1,25 @@
 [
  {
+  "dur": 14,
+  "b_avg": 59,
+  "b_min": 34,
+  "s_avg": 156,
+  "s_min": 61,
+  "title": "**The Daring Heist of the Knightsbri",
+  "repo": "coldcasedaily667",
+  "file": "the_daring_heist_of_the_knightsbridge_security_dep.mp4"
+ },
+ {
+  "dur": 12,
+  "b_avg": 68,
+  "b_min": 39,
+  "s_avg": 174,
+  "s_min": 103,
+  "title": "**The Baffling Case of the Taos Hum*",
+  "repo": "coldcasedaily667",
+  "file": "the_baffling_case_of_the_taos_hum.mp4"
+ },
+ {
   "dur": 18,
   "b_avg": 40,
   "b_min": 12,
@@ -60,24 +80,14 @@
   "file": "the_legend_of_the_black_dahlia_murder.mp4"
  },
  {
-  "dur": 16,
-  "b_avg": 49,
-  "b_min": 18,
-  "s_avg": 158,
-  "s_min": 70,
-  "title": "**The Great Northern Bank Robbery**",
-  "repo": "coldcasedaily667",
-  "file": "the_great_northern_bank_robbery.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 40,
-  "b_min": 23,
-  "s_avg": 559,
-  "s_min": 82,
-  "title": "**The Antwerp Diamond Heist**",
-  "repo": "coldcasedaily667",
-  "file": "the_antwerp_diamond_heist.mp4"
+  "dur": 21,
+  "b_avg": 47,
+  "b_min": 14,
+  "s_avg": 212,
+  "s_min": 90,
+  "title": "The Fungus Beneath Our Feet",
+  "repo": "UnexplainedDaily",
+  "file": "the_fungus_beneath_our_feet.mp4"
  },
  {
   "dur": 20,
@@ -150,14 +160,34 @@
   "file": "the_enigmatic_moai_statues_of_easter_island.mp4"
  },
  {
-  "dur": 15,
-  "b_avg": 13,
-  "b_min": 10,
-  "s_avg": 149,
-  "s_min": 43,
-  "title": "The Enigmatic Fae Tree Portal",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigmatic_fae_tree_portal.mp4"
+  "dur": 64,
+  "b_avg": 159,
+  "b_min": 156,
+  "s_avg": 476,
+  "s_min": 94,
+  "title": "Riddle 007 Mislabeled Jars",
+  "repo": "MotivationFactory",
+  "file": "riddle_007_mislabeled_jars.mp4"
+ },
+ {
+  "dur": 60,
+  "b_avg": 84,
+  "b_min": 73,
+  "s_avg": 314,
+  "s_min": 149,
+  "title": "Riddle 006 Water Jugs",
+  "repo": "MotivationFactory",
+  "file": "riddle_006_water_jugs.mp4"
+ },
+ {
+  "dur": 62,
+  "b_avg": 90,
+  "b_min": 39,
+  "s_avg": 283,
+  "s_min": 146,
+  "title": "Riddle 005 Three Switches",
+  "repo": "MotivationFactory",
+  "file": "riddle_005_three_switches.mp4"
  },
  {
   "dur": 58,
@@ -208,35 +238,5 @@
   "title": "How I Built Discipline in Just 7 Day",
   "repo": "MotivationFactory",
   "file": "how_i_built_discipline_in_just_7_days.mp4"
- },
- {
-  "dur": 17,
-  "b_avg": 112,
-  "b_min": 36,
-  "s_avg": 233,
-  "s_min": 49,
-  "title": "How 1 Habit Boosted My Income",
-  "repo": "MotivationFactory",
-  "file": "how_1_habit_boosted_my_income.mp4"
- },
- {
-  "dur": 11,
-  "b_avg": 82,
-  "b_min": 66,
-  "s_avg": 198,
-  "s_min": 83,
-  "title": "Transform Your Day: 30 Minutes to Be",
-  "repo": "MotivationFactory",
-  "file": "transform_your_day_30_minutes_to_better_focus.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 102,
-  "b_min": 34,
-  "s_avg": 821,
-  "s_min": 52,
-  "title": "The Surprising Impact of 5 Minutes: ",
-  "repo": "MotivationFactory",
-  "file": "the_surprising_impact_of_5_minutes_daily_disciplin.mp4"
  }
 ]
