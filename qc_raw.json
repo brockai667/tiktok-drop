@@ -1,5 +1,25 @@
 [
  {
+  "dur": 12,
+  "b_avg": 61,
+  "b_min": 35,
+  "s_avg": 132,
+  "s_min": 40,
+  "title": "**The Infamous DB Cooper**",
+  "repo": "coldcasedaily667",
+  "file": "the_infamous_db_cooper.mp4"
+ },
+ {
+  "dur": 12,
+  "b_avg": 56,
+  "b_min": 40,
+  "s_avg": 156,
+  "s_min": 56,
+  "title": "**The Daring Heist of the Northern B",
+  "repo": "coldcasedaily667",
+  "file": "the_daring_heist_of_the_northern_bank.mp4"
+ },
+ {
   "dur": 14,
   "b_avg": 59,
   "b_min": 34,
@@ -58,26 +78,6 @@
   "title": "**The Banco Central Burglary**",
   "repo": "coldcasedaily667",
   "file": "the_banco_central_burglary.mp4"
- },
- {
-  "dur": 13,
-  "b_avg": 36,
-  "b_min": 0,
-  "s_avg": 179,
-  "s_min": 7,
-  "title": "**The Baffling Case of DB Cooper**",
-  "repo": "coldcasedaily667",
-  "file": "the_baffling_case_of_db_cooper.mp4"
- },
- {
-  "dur": 11,
-  "b_avg": 34,
-  "b_min": 6,
-  "s_avg": 162,
-  "s_min": 53,
-  "title": "**The Legend of the Black Dahlia Mur",
-  "repo": "coldcasedaily667",
-  "file": "the_legend_of_the_black_dahlia_murder.mp4"
  },
  {
   "dur": 21,
@@ -161,6 +161,16 @@
  },
  {
   "dur": 64,
+  "b_avg": 135,
+  "b_min": 125,
+  "s_avg": 467,
+  "s_min": 147,
+  "title": "Riddle 008 Two Doors",
+  "repo": "MotivationFactory",
+  "file": "riddle_008_two_doors.mp4"
+ },
+ {
+  "dur": 64,
   "b_avg": 159,
   "b_min": 156,
   "s_avg": 476,
@@ -228,15 +238,5 @@
   "title": "Riddle 001 Choc Million",
   "repo": "MotivationFactory",
   "file": "riddle_001_choc_million.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 80,
-  "b_min": 19,
-  "s_avg": 187,
-  "s_min": 81,
-  "title": "How I Built Discipline in Just 7 Day",
-  "repo": "MotivationFactory",
-  "file": "how_i_built_discipline_in_just_7_days.mp4"
  }
 ]

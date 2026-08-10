@@ -14,6 +14,38 @@
     ],
     "videos": [
       {
+        "title": "**The Infamous DB Cooper**",
+        "file": "the_infamous_db_cooper.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_infamous_db_cooper.mp4",
+        "size_mb": 12.2,
+        "desc": "DB Cooper, the infamous skyjacker, parachuted out of a plane in 1971 with a $200,000 ransom. His identity and fate remain a mystery. Join us as we explore this intriguing case. Follow our channel for more true crime stories.",
+        "hashtags": [
+          "#dbcooper",
+          "#skyjacker",
+          "#portland",
+          "#truecrime",
+          "#shorts",
+          "#fyp"
+        ],
+        "created": "2026-08-10"
+      },
+      {
+        "title": "**The Daring Heist of the Northern Bank**",
+        "file": "the_daring_heist_of_the_northern_bank.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_daring_heist_of_the_northern_bank.mp4",
+        "size_mb": 11.9,
+        "desc": "The 2004 Northern Bank heist in Belfast, Northern Ireland, remains one of the most infamous crimes in history. Join us as we delve into the details of this daring heist. Follow our channel for more true crime stories.",
+        "hashtags": [
+          "#truecrime",
+          "#northernbankheist",
+          "#belfast",
+          "#heist",
+          "#shorts",
+          "#fyp"
+        ],
+        "created": "2026-08-10"
+      },
+      {
         "title": "**The Daring Heist of the Knightsbridge Security Deposit**",
         "file": "the_daring_heist_of_the_knightsbridge_security_dep.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_daring_heist_of_the_knightsbridge_security_dep.mp4",
@@ -116,40 +148,6 @@
           "#fyp"
         ],
         "created": "2026-08-07"
-      },
-      {
-        "title": "**The Baffling Case of DB Cooper**",
-        "file": "the_baffling_case_of_db_cooper.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_baffling_case_of_db_cooper.mp4",
-        "size_mb": 14.1,
-        "desc": "Uncover the fascinating story of DB Cooper, the man who hijacked a plane and jumped out with a ransom, never to be seen again. One of the most baffling cases in true crime history, DB Cooper's identity remains a mystery. Follow us for more intriguing true crime stories. #DBCooter #TrueCrime #Mystery #Seattle #USA",
-        "hashtags": [
-          "#DBCooter",
-          "#TrueCrime",
-          "#Mystery",
-          "#Seattle",
-          "#USA",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-08-07"
-      },
-      {
-        "title": "**The Legend of the Black Dahlia Murder**",
-        "file": "the_legend_of_the_black_dahlia_murder.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the_legend_of_the_black_dahlia_murder.mp4",
-        "size_mb": 11.8,
-        "desc": "The Black Dahlia murder is one of the most infamous unsolved crimes in history. Elizabeth Short's brutal murder in 1947 remains a mystery. Who killed the Black Dahlia? Follow for more true crime stories. #truecrime #blackdahlia #unsolvedmystery",
-        "hashtags": [
-          "#truecrime",
-          "#blackdahlia",
-          "#unsolvedmystery",
-          "#losangeles",
-          "#usa",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-08-06"
       }
     ]
   },
@@ -316,6 +314,22 @@
     ],
     "videos": [
       {
+        "title": "Riddle 008 Two Doors",
+        "file": "riddle_008_two_doors.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_008_two_doors.mp4",
+        "size_mb": 12.2,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-08-09"
+      },
+      {
         "title": "Riddle 007 Mislabeled Jars",
         "file": "riddle_007_mislabeled_jars.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_007_mislabeled_jars.mp4",
@@ -424,22 +438,6 @@
           "#logicpuzzle",
           "#brainheist",
           "#quiz"
-        ],
-        "created": "2026-08-01"
-      },
-      {
-        "title": "How I Built Discipline in Just 7 Days",
-        "file": "how_i_built_discipline_in_just_7_days.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/how_i_built_discipline_in_just_7_days.mp4",
-        "size_mb": 19.6,
-        "desc": "In one week, I built a powerful routine and gained control over my life. Discover how discipline can transform you! #shorts #discipline #success #habits #motivation #fyp",
-        "hashtags": [
-          "#shorts",
-          "#discipline",
-          "#success",
-          "#habits",
-          "#motivation",
-          "#fyp"
         ],
         "created": "2026-08-01"
       }
