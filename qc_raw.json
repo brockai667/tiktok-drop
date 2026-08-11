@@ -1,5 +1,35 @@
 [
  {
+  "dur": 11,
+  "b_avg": 65,
+  "b_min": 39,
+  "s_avg": 105,
+  "s_min": 24,
+  "title": "**The Mystery of the Mary Celeste**",
+  "repo": "coldcasedaily667",
+  "file": "the_mystery_of_the_mary_celeste.mp4"
+ },
+ {
+  "dur": 11,
+  "b_avg": 40,
+  "b_min": 0,
+  "s_avg": 123,
+  "s_min": 53,
+  "title": "**The Legend of the Zodiac Killer**",
+  "repo": "coldcasedaily667",
+  "file": "the_legend_of_the_zodiac_killer.mp4"
+ },
+ {
+  "dur": 11,
+  "b_avg": 54,
+  "b_min": 40,
+  "s_avg": 146,
+  "s_min": 10,
+  "title": "**The Great Train Robbery**",
+  "repo": "coldcasedaily667",
+  "file": "the_great_train_robbery.mp4"
+ },
+ {
   "dur": 12,
   "b_avg": 61,
   "b_min": 35,
@@ -50,34 +80,64 @@
   "file": "the_mysterious_disappearance_of_glenn_miller.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 54,
-  "b_min": 12,
-  "s_avg": 175,
-  "s_min": 51,
-  "title": "**The Great Brink's Robbery of 1950*",
-  "repo": "coldcasedaily667",
-  "file": "the_great_brink_s_robbery_of_1950.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 52,
-  "b_min": 40,
-  "s_avg": 277,
-  "s_min": 99,
-  "title": "**The Great Brink's Robbery**",
-  "repo": "coldcasedaily667",
-  "file": "the_great_brink_s_robbery.mp4"
- },
- {
   "dur": 16,
-  "b_avg": 34,
+  "b_avg": 22,
   "b_min": 11,
-  "s_avg": 286,
-  "s_min": 167,
-  "title": "**The Banco Central Burglary**",
-  "repo": "coldcasedaily667",
-  "file": "the_banco_central_burglary.mp4"
+  "s_avg": 854,
+  "s_min": 114,
+  "title": "Unveiling the Secrets of the 7-Heade",
+  "repo": "UnexplainedDaily",
+  "file": "unveiling_the_secrets_of_the_7_headed_serpent.mp4"
+ },
+ {
+  "dur": 22,
+  "b_avg": 22,
+  "b_min": 5,
+  "s_avg": 166,
+  "s_min": 55,
+  "title": "The Global Fungal Network: Uncoverin",
+  "repo": "UnexplainedDaily",
+  "file": "the_global_fungal_network_uncovering_the_truth.mp4"
+ },
+ {
+  "dur": 17,
+  "b_avg": 25,
+  "b_min": 12,
+  "s_avg": 319,
+  "s_min": 66,
+  "title": "The Enigma of Human Sacrifice in Anc",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigma_of_human_sacrifice_in_ancient_mesoameri.mp4"
+ },
+ {
+  "dur": 22,
+  "b_avg": 20,
+  "b_min": 6,
+  "s_avg": 202,
+  "s_min": 78,
+  "title": "Unveiling the Secrets of the Voynich",
+  "repo": "UnexplainedDaily",
+  "file": "unveiling_the_secrets_of_the_voynich_manuscript.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 46,
+  "b_min": 12,
+  "s_avg": 224,
+  "s_min": 94,
+  "title": "Uncovering the 7-Headed Serpent Enig",
+  "repo": "UnexplainedDaily",
+  "file": "uncovering_the_7_headed_serpent_enigma.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 29,
+  "b_min": 12,
+  "s_avg": 250,
+  "s_min": 118,
+  "title": "The Forgotten City of Thonis-Herakli",
+  "repo": "UnexplainedDaily",
+  "file": "the_forgotten_city_of_thonis_heraklion.mp4"
  },
  {
   "dur": 21,
@@ -100,64 +160,24 @@
   "file": "unveiling_the_anunnaki_mystery.mp4"
  },
  {
-  "dur": 19,
-  "b_avg": 37,
-  "b_min": 14,
-  "s_avg": 619,
-  "s_min": 195,
-  "title": "The Global Megalithic Masonry Enigma",
-  "repo": "UnexplainedDaily",
-  "file": "the_global_megalithic_masonry_enigma.mp4"
+  "dur": 74,
+  "b_avg": 148,
+  "b_min": 131,
+  "s_avg": 385,
+  "s_min": 266,
+  "title": "Riddle 010 Egg Drop",
+  "repo": "MotivationFactory",
+  "file": "riddle_010_egg_drop.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 45,
-  "b_min": 14,
-  "s_avg": 501,
-  "s_min": 118,
-  "title": "The Enigmatic 7-Headed Serpent",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigmatic_7_headed_serpent.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 56,
-  "b_min": 14,
-  "s_avg": 296,
-  "s_min": 123,
-  "title": "The Mystery of the Gobekli Tepe Temp",
-  "repo": "UnexplainedDaily",
-  "file": "the_mystery_of_the_gobekli_tepe_temple.mp4"
- },
- {
-  "dur": 27,
-  "b_avg": 42,
-  "b_min": 14,
-  "s_avg": 341,
-  "s_min": 277,
-  "title": "Unveiling the Secrets of the Terraco",
-  "repo": "UnexplainedDaily",
-  "file": "unveiling_the_secrets_of_the_terracotta_army.mp4"
- },
- {
-  "dur": 22,
-  "b_avg": 60,
-  "b_min": 14,
-  "s_avg": 306,
-  "s_min": 56,
-  "title": "The Mysterious Sumerian King List",
-  "repo": "UnexplainedDaily",
-  "file": "the_mysterious_sumerian_king_list.mp4"
- },
- {
-  "dur": 26,
-  "b_avg": 39,
-  "b_min": 14,
-  "s_avg": 371,
-  "s_min": 95,
-  "title": "The Enigmatic Moai Statues of Easter",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigmatic_moai_statues_of_easter_island.mp4"
+  "dur": 69,
+  "b_avg": 108,
+  "b_min": 54,
+  "s_avg": 523,
+  "s_min": 266,
+  "title": "Riddle 009 Bridge Torch",
+  "repo": "MotivationFactory",
+  "file": "riddle_009_bridge_torch.mp4"
  },
  {
   "dur": 64,
@@ -218,25 +238,5 @@
   "title": "Riddle 003 Fake Coin 12",
   "repo": "MotivationFactory",
   "file": "riddle_003_fake_coin_12.mp4"
- },
- {
-  "dur": 53,
-  "b_avg": 109,
-  "b_min": 59,
-  "s_avg": 235,
-  "s_min": 98,
-  "title": "Riddle 002 Nine Balls",
-  "repo": "MotivationFactory",
-  "file": "riddle_002_nine_balls.mp4"
- },
- {
-  "dur": 83,
-  "b_avg": 120,
-  "b_min": 110,
-  "s_avg": 231,
-  "s_min": 103,
-  "title": "Riddle 001 Choc Million",
-  "repo": "MotivationFactory",
-  "file": "riddle_001_choc_million.mp4"
  }
 ]
