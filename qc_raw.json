@@ -1,5 +1,35 @@
 [
  {
+  "dur": 13,
+  "b_avg": 56,
+  "b_min": 32,
+  "s_avg": 118,
+  "s_min": 45,
+  "title": "**The Mysterious Disappearance of th",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_disappearance_of_the_ss_poet.mp4"
+ },
+ {
+  "dur": 10,
+  "b_avg": 70,
+  "b_min": 35,
+  "s_avg": 133,
+  "s_min": 30,
+  "title": "**The Disappearance of Amelia Earhar",
+  "repo": "coldcasedaily667",
+  "file": "the_disappearance_of_amelia_earhart.mp4"
+ },
+ {
+  "dur": 14,
+  "b_avg": 47,
+  "b_min": 35,
+  "s_avg": 159,
+  "s_min": 46,
+  "title": "**The Bizarre Case of the To\u0142pa\u010d Fam",
+  "repo": "coldcasedaily667",
+  "file": "the_bizarre_case_of_the_to_pa_family.mp4"
+ },
+ {
   "dur": 11,
   "b_avg": 65,
   "b_min": 39,
@@ -50,34 +80,34 @@
   "file": "the_daring_heist_of_the_northern_bank.mp4"
  },
  {
-  "dur": 14,
-  "b_avg": 59,
-  "b_min": 34,
-  "s_avg": 156,
-  "s_min": 61,
-  "title": "**The Daring Heist of the Knightsbri",
-  "repo": "coldcasedaily667",
-  "file": "the_daring_heist_of_the_knightsbridge_security_dep.mp4"
+  "dur": 20,
+  "b_avg": 22,
+  "b_min": 12,
+  "s_avg": 209,
+  "s_min": 43,
+  "title": "What Happens After Death?",
+  "repo": "UnexplainedDaily",
+  "file": "what_happens_after_death.mp4"
  },
  {
-  "dur": 12,
-  "b_avg": 68,
-  "b_min": 39,
-  "s_avg": 174,
-  "s_min": 103,
-  "title": "**The Baffling Case of the Taos Hum*",
-  "repo": "coldcasedaily667",
-  "file": "the_baffling_case_of_the_taos_hum.mp4"
+  "dur": 15,
+  "b_avg": 33,
+  "b_min": 12,
+  "s_avg": 312,
+  "s_min": 56,
+  "title": "Unraveling the Mystery of Fungal Net",
+  "repo": "UnexplainedDaily",
+  "file": "unraveling_the_mystery_of_fungal_networks.mp4"
  },
  {
   "dur": 18,
-  "b_avg": 40,
+  "b_avg": 19,
   "b_min": 12,
-  "s_avg": 214,
-  "s_min": 64,
-  "title": "**The Mysterious Disappearance of Gl",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_disappearance_of_glenn_miller.mp4"
+  "s_avg": 184,
+  "s_min": 51,
+  "title": "The Solar Builder's Tragic Fate",
+  "repo": "UnexplainedDaily",
+  "file": "the_solar_builder_s_tragic_fate.mp4"
  },
  {
   "dur": 16,
@@ -128,36 +158,6 @@
   "title": "Uncovering the 7-Headed Serpent Enig",
   "repo": "UnexplainedDaily",
   "file": "uncovering_the_7_headed_serpent_enigma.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 29,
-  "b_min": 12,
-  "s_avg": 250,
-  "s_min": 118,
-  "title": "The Forgotten City of Thonis-Herakli",
-  "repo": "UnexplainedDaily",
-  "file": "the_forgotten_city_of_thonis_heraklion.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 47,
-  "b_min": 14,
-  "s_avg": 212,
-  "s_min": 90,
-  "title": "The Fungus Beneath Our Feet",
-  "repo": "UnexplainedDaily",
-  "file": "the_fungus_beneath_our_feet.mp4"
- },
- {
-  "dur": 20,
-  "b_avg": 51,
-  "b_min": 14,
-  "s_avg": 485,
-  "s_min": 119,
-  "title": "Unveiling the Anunnaki Mystery",
-  "repo": "UnexplainedDaily",
-  "file": "unveiling_the_anunnaki_mystery.mp4"
  },
  {
   "dur": 74,
