@@ -1,5 +1,35 @@
 [
  {
+  "dur": 16,
+  "b_avg": 58,
+  "b_min": 36,
+  "s_avg": 311,
+  "s_min": 51,
+  "title": "**The Theft of the Marlborough Gems*",
+  "repo": "coldcasedaily667",
+  "file": "the_theft_of_the_marlborough_gems.mp4"
+ },
+ {
+  "dur": 13,
+  "b_avg": 43,
+  "b_min": 31,
+  "s_avg": 154,
+  "s_min": 80,
+  "title": "**The Mysterious Heist at the Mus\u00e9e ",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_heist_at_the_mus_e_d_art_moderne.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 64,
+  "b_min": 35,
+  "s_avg": 168,
+  "s_min": 48,
+  "title": "**The Disappearance of Glenn Miller*",
+  "repo": "coldcasedaily667",
+  "file": "the_disappearance_of_glenn_miller.mp4"
+ },
+ {
   "dur": 13,
   "b_avg": 56,
   "b_min": 32,
@@ -50,34 +80,34 @@
   "file": "the_legend_of_the_zodiac_killer.mp4"
  },
  {
-  "dur": 11,
-  "b_avg": 54,
-  "b_min": 40,
-  "s_avg": 146,
-  "s_min": 10,
-  "title": "**The Great Train Robbery**",
-  "repo": "coldcasedaily667",
-  "file": "the_great_train_robbery.mp4"
+  "dur": 25,
+  "b_avg": 31,
+  "b_min": 6,
+  "s_avg": 413,
+  "s_min": 144,
+  "title": "The Mysterious Great Attractor",
+  "repo": "UnexplainedDaily",
+  "file": "the_mysterious_great_attractor.mp4"
  },
  {
-  "dur": 12,
-  "b_avg": 61,
-  "b_min": 35,
-  "s_avg": 132,
-  "s_min": 40,
-  "title": "**The Infamous DB Cooper**",
-  "repo": "coldcasedaily667",
-  "file": "the_infamous_db_cooper.mp4"
+  "dur": 15,
+  "b_avg": 59,
+  "b_min": 14,
+  "s_avg": 128,
+  "s_min": 22,
+  "title": "DMT and the Afterlife",
+  "repo": "UnexplainedDaily",
+  "file": "dmt_and_the_afterlife.mp4"
  },
  {
-  "dur": 12,
-  "b_avg": 56,
-  "b_min": 40,
-  "s_avg": 156,
-  "s_min": 56,
-  "title": "**The Daring Heist of the Northern B",
-  "repo": "coldcasedaily667",
-  "file": "the_daring_heist_of_the_northern_bank.mp4"
+  "dur": 14,
+  "b_avg": 68,
+  "b_min": 14,
+  "s_avg": 107,
+  "s_min": 11,
+  "title": "Deja Vu: A System Error?",
+  "repo": "UnexplainedDaily",
+  "file": "deja_vu_a_system_error.mp4"
  },
  {
   "dur": 20,
@@ -128,36 +158,6 @@
   "title": "The Global Fungal Network: Uncoverin",
   "repo": "UnexplainedDaily",
   "file": "the_global_fungal_network_uncovering_the_truth.mp4"
- },
- {
-  "dur": 17,
-  "b_avg": 25,
-  "b_min": 12,
-  "s_avg": 319,
-  "s_min": 66,
-  "title": "The Enigma of Human Sacrifice in Anc",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigma_of_human_sacrifice_in_ancient_mesoameri.mp4"
- },
- {
-  "dur": 22,
-  "b_avg": 20,
-  "b_min": 6,
-  "s_avg": 202,
-  "s_min": 78,
-  "title": "Unveiling the Secrets of the Voynich",
-  "repo": "UnexplainedDaily",
-  "file": "unveiling_the_secrets_of_the_voynich_manuscript.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 46,
-  "b_min": 12,
-  "s_avg": 224,
-  "s_min": 94,
-  "title": "Uncovering the 7-Headed Serpent Enig",
-  "repo": "UnexplainedDaily",
-  "file": "uncovering_the_7_headed_serpent_enigma.mp4"
  },
  {
   "dur": 74,
