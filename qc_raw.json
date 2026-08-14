@@ -1,5 +1,35 @@
 [
  {
+  "dur": 26,
+  "b_avg": 71,
+  "b_min": 35,
+  "s_avg": 304,
+  "s_min": 161,
+  "title": "**The Mysterious Disappearance of th",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_disappearance_of_the_star_dust.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 37,
+  "b_min": 17,
+  "s_avg": 221,
+  "s_min": 43,
+  "title": "**The Murder at Hinterkaifeck Farm**",
+  "repo": "coldcasedaily667",
+  "file": "the_murder_at_hinterkaifeck_farm.mp4"
+ },
+ {
+  "dur": 27,
+  "b_avg": 35,
+  "b_min": 12,
+  "s_avg": 128,
+  "s_min": 55,
+  "title": "**The Great Imposter: The Case of Fr",
+  "repo": "coldcasedaily667",
+  "file": "the_great_imposter_the_case_of_frank_abagnale_jr.mp4"
+ },
+ {
   "dur": 16,
   "b_avg": 58,
   "b_min": 36,
@@ -50,34 +80,34 @@
   "file": "the_disappearance_of_amelia_earhart.mp4"
  },
  {
-  "dur": 14,
-  "b_avg": 47,
-  "b_min": 35,
-  "s_avg": 159,
-  "s_min": 46,
-  "title": "**The Bizarre Case of the To\u0142pa\u010d Fam",
-  "repo": "coldcasedaily667",
-  "file": "the_bizarre_case_of_the_to_pa_family.mp4"
+  "dur": 21,
+  "b_avg": 28,
+  "b_min": 12,
+  "s_avg": 264,
+  "s_min": 85,
+  "title": "Unveiling the Secrets of the Taos Hu",
+  "repo": "UnexplainedDaily",
+  "file": "unveiling_the_secrets_of_the_taos_hum.mp4"
  },
  {
-  "dur": 11,
-  "b_avg": 65,
-  "b_min": 39,
-  "s_avg": 105,
-  "s_min": 24,
-  "title": "**The Mystery of the Mary Celeste**",
-  "repo": "coldcasedaily667",
-  "file": "the_mystery_of_the_mary_celeste.mp4"
+  "dur": 27,
+  "b_avg": 34,
+  "b_min": 4,
+  "s_avg": 195,
+  "s_min": 93,
+  "title": "The Enigma of the Fast Radio Bursts",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigma_of_the_fast_radio_bursts.mp4"
  },
  {
-  "dur": 11,
-  "b_avg": 40,
-  "b_min": 0,
-  "s_avg": 123,
-  "s_min": 53,
-  "title": "**The Legend of the Zodiac Killer**",
-  "repo": "coldcasedaily667",
-  "file": "the_legend_of_the_zodiac_killer.mp4"
+  "dur": 30,
+  "b_avg": 22,
+  "b_min": 6,
+  "s_avg": 187,
+  "s_min": 108,
+  "title": "The Bloop: The Mysterious Low-Freque",
+  "repo": "UnexplainedDaily",
+  "file": "the_bloop_the_mysterious_low_frequency_sound.mp4"
  },
  {
   "dur": 25,
@@ -128,36 +158,6 @@
   "title": "Unraveling the Mystery of Fungal Net",
   "repo": "UnexplainedDaily",
   "file": "unraveling_the_mystery_of_fungal_networks.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 19,
-  "b_min": 12,
-  "s_avg": 184,
-  "s_min": 51,
-  "title": "The Solar Builder's Tragic Fate",
-  "repo": "UnexplainedDaily",
-  "file": "the_solar_builder_s_tragic_fate.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 22,
-  "b_min": 11,
-  "s_avg": 854,
-  "s_min": 114,
-  "title": "Unveiling the Secrets of the 7-Heade",
-  "repo": "UnexplainedDaily",
-  "file": "unveiling_the_secrets_of_the_7_headed_serpent.mp4"
- },
- {
-  "dur": 22,
-  "b_avg": 22,
-  "b_min": 5,
-  "s_avg": 166,
-  "s_min": 55,
-  "title": "The Global Fungal Network: Uncoverin",
-  "repo": "UnexplainedDaily",
-  "file": "the_global_fungal_network_uncovering_the_truth.mp4"
  },
  {
   "dur": 74,
