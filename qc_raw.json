@@ -1,5 +1,35 @@
 [
  {
+  "dur": 12,
+  "b_avg": 53,
+  "b_min": 6,
+  "s_avg": 140,
+  "s_min": 49,
+  "title": "**The Mysterious Case of the Isabell",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_case_of_the_isabella_stewart_gardne.mp4"
+ },
+ {
+  "dur": 12,
+  "b_avg": 43,
+  "b_min": 1,
+  "s_avg": 150,
+  "s_min": 11,
+  "title": "**The Legendary Heist of the Brink's",
+  "repo": "coldcasedaily667",
+  "file": "the_legendary_heist_of_the_brink_s_company.mp4"
+ },
+ {
+  "dur": 25,
+  "b_avg": 35,
+  "b_min": 11,
+  "s_avg": 155,
+  "s_min": 5,
+  "title": "**The Isabella Stewart Gardner Museu",
+  "repo": "coldcasedaily667",
+  "file": "the_isabella_stewart_gardner_museum_heist.mp4"
+ },
+ {
   "dur": 26,
   "b_avg": 71,
   "b_min": 35,
@@ -50,34 +80,34 @@
   "file": "the_mysterious_heist_at_the_mus_e_d_art_moderne.mp4"
  },
  {
+  "dur": 18,
+  "b_avg": 19,
+  "b_min": 9,
+  "s_avg": 179,
+  "s_min": 15,
+  "title": "The Mysterious Great Blue Hole",
+  "repo": "UnexplainedDaily",
+  "file": "the_mysterious_great_blue_hole.mp4"
+ },
+ {
   "dur": 16,
-  "b_avg": 64,
-  "b_min": 35,
-  "s_avg": 168,
-  "s_min": 48,
-  "title": "**The Disappearance of Glenn Miller*",
-  "repo": "coldcasedaily667",
-  "file": "the_disappearance_of_glenn_miller.mp4"
+  "b_avg": 50,
+  "b_min": 4,
+  "s_avg": 212,
+  "s_min": 87,
+  "title": "The Bloop's Source",
+  "repo": "UnexplainedDaily",
+  "file": "the_bloop_s_source.mp4"
  },
  {
-  "dur": 13,
-  "b_avg": 56,
-  "b_min": 32,
-  "s_avg": 118,
-  "s_min": 45,
-  "title": "**The Mysterious Disappearance of th",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_disappearance_of_the_ss_poet.mp4"
- },
- {
-  "dur": 10,
-  "b_avg": 70,
-  "b_min": 35,
-  "s_avg": 133,
-  "s_min": 30,
-  "title": "**The Disappearance of Amelia Earhar",
-  "repo": "coldcasedaily667",
-  "file": "the_disappearance_of_amelia_earhart.mp4"
+  "dur": 15,
+  "b_avg": 29,
+  "b_min": 11,
+  "s_avg": 195,
+  "s_min": 46,
+  "title": "68 Billion Miles of Fungus",
+  "repo": "UnexplainedDaily",
+  "file": "68_billion_miles_of_fungus.mp4"
  },
  {
   "dur": 21,
@@ -130,34 +160,14 @@
   "file": "dmt_and_the_afterlife.mp4"
  },
  {
-  "dur": 14,
-  "b_avg": 68,
-  "b_min": 14,
-  "s_avg": 107,
-  "s_min": 11,
-  "title": "Deja Vu: A System Error?",
-  "repo": "UnexplainedDaily",
-  "file": "deja_vu_a_system_error.mp4"
- },
- {
-  "dur": 20,
-  "b_avg": 22,
-  "b_min": 12,
-  "s_avg": 209,
-  "s_min": 43,
-  "title": "What Happens After Death?",
-  "repo": "UnexplainedDaily",
-  "file": "what_happens_after_death.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 33,
-  "b_min": 12,
-  "s_avg": 312,
-  "s_min": 56,
-  "title": "Unraveling the Mystery of Fungal Net",
-  "repo": "UnexplainedDaily",
-  "file": "unraveling_the_mystery_of_fungal_networks.mp4"
+  "dur": 81,
+  "b_avg": 109,
+  "b_min": 100,
+  "s_avg": 291,
+  "s_min": 106,
+  "title": "Riddle 011 Gold Bar",
+  "repo": "MotivationFactory",
+  "file": "riddle_011_gold_bar.mp4"
  },
  {
   "dur": 74,
@@ -228,15 +238,5 @@
   "title": "Riddle 004 Two Ropes",
   "repo": "MotivationFactory",
   "file": "riddle_004_two_ropes.mp4"
- },
- {
-  "dur": 64,
-  "b_avg": 168,
-  "b_min": 153,
-  "s_avg": 217,
-  "s_min": 88,
-  "title": "Riddle 003 Fake Coin 12",
-  "repo": "MotivationFactory",
-  "file": "riddle_003_fake_coin_12.mp4"
  }
 ]
