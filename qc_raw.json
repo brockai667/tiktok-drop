@@ -1,5 +1,35 @@
 [
  {
+  "dur": 15,
+  "b_avg": 36,
+  "b_min": 11,
+  "s_avg": 125,
+  "s_min": 26,
+  "title": "**The Great Brink's Robbery: A Legen",
+  "repo": "coldcasedaily667",
+  "file": "the_great_brink_s_robbery_a_legendary_heist.mp4"
+ },
+ {
+  "dur": 15,
+  "b_avg": 38,
+  "b_min": 11,
+  "s_avg": 125,
+  "s_min": 55,
+  "title": "**The Disappearance of the Sodder Ch",
+  "repo": "coldcasedaily667",
+  "file": "the_disappearance_of_the_sodder_children_a_family_.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 45,
+  "b_min": 31,
+  "s_avg": 208,
+  "s_min": 119,
+  "title": "**The Disappearance of Glenn Miller:",
+  "repo": "coldcasedaily667",
+  "file": "the_disappearance_of_glenn_miller_a_musical_myster.mp4"
+ },
+ {
   "dur": 12,
   "b_avg": 53,
   "b_min": 6,
@@ -50,34 +80,34 @@
   "file": "the_murder_at_hinterkaifeck_farm.mp4"
  },
  {
-  "dur": 27,
-  "b_avg": 35,
-  "b_min": 12,
-  "s_avg": 128,
-  "s_min": 55,
-  "title": "**The Great Imposter: The Case of Fr",
-  "repo": "coldcasedaily667",
-  "file": "the_great_imposter_the_case_of_frank_abagnale_jr.mp4"
+  "dur": 11,
+  "b_avg": 46,
+  "b_min": 11,
+  "s_avg": 653,
+  "s_min": 99,
+  "title": "The Enigma of the Lycurgus Cup",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigma_of_the_lycurgus_cup.mp4"
  },
  {
-  "dur": 16,
-  "b_avg": 58,
-  "b_min": 36,
-  "s_avg": 311,
-  "s_min": 51,
-  "title": "**The Theft of the Marlborough Gems*",
-  "repo": "coldcasedaily667",
-  "file": "the_theft_of_the_marlborough_gems.mp4"
+  "dur": 12,
+  "b_avg": 28,
+  "b_min": 9,
+  "s_avg": 243,
+  "s_min": 2,
+  "title": "Mystery of the Derinkuyu Underground",
+  "repo": "UnexplainedDaily",
+  "file": "mystery_of_the_derinkuyu_underground.mp4"
  },
  {
-  "dur": 13,
-  "b_avg": 43,
-  "b_min": 31,
-  "s_avg": 154,
-  "s_min": 80,
-  "title": "**The Mysterious Heist at the Mus\u00e9e ",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_heist_at_the_mus_e_d_art_moderne.mp4"
+  "dur": 15,
+  "b_avg": 36,
+  "b_min": 14,
+  "s_avg": 131,
+  "s_min": 17,
+  "title": "Deja Vu: A Glimpse into the Brain's ",
+  "repo": "UnexplainedDaily",
+  "file": "deja_vu_a_glimpse_into_the_brain_s_machinery.mp4"
  },
  {
   "dur": 18,
@@ -130,34 +160,24 @@
   "file": "the_enigma_of_the_fast_radio_bursts.mp4"
  },
  {
-  "dur": 30,
-  "b_avg": 22,
-  "b_min": 6,
-  "s_avg": 187,
-  "s_min": 108,
-  "title": "The Bloop: The Mysterious Low-Freque",
-  "repo": "UnexplainedDaily",
-  "file": "the_bloop_the_mysterious_low_frequency_sound.mp4"
+  "dur": 83,
+  "b_avg": 151,
+  "b_min": 109,
+  "s_avg": 579,
+  "s_min": 452,
+  "title": "Riddle 013 Hats10",
+  "repo": "MotivationFactory",
+  "file": "riddle_013_hats10.mp4"
  },
  {
-  "dur": 25,
-  "b_avg": 31,
-  "b_min": 6,
-  "s_avg": 413,
-  "s_min": 144,
-  "title": "The Mysterious Great Attractor",
-  "repo": "UnexplainedDaily",
-  "file": "the_mysterious_great_attractor.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 59,
-  "b_min": 14,
-  "s_avg": 128,
-  "s_min": 22,
-  "title": "DMT and the Afterlife",
-  "repo": "UnexplainedDaily",
-  "file": "dmt_and_the_afterlife.mp4"
+  "dur": 87,
+  "b_avg": 75,
+  "b_min": 44,
+  "s_avg": 537,
+  "s_min": 289,
+  "title": "Riddle 012 Doors100",
+  "repo": "MotivationFactory",
+  "file": "riddle_012_doors100.mp4"
  },
  {
   "dur": 81,
@@ -218,25 +238,5 @@
   "title": "Riddle 006 Water Jugs",
   "repo": "MotivationFactory",
   "file": "riddle_006_water_jugs.mp4"
- },
- {
-  "dur": 62,
-  "b_avg": 90,
-  "b_min": 39,
-  "s_avg": 283,
-  "s_min": 146,
-  "title": "Riddle 005 Three Switches",
-  "repo": "MotivationFactory",
-  "file": "riddle_005_three_switches.mp4"
- },
- {
-  "dur": 58,
-  "b_avg": 59,
-  "b_min": 53,
-  "s_avg": 312,
-  "s_min": 143,
-  "title": "Riddle 004 Two Ropes",
-  "repo": "MotivationFactory",
-  "file": "riddle_004_two_ropes.mp4"
  }
 ]
