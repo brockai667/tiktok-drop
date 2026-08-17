@@ -1,5 +1,15 @@
 [
  {
+  "dur": 14,
+  "b_avg": 42,
+  "b_min": 18,
+  "s_avg": 128,
+  "s_min": 31,
+  "title": "**The Disappearance of the Mary Cele",
+  "repo": "coldcasedaily667",
+  "file": "the_disappearance_of_the_mary_celeste.mp4"
+ },
+ {
   "dur": 15,
   "b_avg": 36,
   "b_min": 11,
@@ -70,14 +80,34 @@
   "file": "the_mysterious_disappearance_of_the_star_dust.mp4"
  },
  {
+  "dur": 11,
+  "b_avg": 50,
+  "b_min": 10,
+  "s_avg": 183,
+  "s_min": 54,
+  "title": "What Lies Beyond the Taos Hum?",
+  "repo": "UnexplainedDaily",
+  "file": "what_lies_beyond_the_taos_hum.mp4"
+ },
+ {
+  "dur": 14,
+  "b_avg": 62,
+  "b_min": 14,
+  "s_avg": 209,
+  "s_min": 86,
+  "title": "Uncovering the Secrets of the Gobekl",
+  "repo": "UnexplainedDaily",
+  "file": "uncovering_the_secrets_of_the_gobekli_tepe.mp4"
+ },
+ {
   "dur": 16,
-  "b_avg": 37,
-  "b_min": 17,
-  "s_avg": 221,
-  "s_min": 43,
-  "title": "**The Murder at Hinterkaifeck Farm**",
-  "repo": "coldcasedaily667",
-  "file": "the_murder_at_hinterkaifeck_farm.mp4"
+  "b_avg": 41,
+  "b_min": 14,
+  "s_avg": 1040,
+  "s_min": 118,
+  "title": "The 7-Headed Serpent of Angkor Wat",
+  "repo": "UnexplainedDaily",
+  "file": "the_7_headed_serpent_of_angkor_wat.mp4"
  },
  {
   "dur": 11,
@@ -128,36 +158,6 @@
   "title": "The Bloop's Source",
   "repo": "UnexplainedDaily",
   "file": "the_bloop_s_source.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 29,
-  "b_min": 11,
-  "s_avg": 195,
-  "s_min": 46,
-  "title": "68 Billion Miles of Fungus",
-  "repo": "UnexplainedDaily",
-  "file": "68_billion_miles_of_fungus.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 28,
-  "b_min": 12,
-  "s_avg": 264,
-  "s_min": 85,
-  "title": "Unveiling the Secrets of the Taos Hu",
-  "repo": "UnexplainedDaily",
-  "file": "unveiling_the_secrets_of_the_taos_hum.mp4"
- },
- {
-  "dur": 27,
-  "b_avg": 34,
-  "b_min": 4,
-  "s_avg": 195,
-  "s_min": 93,
-  "title": "The Enigma of the Fast Radio Bursts",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigma_of_the_fast_radio_bursts.mp4"
  },
  {
   "dur": 83,
