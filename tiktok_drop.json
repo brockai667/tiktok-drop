@@ -168,6 +168,40 @@
     ],
     "videos": [
       {
+        "title": "What Lies Beyond the Great Attractor?",
+        "file": "what_lies_beyond_the_great_attractor.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/what_lies_beyond_the_great_attractor.mp4",
+        "size_mb": 18.8,
+        "desc": "The Great Attractor is a region of space that's pulling our galaxy and many others towards it. But what's behind this massive gravitational force? Join us as we explore one of the universe's biggest mysteries.",
+        "hashtags": [
+          "#space",
+          "#mystery",
+          "#galaxy",
+          "#cosmos",
+          "#unexplained",
+          "#astronomy",
+          "#shorts",
+          "#fyp"
+        ],
+        "created": "2026-08-18"
+      },
+      {
+        "title": "Unlocking the Secrets of the Lycurgus Cup",
+        "file": "unlocking_the_secrets_of_the_lycurgus_cup.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/unlocking_the_secrets_of_the_lycurgus_cup.mp4",
+        "size_mb": 11.4,
+        "desc": "The Lycurgus Cup is a 4th-century Roman glass cup that changes color depending on the lighting. What is its secret? Follow us for more mysteries.",
+        "hashtags": [
+          "#shorts",
+          "#mystery",
+          "#ancientart",
+          "#LycurgusCup",
+          "#RomanGlass",
+          "#BritishMuseum"
+        ],
+        "created": "2026-08-18"
+      },
+      {
         "title": "What Lies Beyond the Taos Hum?",
         "file": "what_lies_beyond_the_taos_hum.mp4",
         "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/what_lies_beyond_the_taos_hum.mp4",
@@ -267,42 +301,6 @@
           "#fyp"
         ],
         "created": "2026-08-16"
-      },
-      {
-        "title": "The Mysterious Great Blue Hole",
-        "file": "the_mysterious_great_blue_hole.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_mysterious_great_blue_hole.mp4",
-        "size_mb": 19.2,
-        "desc": "The Great Blue Hole is a massive submarine sinkhole that has fascinated scientists and explorers for decades. But how was it formed? Follow us for more ocean mysteries. The Mysterious Great Blue Hole is still an enigma.",
-        "hashtags": [
-          "#TheGreatBlueHole",
-          "#OceanMysteries",
-          "#Sinkhole",
-          "#Underwater",
-          "#Belize",
-          "#Science",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-08-15"
-      },
-      {
-        "title": "The Bloop's Source",
-        "file": "the_bloop_s_source.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_bloop_s_source.mp4",
-        "size_mb": 17.9,
-        "desc": "The Bloop is a mysterious low-frequency sound that was detected in the Pacific Ocean. But what's causing it? Join us as we dive into the unknown.",
-        "hashtags": [
-          "#ocean",
-          "#mystery",
-          "#sound",
-          "#unexplained",
-          "#science",
-          "#marinebiology",
-          "#shorts",
-          "#fyp"
-        ],
-        "created": "2026-08-15"
       }
     ]
   },
@@ -318,6 +316,38 @@
       "#quiz"
     ],
     "videos": [
+      {
+        "title": "Riddle 015 Coins Dark",
+        "file": "riddle_015_coins_dark.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_015_coins_dark.mp4",
+        "size_mb": 12.4,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-08-17"
+      },
+      {
+        "title": "Riddle 014 Wine1000",
+        "file": "riddle_014_wine1000.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_014_wine1000.mp4",
+        "size_mb": 14.0,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-08-17"
+      },
       {
         "title": "Riddle 013 Hats10",
         "file": "riddle_013_hats10.mp4",
@@ -413,38 +443,6 @@
           "#quiz"
         ],
         "created": "2026-08-09"
-      },
-      {
-        "title": "Riddle 007 Mislabeled Jars",
-        "file": "riddle_007_mislabeled_jars.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_007_mislabeled_jars.mp4",
-        "size_mb": 13.3,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-08-08"
-      },
-      {
-        "title": "Riddle 006 Water Jugs",
-        "file": "riddle_006_water_jugs.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_006_water_jugs.mp4",
-        "size_mb": 12.6,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-08-08"
       }
     ]
   }

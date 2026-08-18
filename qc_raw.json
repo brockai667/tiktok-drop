@@ -80,6 +80,26 @@
   "file": "the_mysterious_disappearance_of_the_star_dust.mp4"
  },
  {
+  "dur": 18,
+  "b_avg": 9,
+  "b_min": 4,
+  "s_avg": 152,
+  "s_min": 11,
+  "title": "What Lies Beyond the Great Attractor",
+  "repo": "UnexplainedDaily",
+  "file": "what_lies_beyond_the_great_attractor.mp4"
+ },
+ {
+  "dur": 12,
+  "b_avg": 34,
+  "b_min": 11,
+  "s_avg": 133,
+  "s_min": 80,
+  "title": "Unlocking the Secrets of the Lycurgu",
+  "repo": "UnexplainedDaily",
+  "file": "unlocking_the_secrets_of_the_lycurgus_cup.mp4"
+ },
+ {
   "dur": 11,
   "b_avg": 50,
   "b_min": 10,
@@ -140,24 +160,24 @@
   "file": "deja_vu_a_glimpse_into_the_brain_s_machinery.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 19,
-  "b_min": 9,
-  "s_avg": 179,
-  "s_min": 15,
-  "title": "The Mysterious Great Blue Hole",
-  "repo": "UnexplainedDaily",
-  "file": "the_mysterious_great_blue_hole.mp4"
+  "dur": 78,
+  "b_avg": 101,
+  "b_min": 16,
+  "s_avg": 311,
+  "s_min": 131,
+  "title": "Riddle 015 Coins Dark",
+  "repo": "MotivationFactory",
+  "file": "riddle_015_coins_dark.mp4"
  },
  {
-  "dur": 16,
-  "b_avg": 50,
-  "b_min": 4,
-  "s_avg": 212,
-  "s_min": 87,
-  "title": "The Bloop's Source",
-  "repo": "UnexplainedDaily",
-  "file": "the_bloop_s_source.mp4"
+  "dur": 85,
+  "b_avg": 105,
+  "b_min": 91,
+  "s_avg": 326,
+  "s_min": 220,
+  "title": "Riddle 014 Wine1000",
+  "repo": "MotivationFactory",
+  "file": "riddle_014_wine1000.mp4"
  },
  {
   "dur": 83,
@@ -218,25 +238,5 @@
   "title": "Riddle 008 Two Doors",
   "repo": "MotivationFactory",
   "file": "riddle_008_two_doors.mp4"
- },
- {
-  "dur": 64,
-  "b_avg": 159,
-  "b_min": 156,
-  "s_avg": 476,
-  "s_min": 94,
-  "title": "Riddle 007 Mislabeled Jars",
-  "repo": "MotivationFactory",
-  "file": "riddle_007_mislabeled_jars.mp4"
- },
- {
-  "dur": 60,
-  "b_avg": 84,
-  "b_min": 73,
-  "s_avg": 314,
-  "s_min": 149,
-  "title": "Riddle 006 Water Jugs",
-  "repo": "MotivationFactory",
-  "file": "riddle_006_water_jugs.mp4"
  }
 ]
