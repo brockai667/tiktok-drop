@@ -80,6 +80,26 @@
   "file": "the_mysterious_disappearance_of_the_star_dust.mp4"
  },
  {
+  "dur": 17,
+  "b_avg": 28,
+  "b_min": 10,
+  "s_avg": 205,
+  "s_min": 99,
+  "title": "Unveiling the Secrets of the Great A",
+  "repo": "UnexplainedDaily",
+  "file": "unveiling_the_secrets_of_the_great_attractor.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 10,
+  "b_min": 6,
+  "s_avg": 158,
+  "s_min": 83,
+  "title": "The Mysterious Taos Hum",
+  "repo": "UnexplainedDaily",
+  "file": "the_mysterious_taos_hum.mp4"
+ },
+ {
   "dur": 18,
   "b_avg": 9,
   "b_min": 4,
@@ -138,26 +158,6 @@
   "title": "The Enigma of the Lycurgus Cup",
   "repo": "UnexplainedDaily",
   "file": "the_enigma_of_the_lycurgus_cup.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 28,
-  "b_min": 9,
-  "s_avg": 243,
-  "s_min": 2,
-  "title": "Mystery of the Derinkuyu Underground",
-  "repo": "UnexplainedDaily",
-  "file": "mystery_of_the_derinkuyu_underground.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 36,
-  "b_min": 14,
-  "s_avg": 131,
-  "s_min": 17,
-  "title": "Deja Vu: A Glimpse into the Brain's ",
-  "repo": "UnexplainedDaily",
-  "file": "deja_vu_a_glimpse_into_the_brain_s_machinery.mp4"
  },
  {
   "dur": 78,
