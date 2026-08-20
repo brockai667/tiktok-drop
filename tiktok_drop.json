@@ -168,6 +168,56 @@
     ],
     "videos": [
       {
+        "title": "The Mysterious Gobekli Tepe",
+        "file": "the_mysterious_gobekli_tepe.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_mysterious_gobekli_tepe.mp4",
+        "size_mb": 14.4,
+        "desc": "Explore the mysterious Gobekli Tepe, the oldest known example of monumental architecture. What was its purpose? Follow us for more unexplained mysteries.",
+        "hashtags": [
+          "#GobekliTepe",
+          "#AncientMystery",
+          "#Unexplained",
+          "#MysteriousMonuments",
+          "#HistoricWonders",
+          "#Shorts",
+          "#FYP"
+        ],
+        "created": "2026-08-20"
+      },
+      {
+        "title": "The Enigmatic Rongorongo Tablets",
+        "file": "the_enigmatic_rongorongo_tablets.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_enigmatic_rongorongo_tablets.mp4",
+        "size_mb": 15.4,
+        "desc": "The Rongorongo tablets are a set of undeciphered tablets from Easter Island. Discover the mystery behind these ancient artifacts.",
+        "hashtags": [
+          "#Rongorongo",
+          "#EasterIsland",
+          "#Mystery",
+          "#AncientArtifacts",
+          "#Undeciphered",
+          "#Shorts",
+          "#FYP"
+        ],
+        "created": "2026-08-20"
+      },
+      {
+        "title": "The Enigmatic Bronze Age Disc",
+        "file": "the_enigmatic_bronze_age_disc.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_enigmatic_bronze_age_disc.mp4",
+        "size_mb": 11.3,
+        "desc": "Explore the mysterious Nebra Bronze Age disc, an ancient astronomical instrument. Follow for more unexplained phenomena.",
+        "hashtags": [
+          "#shorts",
+          "#mystery",
+          "#NebraDisc",
+          "#ancientartifacts",
+          "#unexplained",
+          "#history"
+        ],
+        "created": "2026-08-20"
+      },
+      {
         "title": "Unveiling the Secrets of the Great Attractor",
         "file": "unveiling_the_secrets_of_the_great_attractor.mp4",
         "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/unveiling_the_secrets_of_the_great_attractor.mp4",
@@ -248,54 +298,6 @@
           "#unsolved"
         ],
         "created": "2026-08-17"
-      },
-      {
-        "title": "Uncovering the Secrets of the Gobekli Tepe",
-        "file": "uncovering_the_secrets_of_the_gobekli_tepe.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/uncovering_the_secrets_of_the_gobekli_tepe.mp4",
-        "size_mb": 15.7,
-        "desc": "Gobekli Tepe is an ancient temple in Turkey that has been shrouded in mystery for thousands of years. Despite being discovered over 50 years ago, the purpose and construction methods of this ancient wonder remain debated. Follow for more on this and other ancient mysteries.",
-        "hashtags": [
-          "#GobekliTepe",
-          "#AncientMysteries",
-          "#Archaeology",
-          "#shorts",
-          "#fyp",
-          "#history"
-        ],
-        "created": "2026-08-17"
-      },
-      {
-        "title": "The 7-Headed Serpent of Angkor Wat",
-        "file": "the_7_headed_serpent_of_angkor_wat.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_7_headed_serpent_of_angkor_wat.mp4",
-        "size_mb": 17.7,
-        "desc": "Uncover the secrets of the 7-Headed Serpent in Angkor Wat, a mysterious ancient symbol. Follow us for more on the world's most fascinating enigmas. #shorts #fyp #mystery #angkorwat",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#mystery",
-          "#angkorwat",
-          "#cambodia",
-          "# ancienthistory"
-        ],
-        "created": "2026-08-17"
-      },
-      {
-        "title": "The Enigma of the Lycurgus Cup",
-        "file": "the_enigma_of_the_lycurgus_cup.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/the_enigma_of_the_lycurgus_cup.mp4",
-        "size_mb": 11.3,
-        "desc": "Discover the mysterious Lycurgus Cup, an ancient Roman glass artifact that changes color when lit. Follow for more enigmas and unexplained phenomena.",
-        "hashtags": [
-          "#shorts",
-          "#mystery",
-          "#romanglass",
-          "#lycurguscup",
-          "#britishmuseum",
-          "#ancientrome"
-        ],
-        "created": "2026-08-16"
       }
     ]
   },
@@ -311,6 +313,22 @@
       "#quiz"
     ],
     "videos": [
+      {
+        "title": "Riddle 016 Frog30",
+        "file": "riddle_016_frog30.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_016_frog30.mp4",
+        "size_mb": 16.3,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-08-19"
+      },
       {
         "title": "Riddle 015 Coins Dark",
         "file": "riddle_015_coins_dark.mp4",
@@ -422,22 +440,6 @@
           "#quiz"
         ],
         "created": "2026-08-10"
-      },
-      {
-        "title": "Riddle 008 Two Doors",
-        "file": "riddle_008_two_doors.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_008_two_doors.mp4",
-        "size_mb": 12.2,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-08-09"
       }
     ]
   }

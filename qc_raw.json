@@ -80,6 +80,36 @@
   "file": "the_mysterious_disappearance_of_the_star_dust.mp4"
  },
  {
+  "dur": 13,
+  "b_avg": 54,
+  "b_min": 14,
+  "s_avg": 698,
+  "s_min": 193,
+  "title": "The Mysterious Gobekli Tepe",
+  "repo": "UnexplainedDaily",
+  "file": "the_mysterious_gobekli_tepe.mp4"
+ },
+ {
+  "dur": 14,
+  "b_avg": 25,
+  "b_min": 11,
+  "s_avg": 143,
+  "s_min": 45,
+  "title": "The Enigmatic Rongorongo Tablets",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigmatic_rongorongo_tablets.mp4"
+ },
+ {
+  "dur": 10,
+  "b_avg": 37,
+  "b_min": 12,
+  "s_avg": 514,
+  "s_min": 110,
+  "title": "The Enigmatic Bronze Age Disc",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigmatic_bronze_age_disc.mp4"
+ },
+ {
   "dur": 17,
   "b_avg": 28,
   "b_min": 10,
@@ -130,34 +160,14 @@
   "file": "what_lies_beyond_the_taos_hum.mp4"
  },
  {
-  "dur": 14,
-  "b_avg": 62,
-  "b_min": 14,
-  "s_avg": 209,
-  "s_min": 86,
-  "title": "Uncovering the Secrets of the Gobekl",
-  "repo": "UnexplainedDaily",
-  "file": "uncovering_the_secrets_of_the_gobekli_tepe.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 41,
-  "b_min": 14,
-  "s_avg": 1040,
-  "s_min": 118,
-  "title": "The 7-Headed Serpent of Angkor Wat",
-  "repo": "UnexplainedDaily",
-  "file": "the_7_headed_serpent_of_angkor_wat.mp4"
- },
- {
-  "dur": 11,
-  "b_avg": 46,
-  "b_min": 11,
-  "s_avg": 653,
-  "s_min": 99,
-  "title": "The Enigma of the Lycurgus Cup",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigma_of_the_lycurgus_cup.mp4"
+  "dur": 80,
+  "b_avg": 113,
+  "b_min": 53,
+  "s_avg": 337,
+  "s_min": 144,
+  "title": "Riddle 016 Frog30",
+  "repo": "MotivationFactory",
+  "file": "riddle_016_frog30.mp4"
  },
  {
   "dur": 78,
@@ -228,15 +238,5 @@
   "title": "Riddle 009 Bridge Torch",
   "repo": "MotivationFactory",
   "file": "riddle_009_bridge_torch.mp4"
- },
- {
-  "dur": 64,
-  "b_avg": 135,
-  "b_min": 125,
-  "s_avg": 467,
-  "s_min": 147,
-  "title": "Riddle 008 Two Doors",
-  "repo": "MotivationFactory",
-  "file": "riddle_008_two_doors.mp4"
  }
 ]
