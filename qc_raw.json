@@ -160,6 +160,16 @@
   "file": "what_lies_beyond_the_taos_hum.mp4"
  },
  {
+  "dur": 89,
+  "b_avg": 100,
+  "b_min": 87,
+  "s_avg": 386,
+  "s_min": 121,
+  "title": "Riddle 017 Cal Cubes",
+  "repo": "MotivationFactory",
+  "file": "riddle_017_cal_cubes.mp4"
+ },
+ {
   "dur": 80,
   "b_avg": 113,
   "b_min": 53,
@@ -228,15 +238,5 @@
   "title": "Riddle 010 Egg Drop",
   "repo": "MotivationFactory",
   "file": "riddle_010_egg_drop.mp4"
- },
- {
-  "dur": 69,
-  "b_avg": 108,
-  "b_min": 54,
-  "s_avg": 523,
-  "s_min": 266,
-  "title": "Riddle 009 Bridge Torch",
-  "repo": "MotivationFactory",
-  "file": "riddle_009_bridge_torch.mp4"
  }
 ]
