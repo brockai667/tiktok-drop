@@ -1,5 +1,25 @@
 [
  {
+  "dur": 15,
+  "b_avg": 59,
+  "b_min": 18,
+  "s_avg": 172,
+  "s_min": 93,
+  "title": "The Zodiac Killer\u2019s Final Cipher",
+  "repo": "coldcasedaily667",
+  "file": "the_zodiac_killer_s_final_cipher.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 51,
+  "b_min": 32,
+  "s_avg": 172,
+  "s_min": 16,
+  "title": "The Lindbergh Baby Kidnapping",
+  "repo": "coldcasedaily667",
+  "file": "the_lindbergh_baby_kidnapping.mp4"
+ },
+ {
   "dur": 14,
   "b_avg": 42,
   "b_min": 18,
@@ -58,26 +78,6 @@
   "title": "**The Legendary Heist of the Brink's",
   "repo": "coldcasedaily667",
   "file": "the_legendary_heist_of_the_brink_s_company.mp4"
- },
- {
-  "dur": 25,
-  "b_avg": 35,
-  "b_min": 11,
-  "s_avg": 155,
-  "s_min": 5,
-  "title": "**The Isabella Stewart Gardner Museu",
-  "repo": "coldcasedaily667",
-  "file": "the_isabella_stewart_gardner_museum_heist.mp4"
- },
- {
-  "dur": 26,
-  "b_avg": 71,
-  "b_min": 35,
-  "s_avg": 304,
-  "s_min": 161,
-  "title": "**The Mysterious Disappearance of th",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_disappearance_of_the_star_dust.mp4"
  },
  {
   "dur": 13,
@@ -160,6 +160,16 @@
   "file": "what_lies_beyond_the_taos_hum.mp4"
  },
  {
+  "dur": 86,
+  "b_avg": 138,
+  "b_min": 133,
+  "s_avg": 520,
+  "s_min": 228,
+  "title": "Riddle 018 Hg 7 11",
+  "repo": "MotivationFactory",
+  "file": "riddle_018_hg_7_11.mp4"
+ },
+ {
   "dur": 89,
   "b_avg": 100,
   "b_min": 87,
@@ -228,15 +238,5 @@
   "title": "Riddle 011 Gold Bar",
   "repo": "MotivationFactory",
   "file": "riddle_011_gold_bar.mp4"
- },
- {
-  "dur": 74,
-  "b_avg": 148,
-  "b_min": 131,
-  "s_avg": 385,
-  "s_min": 266,
-  "title": "Riddle 010 Egg Drop",
-  "repo": "MotivationFactory",
-  "file": "riddle_010_egg_drop.mp4"
  }
 ]
