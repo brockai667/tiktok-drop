@@ -160,6 +160,26 @@
   "file": "what_lies_beyond_the_taos_hum.mp4"
  },
  {
+  "dur": 64,
+  "b_avg": 159,
+  "b_min": 156,
+  "s_avg": 476,
+  "s_min": 94,
+  "title": "Riddle 007 Mislabeled Jars",
+  "repo": "MotivationFactory",
+  "file": "riddle_007_mislabeled_jars.mp4"
+ },
+ {
+  "dur": 60,
+  "b_avg": 84,
+  "b_min": 73,
+  "s_avg": 314,
+  "s_min": 149,
+  "title": "Riddle 006 Water Jugs",
+  "repo": "MotivationFactory",
+  "file": "riddle_006_water_jugs.mp4"
+ },
+ {
   "dur": 86,
   "b_avg": 138,
   "b_min": 133,
@@ -218,25 +238,5 @@
   "title": "Riddle 013 Hats10",
   "repo": "MotivationFactory",
   "file": "riddle_013_hats10.mp4"
- },
- {
-  "dur": 87,
-  "b_avg": 75,
-  "b_min": 44,
-  "s_avg": 537,
-  "s_min": 289,
-  "title": "Riddle 012 Doors100",
-  "repo": "MotivationFactory",
-  "file": "riddle_012_doors100.mp4"
- },
- {
-  "dur": 81,
-  "b_avg": 109,
-  "b_min": 100,
-  "s_avg": 291,
-  "s_min": 106,
-  "title": "Riddle 011 Gold Bar",
-  "repo": "MotivationFactory",
-  "file": "riddle_011_gold_bar.mp4"
  }
 ]

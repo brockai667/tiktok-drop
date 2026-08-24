@@ -314,6 +314,38 @@
     ],
     "videos": [
       {
+        "title": "Riddle 007 Mislabeled Jars",
+        "file": "riddle_007_mislabeled_jars.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_007_mislabeled_jars.mp4",
+        "size_mb": 13.3,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-08-23"
+      },
+      {
+        "title": "Riddle 006 Water Jugs",
+        "file": "riddle_006_water_jugs.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_006_water_jugs.mp4",
+        "size_mb": 12.6,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-08-23"
+      },
+      {
         "title": "Riddle 018 Hg 7 11",
         "file": "riddle_018_hg_7_11.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_018_hg_7_11.mp4",
@@ -408,38 +440,6 @@
           "#quiz"
         ],
         "created": "2026-08-15"
-      },
-      {
-        "title": "Riddle 012 Doors100",
-        "file": "riddle_012_doors100.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_012_doors100.mp4",
-        "size_mb": 25.8,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-08-15"
-      },
-      {
-        "title": "Riddle 011 Gold Bar",
-        "file": "riddle_011_gold_bar.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_011_gold_bar.mp4",
-        "size_mb": 13.6,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-08-14"
       }
     ]
   }
