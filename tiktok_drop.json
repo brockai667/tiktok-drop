@@ -314,6 +314,22 @@
     ],
     "videos": [
       {
+        "title": "Riddle 008 Two Doors",
+        "file": "riddle_008_two_doors.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_008_two_doors.mp4",
+        "size_mb": 12.2,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-08-24"
+      },
+      {
         "title": "Riddle 007 Mislabeled Jars",
         "file": "riddle_007_mislabeled_jars.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_007_mislabeled_jars.mp4",
@@ -424,22 +440,6 @@
           "#quiz"
         ],
         "created": "2026-08-17"
-      },
-      {
-        "title": "Riddle 013 Hats10",
-        "file": "riddle_013_hats10.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_013_hats10.mp4",
-        "size_mb": 17.0,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-08-15"
       }
     ]
   }

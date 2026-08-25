@@ -161,6 +161,16 @@
  },
  {
   "dur": 64,
+  "b_avg": 135,
+  "b_min": 125,
+  "s_avg": 467,
+  "s_min": 147,
+  "title": "Riddle 008 Two Doors",
+  "repo": "MotivationFactory",
+  "file": "riddle_008_two_doors.mp4"
+ },
+ {
+  "dur": 64,
   "b_avg": 159,
   "b_min": 156,
   "s_avg": 476,
@@ -228,15 +238,5 @@
   "title": "Riddle 014 Wine1000",
   "repo": "MotivationFactory",
   "file": "riddle_014_wine1000.mp4"
- },
- {
-  "dur": 83,
-  "b_avg": 151,
-  "b_min": 109,
-  "s_avg": 579,
-  "s_min": 452,
-  "title": "Riddle 013 Hats10",
-  "repo": "MotivationFactory",
-  "file": "riddle_013_hats10.mp4"
  }
 ]
