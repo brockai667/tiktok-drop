@@ -160,6 +160,16 @@
   "file": "what_lies_beyond_the_taos_hum.mp4"
  },
  {
+  "dur": 69,
+  "b_avg": 108,
+  "b_min": 54,
+  "s_avg": 523,
+  "s_min": 266,
+  "title": "Riddle 009 Bridge Torch",
+  "repo": "MotivationFactory",
+  "file": "riddle_009_bridge_torch.mp4"
+ },
+ {
   "dur": 64,
   "b_avg": 135,
   "b_min": 125,
@@ -228,15 +238,5 @@
   "title": "Riddle 015 Coins Dark",
   "repo": "MotivationFactory",
   "file": "riddle_015_coins_dark.mp4"
- },
- {
-  "dur": 85,
-  "b_avg": 105,
-  "b_min": 91,
-  "s_avg": 326,
-  "s_min": 220,
-  "title": "Riddle 014 Wine1000",
-  "repo": "MotivationFactory",
-  "file": "riddle_014_wine1000.mp4"
  }
 ]

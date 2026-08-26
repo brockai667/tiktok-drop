@@ -314,6 +314,22 @@
     ],
     "videos": [
       {
+        "title": "Riddle 009 Bridge Torch",
+        "file": "riddle_009_bridge_torch.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_009_bridge_torch.mp4",
+        "size_mb": 14.8,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-08-25"
+      },
+      {
         "title": "Riddle 008 Two Doors",
         "file": "riddle_008_two_doors.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_008_two_doors.mp4",
@@ -414,22 +430,6 @@
         "file": "riddle_015_coins_dark.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_015_coins_dark.mp4",
         "size_mb": 12.4,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-08-17"
-      },
-      {
-        "title": "Riddle 014 Wine1000",
-        "file": "riddle_014_wine1000.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_014_wine1000.mp4",
-        "size_mb": 14.0,
         "desc": "",
         "hashtags": [
           "#riddle",
