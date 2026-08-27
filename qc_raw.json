@@ -1,5 +1,65 @@
 [
  {
+  "dur": 24,
+  "b_avg": 41,
+  "b_min": 6,
+  "s_avg": 212,
+  "s_min": 8,
+  "title": "The $5\u202fMillion Lufthansa Heist That ",
+  "repo": "coldcasedaily667",
+  "file": "the_5_million_lufthansa_heist_that_shook_new_york.mp4"
+ },
+ {
+  "dur": 24,
+  "b_avg": 46,
+  "b_min": 17,
+  "s_avg": 599,
+  "s_min": 101,
+  "title": "The 1995 Hatton Garden Vault Break\u2011I",
+  "repo": "coldcasedaily667",
+  "file": "the_1995_hatton_garden_vault_break_in_a_night_of_s.mp4"
+ },
+ {
+  "dur": 22,
+  "b_avg": 44,
+  "b_min": 17,
+  "s_avg": 125,
+  "s_min": 23,
+  "title": "The 1978 Murder of a Chicago Mafia B",
+  "repo": "coldcasedaily667",
+  "file": "the_1978_murder_of_a_chicago_mafia_boss_the_unfini.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 48,
+  "b_min": 41,
+  "s_avg": 852,
+  "s_min": 392,
+  "title": "Why Did the 1963 Great Train Robbery",
+  "repo": "coldcasedaily667",
+  "file": "why_did_the_1963_great_train_robbery_shock_britain.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 52,
+  "b_min": 7,
+  "s_avg": 348,
+  "s_min": 142,
+  "title": "What Secrets Lie Behind the 1979 Ant",
+  "repo": "coldcasedaily667",
+  "file": "what_secrets_lie_behind_the_1979_antwerp_diamond_h.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 51,
+  "b_min": 16,
+  "s_avg": 133,
+  "s_min": 23,
+  "title": "What Remains Unsolved in the JonBen\u00e9",
+  "repo": "coldcasedaily667",
+  "file": "what_remains_unsolved_in_the_jonben_t_ramsey_case.mp4"
+ },
+ {
   "dur": 15,
   "b_avg": 59,
   "b_min": 18,
@@ -20,64 +80,64 @@
   "file": "the_lindbergh_baby_kidnapping.mp4"
  },
  {
-  "dur": 14,
+  "dur": 23,
+  "b_avg": 16,
+  "b_min": 5,
+  "s_avg": 238,
+  "s_min": 91,
+  "title": "What Really Caused the 1908 Tunguska",
+  "repo": "UnexplainedDaily",
+  "file": "what_really_caused_the_1908_tunguska_blast.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 48,
+  "b_min": 32,
+  "s_avg": 482,
+  "s_min": 79,
+  "title": "Is Stonehenge a Lost Ancient Calenda",
+  "repo": "UnexplainedDaily",
+  "file": "is_stonehenge_a_lost_ancient_calendar.mp4"
+ },
+ {
+  "dur": 25,
+  "b_avg": 39,
+  "b_min": 8,
+  "s_avg": 616,
+  "s_min": 112,
+  "title": "Great Blue Hole: The Abyssal Dragon\u2019",
+  "repo": "UnexplainedDaily",
+  "file": "great_blue_hole_the_abyssal_dragon_s_den.mp4"
+ },
+ {
+  "dur": 24,
+  "b_avg": 56,
+  "b_min": 34,
+  "s_avg": 327,
+  "s_min": 88,
+  "title": "The Bloop: Ocean's Deep\u2011Sound Myster",
+  "repo": "UnexplainedDaily",
+  "file": "the_bloop_ocean_s_deep_sound_mystery.mp4"
+ },
+ {
+  "dur": 23,
   "b_avg": 42,
-  "b_min": 18,
-  "s_avg": 128,
-  "s_min": 31,
-  "title": "**The Disappearance of the Mary Cele",
-  "repo": "coldcasedaily667",
-  "file": "the_disappearance_of_the_mary_celeste.mp4"
+  "b_min": 7,
+  "s_avg": 334,
+  "s_min": 250,
+  "title": "Did the Wow! Signal Come From an Ali",
+  "repo": "UnexplainedDaily",
+  "file": "did_the_wow_signal_come_from_an_alien_beacon.mp4"
  },
  {
-  "dur": 15,
-  "b_avg": 36,
-  "b_min": 11,
-  "s_avg": 125,
-  "s_min": 26,
-  "title": "**The Great Brink's Robbery: A Legen",
-  "repo": "coldcasedaily667",
-  "file": "the_great_brink_s_robbery_a_legendary_heist.mp4"
- },
- {
-  "dur": 15,
-  "b_avg": 38,
-  "b_min": 11,
-  "s_avg": 125,
-  "s_min": 55,
-  "title": "**The Disappearance of the Sodder Ch",
-  "repo": "coldcasedaily667",
-  "file": "the_disappearance_of_the_sodder_children_a_family_.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 45,
-  "b_min": 31,
-  "s_avg": 208,
-  "s_min": 119,
-  "title": "**The Disappearance of Glenn Miller:",
-  "repo": "coldcasedaily667",
-  "file": "the_disappearance_of_glenn_miller_a_musical_myster.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 53,
-  "b_min": 6,
-  "s_avg": 140,
-  "s_min": 49,
-  "title": "**The Mysterious Case of the Isabell",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_case_of_the_isabella_stewart_gardne.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 43,
-  "b_min": 1,
-  "s_avg": 150,
-  "s_min": 11,
-  "title": "**The Legendary Heist of the Brink's",
-  "repo": "coldcasedaily667",
-  "file": "the_legendary_heist_of_the_brink_s_company.mp4"
+  "dur": 23,
+  "b_avg": 41,
+  "b_min": 20,
+  "s_avg": 378,
+  "s_min": 146,
+  "title": "Derinkuyu: Turkey\u2019s 5\u2011Story Undergro",
+  "repo": "UnexplainedDaily",
+  "file": "derinkuyu_turkey_s_5_story_underground_city.mp4"
  },
  {
   "dur": 13,
@@ -100,64 +160,44 @@
   "file": "the_enigmatic_rongorongo_tablets.mp4"
  },
  {
-  "dur": 10,
-  "b_avg": 37,
-  "b_min": 12,
-  "s_avg": 514,
-  "s_min": 110,
-  "title": "The Enigmatic Bronze Age Disc",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigmatic_bronze_age_disc.mp4"
+  "dur": 90,
+  "b_avg": 67,
+  "b_min": 35,
+  "s_avg": 105,
+  "s_min": 73,
+  "title": "Riddle 020 Train Fly",
+  "repo": "MotivationFactory",
+  "file": "riddle_020_train_fly.mp4"
  },
  {
-  "dur": 17,
-  "b_avg": 28,
-  "b_min": 10,
-  "s_avg": 205,
-  "s_min": 99,
-  "title": "Unveiling the Secrets of the Great A",
-  "repo": "UnexplainedDaily",
-  "file": "unveiling_the_secrets_of_the_great_attractor.mp4"
+  "dur": 90,
+  "b_avg": 71,
+  "b_min": 44,
+  "s_avg": 626,
+  "s_min": 412,
+  "title": "Riddle 019 Lily48",
+  "repo": "MotivationFactory",
+  "file": "riddle_019_lily48.mp4"
  },
  {
-  "dur": 19,
-  "b_avg": 10,
-  "b_min": 6,
-  "s_avg": 158,
-  "s_min": 83,
-  "title": "The Mysterious Taos Hum",
-  "repo": "UnexplainedDaily",
-  "file": "the_mysterious_taos_hum.mp4"
+  "dur": 89,
+  "b_avg": 100,
+  "b_min": 87,
+  "s_avg": 386,
+  "s_min": 121,
+  "title": "Riddle 017 Cal Cubes",
+  "repo": "MotivationFactory",
+  "file": "riddle_017_cal_cubes.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 9,
-  "b_min": 4,
-  "s_avg": 152,
-  "s_min": 11,
-  "title": "What Lies Beyond the Great Attractor",
-  "repo": "UnexplainedDaily",
-  "file": "what_lies_beyond_the_great_attractor.mp4"
- },
- {
-  "dur": 12,
-  "b_avg": 34,
-  "b_min": 11,
-  "s_avg": 133,
-  "s_min": 80,
-  "title": "Unlocking the Secrets of the Lycurgu",
-  "repo": "UnexplainedDaily",
-  "file": "unlocking_the_secrets_of_the_lycurgus_cup.mp4"
- },
- {
-  "dur": 11,
-  "b_avg": 50,
-  "b_min": 10,
-  "s_avg": 183,
-  "s_min": 54,
-  "title": "What Lies Beyond the Taos Hum?",
-  "repo": "UnexplainedDaily",
-  "file": "what_lies_beyond_the_taos_hum.mp4"
+  "dur": 85,
+  "b_avg": 105,
+  "b_min": 91,
+  "s_avg": 326,
+  "s_min": 220,
+  "title": "Riddle 014 Wine1000",
+  "repo": "MotivationFactory",
+  "file": "riddle_014_wine1000.mp4"
  },
  {
   "dur": 69,
@@ -198,45 +238,5 @@
   "title": "Riddle 006 Water Jugs",
   "repo": "MotivationFactory",
   "file": "riddle_006_water_jugs.mp4"
- },
- {
-  "dur": 86,
-  "b_avg": 138,
-  "b_min": 133,
-  "s_avg": 520,
-  "s_min": 228,
-  "title": "Riddle 018 Hg 7 11",
-  "repo": "MotivationFactory",
-  "file": "riddle_018_hg_7_11.mp4"
- },
- {
-  "dur": 89,
-  "b_avg": 100,
-  "b_min": 87,
-  "s_avg": 386,
-  "s_min": 121,
-  "title": "Riddle 017 Cal Cubes",
-  "repo": "MotivationFactory",
-  "file": "riddle_017_cal_cubes.mp4"
- },
- {
-  "dur": 80,
-  "b_avg": 113,
-  "b_min": 53,
-  "s_avg": 337,
-  "s_min": 144,
-  "title": "Riddle 016 Frog30",
-  "repo": "MotivationFactory",
-  "file": "riddle_016_frog30.mp4"
- },
- {
-  "dur": 78,
-  "b_avg": 101,
-  "b_min": 16,
-  "s_avg": 311,
-  "s_min": 131,
-  "title": "Riddle 015 Coins Dark",
-  "repo": "MotivationFactory",
-  "file": "riddle_015_coins_dark.mp4"
  }
 ]
