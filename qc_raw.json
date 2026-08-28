@@ -1,5 +1,35 @@
 [
  {
+  "dur": 23,
+  "b_avg": 38,
+  "b_min": 13,
+  "s_avg": 314,
+  "s_min": 51,
+  "title": "Why Did O.J. Simpson\u2019s Trial Captiva",
+  "repo": "coldcasedaily667",
+  "file": "why_did_o_j_simpson_s_trial_captivate_the_world.mp4"
+ },
+ {
+  "dur": 22,
+  "b_avg": 38,
+  "b_min": 1,
+  "s_avg": 341,
+  "s_min": 89,
+  "title": "The 1993 Murder of a Hollywood Star:",
+  "repo": "coldcasedaily667",
+  "file": "the_1993_murder_of_a_hollywood_star_the_case_that_.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 42,
+  "b_min": 13,
+  "s_avg": 231,
+  "s_min": 127,
+  "title": "How Did the 1972 Watergate Break\u2011In ",
+  "repo": "coldcasedaily667",
+  "file": "how_did_the_1972_watergate_break_in_change_america.mp4"
+ },
+ {
   "dur": 24,
   "b_avg": 41,
   "b_min": 6,
@@ -50,34 +80,24 @@
   "file": "what_secrets_lie_behind_the_1979_antwerp_diamond_h.mp4"
  },
  {
-  "dur": 19,
-  "b_avg": 51,
-  "b_min": 16,
-  "s_avg": 133,
-  "s_min": 23,
-  "title": "What Remains Unsolved in the JonBen\u00e9",
-  "repo": "coldcasedaily667",
-  "file": "what_remains_unsolved_in_the_jonben_t_ramsey_case.mp4"
+  "dur": 21,
+  "b_avg": 40,
+  "b_min": 17,
+  "s_avg": 184,
+  "s_min": 8,
+  "title": "The Lubbock Lights: Unexplained Nigh",
+  "repo": "UnexplainedDaily",
+  "file": "the_lubbock_lights_unexplained_nighttime_orbs.mp4"
  },
  {
-  "dur": 15,
-  "b_avg": 59,
-  "b_min": 18,
-  "s_avg": 172,
-  "s_min": 93,
-  "title": "The Zodiac Killer\u2019s Final Cipher",
-  "repo": "coldcasedaily667",
-  "file": "the_zodiac_killer_s_final_cipher.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 51,
-  "b_min": 32,
-  "s_avg": 172,
-  "s_min": 16,
-  "title": "The Lindbergh Baby Kidnapping",
-  "repo": "coldcasedaily667",
-  "file": "the_lindbergh_baby_kidnapping.mp4"
+  "dur": 26,
+  "b_avg": 28,
+  "b_min": 7,
+  "s_avg": 182,
+  "s_min": 12,
+  "title": "Hessdalen Lights: Norway\u2019s Never\u2011End",
+  "repo": "UnexplainedDaily",
+  "file": "hessdalen_lights_norway_s_never_ending_glow.mp4"
  },
  {
   "dur": 23,
@@ -140,24 +160,24 @@
   "file": "derinkuyu_turkey_s_5_story_underground_city.mp4"
  },
  {
-  "dur": 13,
-  "b_avg": 54,
-  "b_min": 14,
-  "s_avg": 698,
-  "s_min": 193,
-  "title": "The Mysterious Gobekli Tepe",
-  "repo": "UnexplainedDaily",
-  "file": "the_mysterious_gobekli_tepe.mp4"
+  "dur": 99,
+  "b_avg": 88,
+  "b_min": 58,
+  "s_avg": 106,
+  "s_min": 28,
+  "title": "Riddle 022 Hat River",
+  "repo": "MotivationFactory",
+  "file": "riddle_022_hat_river.mp4"
  },
  {
-  "dur": 14,
-  "b_avg": 25,
-  "b_min": 11,
-  "s_avg": 143,
-  "s_min": 45,
-  "title": "The Enigmatic Rongorongo Tablets",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigmatic_rongorongo_tablets.mp4"
+  "dur": 93,
+  "b_avg": 142,
+  "b_min": 93,
+  "s_avg": 101,
+  "s_min": 41,
+  "title": "Riddle 021 Island Fire",
+  "repo": "MotivationFactory",
+  "file": "riddle_021_island_fire.mp4"
  },
  {
   "dur": 90,
@@ -218,25 +238,5 @@
   "title": "Riddle 008 Two Doors",
   "repo": "MotivationFactory",
   "file": "riddle_008_two_doors.mp4"
- },
- {
-  "dur": 64,
-  "b_avg": 159,
-  "b_min": 156,
-  "s_avg": 476,
-  "s_min": 94,
-  "title": "Riddle 007 Mislabeled Jars",
-  "repo": "MotivationFactory",
-  "file": "riddle_007_mislabeled_jars.mp4"
- },
- {
-  "dur": 60,
-  "b_avg": 84,
-  "b_min": 73,
-  "s_avg": 314,
-  "s_min": 149,
-  "title": "Riddle 006 Water Jugs",
-  "repo": "MotivationFactory",
-  "file": "riddle_006_water_jugs.mp4"
  }
 ]
