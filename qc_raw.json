@@ -1,5 +1,35 @@
 [
  {
+  "dur": 20,
+  "b_avg": 54,
+  "b_min": 26,
+  "s_avg": 342,
+  "s_min": 62,
+  "title": "The St.\u202fValentine\u2019s Day Massacre: Wh",
+  "repo": "coldcasedaily667",
+  "file": "the_st_valentine_s_day_massacre_who_pulled_the_tri.mp4"
+ },
+ {
+  "dur": 23,
+  "b_avg": 66,
+  "b_min": 20,
+  "s_avg": 188,
+  "s_min": 41,
+  "title": "The 1975 D.B.\u202fCooper Hijacking: The ",
+  "repo": "coldcasedaily667",
+  "file": "the_1975_d_b_cooper_hijacking_the_ultimate_air_bor.mp4"
+ },
+ {
+  "dur": 24,
+  "b_avg": 62,
+  "b_min": 22,
+  "s_avg": 275,
+  "s_min": 122,
+  "title": "How Did the 1993 World Trade Center ",
+  "repo": "coldcasedaily667",
+  "file": "how_did_the_1993_world_trade_center_bombing_change.mp4"
+ },
+ {
   "dur": 24,
   "b_avg": 45,
   "b_min": 1,
@@ -50,34 +80,34 @@
   "file": "the_1993_murder_of_a_hollywood_star_the_case_that_.mp4"
  },
  {
-  "dur": 21,
-  "b_avg": 42,
-  "b_min": 13,
-  "s_avg": 231,
-  "s_min": 127,
-  "title": "How Did the 1972 Watergate Break\u2011In ",
-  "repo": "coldcasedaily667",
-  "file": "how_did_the_1972_watergate_break_in_change_america.mp4"
+  "dur": 23,
+  "b_avg": 55,
+  "b_min": 42,
+  "s_avg": 354,
+  "s_min": 143,
+  "title": "What Secret Lies Inside the Great Sp",
+  "repo": "UnexplainedDaily",
+  "file": "what_secret_lies_inside_the_great_sphinx_s_hidden_.mp4"
  },
  {
-  "dur": 24,
-  "b_avg": 41,
-  "b_min": 6,
-  "s_avg": 212,
-  "s_min": 8,
-  "title": "The $5\u202fMillion Lufthansa Heist That ",
-  "repo": "coldcasedaily667",
-  "file": "the_5_million_lufthansa_heist_that_shook_new_york.mp4"
+  "dur": 22,
+  "b_avg": 50,
+  "b_min": 18,
+  "s_avg": 123,
+  "s_min": 60,
+  "title": "The 1970s Green Flash Phenomenon: Wh",
+  "repo": "UnexplainedDaily",
+  "file": "the_1970s_green_flash_phenomenon_why_does_the_sun_.mp4"
  },
  {
-  "dur": 24,
-  "b_avg": 46,
-  "b_min": 17,
-  "s_avg": 599,
-  "s_min": 101,
-  "title": "The 1995 Hatton Garden Vault Break\u2011I",
-  "repo": "coldcasedaily667",
-  "file": "the_1995_hatton_garden_vault_break_in_a_night_of_s.mp4"
+  "dur": 22,
+  "b_avg": 47,
+  "b_min": 30,
+  "s_avg": 257,
+  "s_min": 77,
+  "title": "Antikythera's Lost Gear: Why a Key P",
+  "repo": "UnexplainedDaily",
+  "file": "antikythera_s_lost_gear_why_a_key_piece_is_missing.mp4"
  },
  {
   "dur": 25,
@@ -130,34 +160,14 @@
   "file": "hessdalen_lights_norway_s_never_ending_glow.mp4"
  },
  {
-  "dur": 23,
-  "b_avg": 16,
-  "b_min": 5,
-  "s_avg": 238,
-  "s_min": 91,
-  "title": "What Really Caused the 1908 Tunguska",
-  "repo": "UnexplainedDaily",
-  "file": "what_really_caused_the_1908_tunguska_blast.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 48,
-  "b_min": 32,
-  "s_avg": 482,
-  "s_min": 79,
-  "title": "Is Stonehenge a Lost Ancient Calenda",
-  "repo": "UnexplainedDaily",
-  "file": "is_stonehenge_a_lost_ancient_calendar.mp4"
- },
- {
-  "dur": 25,
-  "b_avg": 39,
-  "b_min": 8,
-  "s_avg": 616,
-  "s_min": 112,
-  "title": "Great Blue Hole: The Abyssal Dragon\u2019",
-  "repo": "UnexplainedDaily",
-  "file": "great_blue_hole_the_abyssal_dragon_s_den.mp4"
+  "dur": 96,
+  "b_avg": 122,
+  "b_min": 80,
+  "s_avg": 98,
+  "s_min": 39,
+  "title": "Riddle 023 Wolf Goat",
+  "repo": "MotivationFactory",
+  "file": "riddle_023_wolf_goat.mp4"
  },
  {
   "dur": 99,
@@ -228,15 +238,5 @@
   "title": "Riddle 009 Bridge Torch",
   "repo": "MotivationFactory",
   "file": "riddle_009_bridge_torch.mp4"
- },
- {
-  "dur": 64,
-  "b_avg": 135,
-  "b_min": 125,
-  "s_avg": 467,
-  "s_min": 147,
-  "title": "Riddle 008 Two Doors",
-  "repo": "MotivationFactory",
-  "file": "riddle_008_two_doors.mp4"
  }
 ]
