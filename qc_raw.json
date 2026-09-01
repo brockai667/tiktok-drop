@@ -1,6 +1,36 @@
 [
  {
   "dur": 22,
+  "b_avg": 57,
+  "b_min": 20,
+  "s_avg": 460,
+  "s_min": 138,
+  "title": "What Sparked the Oklahoma City Bombi",
+  "repo": "coldcasedaily667",
+  "file": "what_sparked_the_oklahoma_city_bombing.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 48,
+  "b_min": 20,
+  "s_avg": 177,
+  "s_min": 16,
+  "title": "Natalee Holloway: The 2005 Aruba Mys",
+  "repo": "coldcasedaily667",
+  "file": "natalee_holloway_the_2005_aruba_mystery_still_unso.mp4"
+ },
+ {
+  "dur": 16,
+  "b_avg": 31,
+  "b_min": 1,
+  "s_avg": 122,
+  "s_min": 11,
+  "title": "How the Son of Sam Terrorized NYC in",
+  "repo": "coldcasedaily667",
+  "file": "how_the_son_of_sam_terrorized_nyc_in_1977.mp4"
+ },
+ {
+  "dur": 22,
   "b_avg": 51,
   "b_min": 16,
   "s_avg": 168,
@@ -50,34 +80,34 @@
   "file": "the_1975_d_b_cooper_hijacking_the_ultimate_air_bor.mp4"
  },
  {
-  "dur": 24,
-  "b_avg": 62,
-  "b_min": 22,
-  "s_avg": 275,
-  "s_min": 122,
-  "title": "How Did the 1993 World Trade Center ",
-  "repo": "coldcasedaily667",
-  "file": "how_did_the_1993_world_trade_center_bombing_change.mp4"
+  "dur": 32,
+  "b_avg": 37,
+  "b_min": 11,
+  "s_avg": 278,
+  "s_min": 115,
+  "title": "What Really Stalked Point Pleasant?",
+  "repo": "UnexplainedDaily",
+  "file": "what_really_stalked_point_pleasant.mp4"
  },
  {
   "dur": 24,
-  "b_avg": 45,
+  "b_avg": 6,
   "b_min": 1,
-  "s_avg": 122,
-  "s_min": 13,
-  "title": "The Unsolved Mystery of the 1978 \u201cBe",
-  "repo": "coldcasedaily667",
-  "file": "the_unsolved_mystery_of_the_1978_bermuda_triangle_.mp4"
+  "s_avg": 152,
+  "s_min": 71,
+  "title": "Lubbock Lights: The 1950s UFO Lights",
+  "repo": "UnexplainedDaily",
+  "file": "lubbock_lights_the_1950s_ufo_lights_that_still_puz.mp4"
  },
  {
-  "dur": 27,
-  "b_avg": 43,
-  "b_min": 24,
-  "s_avg": 432,
-  "s_min": 82,
-  "title": "The 1972 Munich Olympic Massacre: A ",
-  "repo": "coldcasedaily667",
-  "file": "the_1972_munich_olympic_massacre_a_tragedy_that_sh.mp4"
+  "dur": 18,
+  "b_avg": 56,
+  "b_min": 29,
+  "s_avg": 233,
+  "s_min": 72,
+  "title": "Bimini Road: Ancient Road or Natural",
+  "repo": "UnexplainedDaily",
+  "file": "bimini_road_ancient_road_or_natural_formation.mp4"
  },
  {
   "dur": 21,
@@ -130,34 +160,14 @@
   "file": "the_1970s_green_flash_phenomenon_why_does_the_sun_.mp4"
  },
  {
-  "dur": 22,
-  "b_avg": 47,
-  "b_min": 30,
-  "s_avg": 257,
-  "s_min": 77,
-  "title": "Antikythera's Lost Gear: Why a Key P",
-  "repo": "UnexplainedDaily",
-  "file": "antikythera_s_lost_gear_why_a_key_piece_is_missing.mp4"
- },
- {
-  "dur": 25,
-  "b_avg": 25,
-  "b_min": 10,
-  "s_avg": 167,
-  "s_min": 52,
-  "title": "Tunguska Blast: Was a Comet Fragment",
-  "repo": "UnexplainedDaily",
-  "file": "tunguska_blast_was_a_comet_fragment_the_culprit.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 27,
-  "b_min": 0,
-  "s_avg": 608,
-  "s_min": 51,
-  "title": "Tunguska Blast: The 1908 Explosion S",
-  "repo": "UnexplainedDaily",
-  "file": "tunguska_blast_the_1908_explosion_still_defies_sci.mp4"
+  "dur": 90,
+  "b_avg": 162,
+  "b_min": 139,
+  "s_avg": 121,
+  "s_min": 61,
+  "title": "Riddle 024 Camel3000",
+  "repo": "MotivationFactory",
+  "file": "riddle_024_camel3000.mp4"
  },
  {
   "dur": 96,
@@ -228,15 +238,5 @@
   "title": "Riddle 014 Wine1000",
   "repo": "MotivationFactory",
   "file": "riddle_014_wine1000.mp4"
- },
- {
-  "dur": 69,
-  "b_avg": 108,
-  "b_min": 54,
-  "s_avg": 523,
-  "s_min": 266,
-  "title": "Riddle 009 Bridge Torch",
-  "repo": "MotivationFactory",
-  "file": "riddle_009_bridge_torch.mp4"
  }
 ]
