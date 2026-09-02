@@ -1,5 +1,35 @@
 [
  {
+  "dur": 18,
+  "b_avg": 18,
+  "b_min": 3,
+  "s_avg": 185,
+  "s_min": 102,
+  "title": "What Went Wrong at the 1966 Kitty Ge",
+  "repo": "coldcasedaily667",
+  "file": "what_went_wrong_at_the_1966_kitty_genovese_murder.mp4"
+ },
+ {
+  "dur": 24,
+  "b_avg": 36,
+  "b_min": 2,
+  "s_avg": 309,
+  "s_min": 68,
+  "title": "The Mysterious Disappearance of Made",
+  "repo": "coldcasedaily667",
+  "file": "the_mysterious_disappearance_of_madeleine_mccann.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 34,
+  "b_min": 17,
+  "s_avg": 732,
+  "s_min": 61,
+  "title": "Jonestown: 918 Lives Lost in a Cult ",
+  "repo": "coldcasedaily667",
+  "file": "jonestown_918_lives_lost_in_a_cult_tragedy.mp4"
+ },
+ {
   "dur": 22,
   "b_avg": 57,
   "b_min": 20,
@@ -50,34 +80,34 @@
   "file": "the_1976_chowchilla_kidnapping_26_kids_vanish_on_a.mp4"
  },
  {
-  "dur": 22,
+  "dur": 19,
+  "b_avg": 45,
+  "b_min": 19,
+  "s_avg": 287,
+  "s_min": 60,
+  "title": "Why Did the Roanoke Colony Vanish Wi",
+  "repo": "UnexplainedDaily",
+  "file": "why_did_the_roanoke_colony_vanish_without_a_trace.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 51,
+  "b_min": 14,
+  "s_avg": 225,
+  "s_min": 102,
+  "title": "The Sailing Stones",
+  "repo": "UnexplainedDaily",
+  "file": "the_sailing_stones.mp4"
+ },
+ {
+  "dur": 25,
   "b_avg": 22,
-  "b_min": 7,
-  "s_avg": 323,
-  "s_min": 86,
-  "title": "Patty Hearst\u2019s Shock: Kidnapped, Joi",
-  "repo": "coldcasedaily667",
-  "file": "patty_hearst_s_shock_kidnapped_joined_rebels.mp4"
- },
- {
-  "dur": 20,
-  "b_avg": 54,
-  "b_min": 26,
-  "s_avg": 342,
-  "s_min": 62,
-  "title": "The St.\u202fValentine\u2019s Day Massacre: Wh",
-  "repo": "coldcasedaily667",
-  "file": "the_st_valentine_s_day_massacre_who_pulled_the_tri.mp4"
- },
- {
-  "dur": 23,
-  "b_avg": 66,
-  "b_min": 20,
-  "s_avg": 188,
-  "s_min": 41,
-  "title": "The 1975 D.B.\u202fCooper Hijacking: The ",
-  "repo": "coldcasedaily667",
-  "file": "the_1975_d_b_cooper_hijacking_the_ultimate_air_bor.mp4"
+  "b_min": 3,
+  "s_avg": 302,
+  "s_min": 118,
+  "title": "Cicada 3301: The Internet\u2019s Most Ela",
+  "repo": "UnexplainedDaily",
+  "file": "cicada_3301_the_internet_s_most_elaborate_recruitm.mp4"
  },
  {
   "dur": 32,
@@ -130,34 +160,14 @@
   "file": "the_taos_hum_new_mexico_s_low_frequency_mystery.mp4"
  },
  {
-  "dur": 25,
-  "b_avg": 39,
-  "b_min": 7,
-  "s_avg": 171,
-  "s_min": 14,
-  "title": "The Marfa Lights: Texas Desert Ghost",
-  "repo": "UnexplainedDaily",
-  "file": "the_marfa_lights_texas_desert_ghostly_glows.mp4"
- },
- {
-  "dur": 23,
-  "b_avg": 55,
-  "b_min": 42,
-  "s_avg": 354,
-  "s_min": 143,
-  "title": "What Secret Lies Inside the Great Sp",
-  "repo": "UnexplainedDaily",
-  "file": "what_secret_lies_inside_the_great_sphinx_s_hidden_.mp4"
- },
- {
-  "dur": 22,
-  "b_avg": 50,
-  "b_min": 18,
-  "s_avg": 123,
-  "s_min": 60,
-  "title": "The 1970s Green Flash Phenomenon: Wh",
-  "repo": "UnexplainedDaily",
-  "file": "the_1970s_green_flash_phenomenon_why_does_the_sun_.mp4"
+  "dur": 101,
+  "b_avg": 126,
+  "b_min": 79,
+  "s_avg": 83,
+  "s_min": 43,
+  "title": "Riddle 025 Bulb100",
+  "repo": "MotivationFactory",
+  "file": "riddle_025_bulb100.mp4"
  },
  {
   "dur": 90,
@@ -228,15 +238,5 @@
   "title": "Riddle 017 Cal Cubes",
   "repo": "MotivationFactory",
   "file": "riddle_017_cal_cubes.mp4"
- },
- {
-  "dur": 85,
-  "b_avg": 105,
-  "b_min": 91,
-  "s_avg": 326,
-  "s_min": 220,
-  "title": "Riddle 014 Wine1000",
-  "repo": "MotivationFactory",
-  "file": "riddle_014_wine1000.mp4"
  }
 ]
