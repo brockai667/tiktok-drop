@@ -1,5 +1,35 @@
 [
  {
+  "dur": 23,
+  "b_avg": 35,
+  "b_min": 10,
+  "s_avg": 272,
+  "s_min": 50,
+  "title": "Tylenol Cyanide Poisonings",
+  "repo": "coldcasedaily667",
+  "file": "tylenol_cyanide_poisonings.mp4"
+ },
+ {
+  "dur": 22,
+  "b_avg": 38,
+  "b_min": 5,
+  "s_avg": 358,
+  "s_min": 102,
+  "title": "The 1996 Atlanta Olympic Bombing",
+  "repo": "coldcasedaily667",
+  "file": "the_1996_atlanta_olympic_bombing.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 39,
+  "b_min": 14,
+  "s_avg": 197,
+  "s_min": 66,
+  "title": "Oklahoma City Bomb Tragedy",
+  "repo": "coldcasedaily667",
+  "file": "oklahoma_city_bomb_tragedy.mp4"
+ },
+ {
   "dur": 22,
   "b_avg": 36,
   "b_min": 8,
@@ -50,34 +80,34 @@
   "file": "the_mysterious_disappearance_of_madeleine_mccann.mp4"
  },
  {
-  "dur": 21,
-  "b_avg": 34,
-  "b_min": 17,
-  "s_avg": 732,
-  "s_min": 61,
-  "title": "Jonestown: 918 Lives Lost in a Cult ",
-  "repo": "coldcasedaily667",
-  "file": "jonestown_918_lives_lost_in_a_cult_tragedy.mp4"
+  "dur": 32,
+  "b_avg": 44,
+  "b_min": 20,
+  "s_avg": 269,
+  "s_min": 73,
+  "title": "The Singing Sand Dunes of Qatar",
+  "repo": "UnexplainedDaily",
+  "file": "the_singing_sand_dunes_of_qatar.mp4"
  },
  {
-  "dur": 22,
-  "b_avg": 57,
-  "b_min": 20,
-  "s_avg": 460,
-  "s_min": 138,
-  "title": "What Sparked the Oklahoma City Bombi",
-  "repo": "coldcasedaily667",
-  "file": "what_sparked_the_oklahoma_city_bombing.mp4"
+  "dur": 24,
+  "b_avg": 35,
+  "b_min": 25,
+  "s_avg": 228,
+  "s_min": 50,
+  "title": "The Mystery of Moving Rocks",
+  "repo": "UnexplainedDaily",
+  "file": "the_mystery_of_moving_rocks.mp4"
  },
  {
-  "dur": 21,
-  "b_avg": 48,
-  "b_min": 20,
-  "s_avg": 177,
-  "s_min": 16,
-  "title": "Natalee Holloway: The 2005 Aruba Mys",
-  "repo": "coldcasedaily667",
-  "file": "natalee_holloway_the_2005_aruba_mystery_still_unso.mp4"
+  "dur": 26,
+  "b_avg": 32,
+  "b_min": 9,
+  "s_avg": 581,
+  "s_min": 135,
+  "title": "The Costa Rican Stone Spheres",
+  "repo": "UnexplainedDaily",
+  "file": "the_costa_rican_stone_spheres.mp4"
  },
  {
   "dur": 25,
@@ -130,34 +160,14 @@
   "file": "the_sailing_stones.mp4"
  },
  {
-  "dur": 25,
-  "b_avg": 22,
-  "b_min": 3,
-  "s_avg": 302,
-  "s_min": 118,
-  "title": "Cicada 3301: The Internet\u2019s Most Ela",
-  "repo": "UnexplainedDaily",
-  "file": "cicada_3301_the_internet_s_most_elaborate_recruitm.mp4"
- },
- {
-  "dur": 32,
-  "b_avg": 37,
-  "b_min": 11,
-  "s_avg": 278,
-  "s_min": 115,
-  "title": "What Really Stalked Point Pleasant?",
-  "repo": "UnexplainedDaily",
-  "file": "what_really_stalked_point_pleasant.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 6,
-  "b_min": 1,
-  "s_avg": 152,
-  "s_min": 71,
-  "title": "Lubbock Lights: The 1950s UFO Lights",
-  "repo": "UnexplainedDaily",
-  "file": "lubbock_lights_the_1950s_ufo_lights_that_still_puz.mp4"
+  "dur": 88,
+  "b_avg": 155,
+  "b_min": 128,
+  "s_avg": 114,
+  "s_min": 86,
+  "title": "Riddle 027 Camels17",
+  "repo": "MotivationFactory",
+  "file": "riddle_027_camels17.mp4"
  },
  {
   "dur": 93,
@@ -228,15 +238,5 @@
   "title": "Riddle 020 Train Fly",
   "repo": "MotivationFactory",
   "file": "riddle_020_train_fly.mp4"
- },
- {
-  "dur": 90,
-  "b_avg": 71,
-  "b_min": 44,
-  "s_avg": 626,
-  "s_min": 412,
-  "title": "Riddle 019 Lily48",
-  "repo": "MotivationFactory",
-  "file": "riddle_019_lily48.mp4"
  }
 ]
