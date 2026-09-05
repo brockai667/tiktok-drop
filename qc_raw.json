@@ -1,5 +1,35 @@
 [
  {
+  "dur": 26,
+  "b_avg": 64,
+  "b_min": 23,
+  "s_avg": 205,
+  "s_min": 71,
+  "title": "Titanic Sinking Conspiracy",
+  "repo": "coldcasedaily667",
+  "file": "titanic_sinking_conspiracy.mp4"
+ },
+ {
+  "dur": 17,
+  "b_avg": 44,
+  "b_min": 13,
+  "s_avg": 162,
+  "s_min": 71,
+  "title": "JonBen\u00e9t Ramsey Mystery",
+  "repo": "coldcasedaily667",
+  "file": "jonben_t_ramsey_mystery.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 38,
+  "b_min": 12,
+  "s_avg": 239,
+  "s_min": 153,
+  "title": "JFK Assassination Secrets",
+  "repo": "coldcasedaily667",
+  "file": "jfk_assassination_secrets.mp4"
+ },
+ {
   "dur": 23,
   "b_avg": 35,
   "b_min": 10,
@@ -50,34 +80,34 @@
   "file": "jonestown_tragedy_revealed.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 40,
-  "b_min": 10,
-  "s_avg": 234,
-  "s_min": 75,
-  "title": "Gianni Versace Murder",
-  "repo": "coldcasedaily667",
-  "file": "gianni_versace_murder.mp4"
+  "dur": 27,
+  "b_avg": 20,
+  "b_min": 2,
+  "s_avg": 130,
+  "s_min": 63,
+  "title": "Marfa Lights Unveiled",
+  "repo": "UnexplainedDaily",
+  "file": "marfa_lights_unveiled.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 18,
-  "b_min": 3,
-  "s_avg": 185,
-  "s_min": 102,
-  "title": "What Went Wrong at the 1966 Kitty Ge",
-  "repo": "coldcasedaily667",
-  "file": "what_went_wrong_at_the_1966_kitty_genovese_murder.mp4"
+  "dur": 28,
+  "b_avg": 36,
+  "b_min": 5,
+  "s_avg": 142,
+  "s_min": 61,
+  "title": "Hessdalen Glow Mystery",
+  "repo": "UnexplainedDaily",
+  "file": "hessdalen_glow_mystery.mp4"
  },
  {
   "dur": 24,
-  "b_avg": 36,
-  "b_min": 2,
-  "s_avg": 309,
-  "s_min": 68,
-  "title": "The Mysterious Disappearance of Made",
-  "repo": "coldcasedaily667",
-  "file": "the_mysterious_disappearance_of_madeleine_mccann.mp4"
+  "b_avg": 45,
+  "b_min": 5,
+  "s_avg": 783,
+  "s_min": 169,
+  "title": "Bimini Road Underwater Puzzle",
+  "repo": "UnexplainedDaily",
+  "file": "bimini_road_underwater_puzzle.mp4"
  },
  {
   "dur": 32,
@@ -128,36 +158,6 @@
   "title": "Oak Island Hidden Treasure Mystery",
   "repo": "UnexplainedDaily",
   "file": "oak_island_hidden_treasure_mystery.mp4"
- },
- {
-  "dur": 23,
-  "b_avg": 39,
-  "b_min": 10,
-  "s_avg": 211,
-  "s_min": 92,
-  "title": "Klerksdorp Spheres Ancient Enigma",
-  "repo": "UnexplainedDaily",
-  "file": "klerksdorp_spheres_ancient_enigma.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 45,
-  "b_min": 19,
-  "s_avg": 287,
-  "s_min": 60,
-  "title": "Why Did the Roanoke Colony Vanish Wi",
-  "repo": "UnexplainedDaily",
-  "file": "why_did_the_roanoke_colony_vanish_without_a_trace.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 51,
-  "b_min": 14,
-  "s_avg": 225,
-  "s_min": 102,
-  "title": "The Sailing Stones",
-  "repo": "UnexplainedDaily",
-  "file": "the_sailing_stones.mp4"
  },
  {
   "dur": 88,
