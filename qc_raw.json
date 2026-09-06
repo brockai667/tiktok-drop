@@ -1,5 +1,35 @@
 [
  {
+  "dur": 25,
+  "b_avg": 45,
+  "b_min": 32,
+  "s_avg": 162,
+  "s_min": 83,
+  "title": "Tylenol Poisoning Scare",
+  "repo": "coldcasedaily667",
+  "file": "tylenol_poisoning_scare.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 51,
+  "b_min": 12,
+  "s_avg": 303,
+  "s_min": 104,
+  "title": "Elizabeth Smart Kidnapping Case",
+  "repo": "coldcasedaily667",
+  "file": "elizabeth_smart_kidnapping_case.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 61,
+  "b_min": 28,
+  "s_avg": 169,
+  "s_min": 75,
+  "title": "Boston Cold Storage Heist",
+  "repo": "coldcasedaily667",
+  "file": "boston_cold_storage_heist.mp4"
+ },
+ {
   "dur": 26,
   "b_avg": 64,
   "b_min": 23,
@@ -50,34 +80,34 @@
   "file": "the_1996_atlanta_olympic_bombing.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 39,
-  "b_min": 14,
-  "s_avg": 197,
-  "s_min": 66,
-  "title": "Oklahoma City Bomb Tragedy",
-  "repo": "coldcasedaily667",
-  "file": "oklahoma_city_bomb_tragedy.mp4"
+  "dur": 21,
+  "b_avg": 32,
+  "b_min": 3,
+  "s_avg": 140,
+  "s_min": 50,
+  "title": "The Unexplained Hessdalen Lights",
+  "repo": "UnexplainedDaily",
+  "file": "the_unexplained_hessdalen_lights.mp4"
  },
  {
-  "dur": 22,
-  "b_avg": 36,
-  "b_min": 8,
-  "s_avg": 254,
-  "s_min": 58,
-  "title": "O.J. Simpson Trial Drama",
-  "repo": "coldcasedaily667",
-  "file": "o_j_simpson_trial_drama.mp4"
+  "dur": 24,
+  "b_avg": 52,
+  "b_min": 9,
+  "s_avg": 223,
+  "s_min": 135,
+  "title": "Marfa Lights Unexplained Glow",
+  "repo": "UnexplainedDaily",
+  "file": "marfa_lights_unexplained_glow.mp4"
  },
  {
-  "dur": 27,
-  "b_avg": 58,
-  "b_min": 29,
-  "s_avg": 565,
-  "s_min": 105,
-  "title": "Jonestown Tragedy Revealed",
-  "repo": "coldcasedaily667",
-  "file": "jonestown_tragedy_revealed.mp4"
+  "dur": 23,
+  "b_avg": 52,
+  "b_min": 30,
+  "s_avg": 405,
+  "s_min": 132,
+  "title": "Baltic Sea Anomaly Mystery",
+  "repo": "UnexplainedDaily",
+  "file": "baltic_sea_anomaly_mystery.mp4"
  },
  {
   "dur": 27,
@@ -130,34 +160,14 @@
   "file": "the_mystery_of_moving_rocks.mp4"
  },
  {
-  "dur": 26,
-  "b_avg": 32,
-  "b_min": 9,
-  "s_avg": 581,
-  "s_min": 135,
-  "title": "The Costa Rican Stone Spheres",
-  "repo": "UnexplainedDaily",
-  "file": "the_costa_rican_stone_spheres.mp4"
- },
- {
-  "dur": 25,
-  "b_avg": 44,
-  "b_min": 6,
-  "s_avg": 276,
-  "s_min": 65,
-  "title": "Rongorongo Script Still Unread",
-  "repo": "UnexplainedDaily",
-  "file": "rongorongo_script_still_unread.mp4"
- },
- {
-  "dur": 22,
-  "b_avg": 51,
-  "b_min": 16,
-  "s_avg": 387,
-  "s_min": 185,
-  "title": "Oak Island Hidden Treasure Mystery",
-  "repo": "UnexplainedDaily",
-  "file": "oak_island_hidden_treasure_mystery.mp4"
+  "dur": 92,
+  "b_avg": 52,
+  "b_min": 41,
+  "s_avg": 180,
+  "s_min": 43,
+  "title": "Riddle 028 Tigers100",
+  "repo": "MotivationFactory",
+  "file": "riddle_028_tigers100.mp4"
  },
  {
   "dur": 88,
@@ -228,15 +238,5 @@
   "title": "Riddle 021 Island Fire",
   "repo": "MotivationFactory",
   "file": "riddle_021_island_fire.mp4"
- },
- {
-  "dur": 90,
-  "b_avg": 67,
-  "b_min": 35,
-  "s_avg": 105,
-  "s_min": 73,
-  "title": "Riddle 020 Train Fly",
-  "repo": "MotivationFactory",
-  "file": "riddle_020_train_fly.mp4"
  }
 ]
