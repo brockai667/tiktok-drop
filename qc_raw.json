@@ -1,5 +1,35 @@
 [
  {
+  "dur": 20,
+  "b_avg": 48,
+  "b_min": 21,
+  "s_avg": 177,
+  "s_min": 44,
+  "title": "Mountbatten Assassination Mystery",
+  "repo": "coldcasedaily667",
+  "file": "mountbatten_assassination_mystery.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 36,
+  "b_min": 7,
+  "s_avg": 261,
+  "s_min": 64,
+  "title": "John Lennon's Final Night",
+  "repo": "coldcasedaily667",
+  "file": "john_lennon_s_final_night.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 43,
+  "b_min": 12,
+  "s_avg": 160,
+  "s_min": 58,
+  "title": "Civil Rights Leader Murder",
+  "repo": "coldcasedaily667",
+  "file": "civil_rights_leader_murder.mp4"
+ },
+ {
   "dur": 25,
   "b_avg": 45,
   "b_min": 32,
@@ -50,34 +80,34 @@
   "file": "jonben_t_ramsey_mystery.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 38,
-  "b_min": 12,
-  "s_avg": 239,
-  "s_min": 153,
-  "title": "JFK Assassination Secrets",
-  "repo": "coldcasedaily667",
-  "file": "jfk_assassination_secrets.mp4"
+  "dur": 21,
+  "b_avg": 34,
+  "b_min": 10,
+  "s_avg": 175,
+  "s_min": 27,
+  "title": "Saqqara Bird Ancient Puzzle",
+  "repo": "UnexplainedDaily",
+  "file": "saqqara_bird_ancient_puzzle.mp4"
+ },
+ {
+  "dur": 23,
+  "b_avg": 88,
+  "b_min": 6,
+  "s_avg": 166,
+  "s_min": 59,
+  "title": "Piri Reis Map Enigma",
+  "repo": "UnexplainedDaily",
+  "file": "piri_reis_map_enigma.mp4"
  },
  {
   "dur": 23,
   "b_avg": 35,
-  "b_min": 10,
-  "s_avg": 272,
-  "s_min": 50,
-  "title": "Tylenol Cyanide Poisonings",
-  "repo": "coldcasedaily667",
-  "file": "tylenol_cyanide_poisonings.mp4"
- },
- {
-  "dur": 22,
-  "b_avg": 38,
-  "b_min": 5,
-  "s_avg": 358,
-  "s_min": 102,
-  "title": "The 1996 Atlanta Olympic Bombing",
-  "repo": "coldcasedaily667",
-  "file": "the_1996_atlanta_olympic_bombing.mp4"
+  "b_min": 14,
+  "s_avg": 333,
+  "s_min": 110,
+  "title": "Great Zimbabwe Stone Enigma",
+  "repo": "UnexplainedDaily",
+  "file": "great_zimbabwe_stone_enigma.mp4"
  },
  {
   "dur": 21,
@@ -128,36 +158,6 @@
   "title": "Hessdalen Glow Mystery",
   "repo": "UnexplainedDaily",
   "file": "hessdalen_glow_mystery.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 45,
-  "b_min": 5,
-  "s_avg": 783,
-  "s_min": 169,
-  "title": "Bimini Road Underwater Puzzle",
-  "repo": "UnexplainedDaily",
-  "file": "bimini_road_underwater_puzzle.mp4"
- },
- {
-  "dur": 32,
-  "b_avg": 44,
-  "b_min": 20,
-  "s_avg": 269,
-  "s_min": 73,
-  "title": "The Singing Sand Dunes of Qatar",
-  "repo": "UnexplainedDaily",
-  "file": "the_singing_sand_dunes_of_qatar.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 35,
-  "b_min": 25,
-  "s_avg": 228,
-  "s_min": 50,
-  "title": "The Mystery of Moving Rocks",
-  "repo": "UnexplainedDaily",
-  "file": "the_mystery_of_moving_rocks.mp4"
  },
  {
   "dur": 92,
