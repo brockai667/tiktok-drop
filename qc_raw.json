@@ -1,5 +1,35 @@
 [
  {
+  "dur": 19,
+  "b_avg": 27,
+  "b_min": 19,
+  "s_avg": 217,
+  "s_min": 96,
+  "title": "Murder of Olof Palme",
+  "repo": "coldcasedaily667",
+  "file": "murder_of_olof_palme.mp4"
+ },
+ {
+  "dur": 23,
+  "b_avg": 42,
+  "b_min": 12,
+  "s_avg": 383,
+  "s_min": 58,
+  "title": "Jonestown Massacre",
+  "repo": "coldcasedaily667",
+  "file": "jonestown_massacre.mp4"
+ },
+ {
+  "dur": 24,
+  "b_avg": 46,
+  "b_min": 5,
+  "s_avg": 324,
+  "s_min": 44,
+  "title": "Heaven's Gate Tragedy Explained",
+  "repo": "coldcasedaily667",
+  "file": "heaven_s_gate_tragedy_explained.mp4"
+ },
+ {
   "dur": 20,
   "b_avg": 48,
   "b_min": 21,
@@ -50,34 +80,34 @@
   "file": "elizabeth_smart_kidnapping_case.mp4"
  },
  {
+  "dur": 27,
+  "b_avg": 42,
+  "b_min": 13,
+  "s_avg": 314,
+  "s_min": 116,
+  "title": "Mystery of Costa Rican Spheres",
+  "repo": "UnexplainedDaily",
+  "file": "mystery_of_costa_rican_spheres.mp4"
+ },
+ {
   "dur": 18,
-  "b_avg": 61,
-  "b_min": 28,
-  "s_avg": 169,
-  "s_min": 75,
-  "title": "Boston Cold Storage Heist",
-  "repo": "coldcasedaily667",
-  "file": "boston_cold_storage_heist.mp4"
+  "b_avg": 67,
+  "b_min": 31,
+  "s_avg": 110,
+  "s_min": 54,
+  "title": "Green Flash Mystery Explained",
+  "repo": "UnexplainedDaily",
+  "file": "green_flash_mystery_explained.mp4"
  },
  {
   "dur": 26,
-  "b_avg": 64,
-  "b_min": 23,
-  "s_avg": 205,
-  "s_min": 71,
-  "title": "Titanic Sinking Conspiracy",
-  "repo": "coldcasedaily667",
-  "file": "titanic_sinking_conspiracy.mp4"
- },
- {
-  "dur": 17,
-  "b_avg": 44,
-  "b_min": 13,
-  "s_avg": 162,
-  "s_min": 71,
-  "title": "JonBen\u00e9t Ramsey Mystery",
-  "repo": "coldcasedaily667",
-  "file": "jonben_t_ramsey_mystery.mp4"
+  "b_avg": 42,
+  "b_min": 17,
+  "s_avg": 661,
+  "s_min": 140,
+  "title": "Bimini Road Enigma",
+  "repo": "UnexplainedDaily",
+  "file": "bimini_road_enigma.mp4"
  },
  {
   "dur": 21,
@@ -130,34 +160,14 @@
   "file": "marfa_lights_unexplained_glow.mp4"
  },
  {
-  "dur": 23,
-  "b_avg": 52,
-  "b_min": 30,
-  "s_avg": 405,
-  "s_min": 132,
-  "title": "Baltic Sea Anomaly Mystery",
-  "repo": "UnexplainedDaily",
-  "file": "baltic_sea_anomaly_mystery.mp4"
- },
- {
-  "dur": 27,
-  "b_avg": 20,
-  "b_min": 2,
-  "s_avg": 130,
-  "s_min": 63,
-  "title": "Marfa Lights Unveiled",
-  "repo": "UnexplainedDaily",
-  "file": "marfa_lights_unveiled.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 36,
-  "b_min": 5,
-  "s_avg": 142,
-  "s_min": 61,
-  "title": "Hessdalen Glow Mystery",
-  "repo": "UnexplainedDaily",
-  "file": "hessdalen_glow_mystery.mp4"
+  "dur": 94,
+  "b_avg": 179,
+  "b_min": 162,
+  "s_avg": 103,
+  "s_min": 59,
+  "title": "Riddle 029 Wall Hats",
+  "repo": "MotivationFactory",
+  "file": "riddle_029_wall_hats.mp4"
  },
  {
   "dur": 92,
@@ -228,15 +238,5 @@
   "title": "Riddle 022 Hat River",
   "repo": "MotivationFactory",
   "file": "riddle_022_hat_river.mp4"
- },
- {
-  "dur": 93,
-  "b_avg": 142,
-  "b_min": 93,
-  "s_avg": 101,
-  "s_min": 41,
-  "title": "Riddle 021 Island Fire",
-  "repo": "MotivationFactory",
-  "file": "riddle_021_island_fire.mp4"
  }
 ]

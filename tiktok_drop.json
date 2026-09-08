@@ -14,6 +14,55 @@
     ],
     "videos": [
       {
+        "title": "Murder of Olof Palme",
+        "file": "murder_of_olof_palme.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/murder_of_olof_palme.mp4",
+        "size_mb": 21.1,
+        "desc": "Dive into the facts surrounding the 1986 assassination of Sweden’s leader and why it still haunts the nation. Follow for more.",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#Sweden",
+          "#Palme",
+          "#truecrime",
+          "#unsolved",
+          "#history"
+        ],
+        "created": "2026-09-08"
+      },
+      {
+        "title": "Jonestown Massacre",
+        "file": "jonestown_massacre.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/jonestown_massacre.mp4",
+        "size_mb": 25.2,
+        "desc": "Jonestown's fatal mass‑poisoning shocked the world, yet its leader's own death preceded the tragedy. Follow for more shocking historical crimes.",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#truecrime",
+          "#Jonestown",
+          "#cult",
+          "#history"
+        ],
+        "created": "2026-09-08"
+      },
+      {
+        "title": "Heaven's Gate Tragedy Explained",
+        "file": "heaven_s_gate_tragedy_explained.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/heaven_s_gate_tragedy_explained.mp4",
+        "size_mb": 26.7,
+        "desc": "A UFO‑obsessed cult ended its members' lives in a coordinated tragedy. Uncover the financial mystery left behind. Follow for more chilling cases.",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#truecrime",
+          "#heavensgate",
+          "#cult",
+          "#mystery"
+        ],
+        "created": "2026-09-08"
+      },
+      {
         "title": "Mountbatten Assassination Mystery",
         "file": "mountbatten_assassination_mystery.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/mountbatten_assassination_mystery.mp4",
@@ -94,56 +143,6 @@
           "#justice"
         ],
         "created": "2026-09-06"
-      },
-      {
-        "title": "Boston Cold Storage Heist",
-        "file": "boston_cold_storage_heist.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/boston_cold_storage_heist.mp4",
-        "size_mb": 19.4,
-        "desc": "Delve into the audacious Boston cold‑storage heist, the logistics of moving millions in gold, and the unanswered question of who masterminded it. Subscribe for more legendary crime tales.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#truecrime",
-          "#heist",
-          "#boston",
-          "#gold",
-          "#unsolved"
-        ],
-        "created": "2026-09-06"
-      },
-      {
-        "title": "Titanic Sinking Conspiracy",
-        "file": "titanic_sinking_conspiracy.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/titanic_sinking_conspiracy.mp4",
-        "size_mb": 27.9,
-        "desc": "Explore the controversial theory that Titanic’s hidden bulkhead accelerated its sinking. The facts may change how we view the disaster. Follow for more maritime true‑crime.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#titanic",
-          "#maritime",
-          "#history",
-          "#mystery",
-          "#truecrime"
-        ],
-        "created": "2026-09-05"
-      },
-      {
-        "title": "JonBenét Ramsey Mystery",
-        "file": "jonben_t_ramsey_mystery.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/jonben_t_ramsey_mystery.mp4",
-        "size_mb": 16.2,
-        "desc": "A six‑year‑old beauty queen vanished, leaving a baffling crime scene that still haunts America. Dive into the facts and theories that persist. Follow for more.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#truecrime",
-          "#unsolved",
-          "#JonBenetRamsey",
-          "#mystery"
-        ],
-        "created": "2026-09-05"
       }
     ]
   },
@@ -161,6 +160,55 @@
       "#scary"
     ],
     "videos": [
+      {
+        "title": "Mystery of Costa Rican Spheres",
+        "file": "mystery_of_costa_rican_spheres.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/mystery_of_costa_rican_spheres.mp4",
+        "size_mb": 29.6,
+        "desc": "Thousands of perfect stone spheres lie hidden in a Costa Rican rainforest, their age known but their purpose a mystery. Dive into the clues scientists have uncovered.",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#mysteries",
+          "#archaeology",
+          "#stoneSpheres",
+          "#ancientTech",
+          "#unexplained"
+        ],
+        "created": "2026-09-08"
+      },
+      {
+        "title": "Green Flash Mystery Explained",
+        "file": "green_flash_mystery_explained.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/green_flash_mystery_explained.mp4",
+        "size_mb": 20.0,
+        "desc": "The fleeting green flash dazzles watchers worldwide, but science has a clear answer. Stay tuned for more unexplained sky phenomena.",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#mysteries",
+          "#greenflash",
+          "#astronomy",
+          "#science"
+        ],
+        "created": "2026-09-08"
+      },
+      {
+        "title": "Bimini Road Enigma",
+        "file": "bimini_road_enigma.mp4",
+        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/bimini_road_enigma.mp4",
+        "size_mb": 28.2,
+        "desc": "Bimini Road has intrigued explorers for decades, sitting at the crossroads of geology and legend. Discover why its origin remains unresolved.",
+        "hashtags": [
+          "#shorts",
+          "#fyp",
+          "#bimini",
+          "#mystery",
+          "#ancient",
+          "#underwater"
+        ],
+        "created": "2026-09-08"
+      },
       {
         "title": "Saqqara Bird Ancient Puzzle",
         "file": "saqqara_bird_ancient_puzzle.mp4",
@@ -245,57 +293,6 @@
           "#Mystery"
         ],
         "created": "2026-09-06"
-      },
-      {
-        "title": "Baltic Sea Anomaly Mystery",
-        "file": "baltic_sea_anomaly_mystery.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/baltic_sea_anomaly_mystery.mp4",
-        "size_mb": 25.1,
-        "desc": "The Baltic Sea Anomaly sparked UFO hype, but geology offers a grounded answer. Dive into the evidence and the prevailing glacial‑rock theory. Follow for more unexplained wonders.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#mystery",
-          "#ocean",
-          "#balticsea",
-          "#unexplained",
-          "#science"
-        ],
-        "created": "2026-09-06"
-      },
-      {
-        "title": "Marfa Lights Unveiled",
-        "file": "marfa_lights_unveiled.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/marfa_lights_unveiled.mp4",
-        "size_mb": 29.2,
-        "desc": "The Marfa Lights have baffled observers for over a century. Discover the leading scientific view and why the debate still burns.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#marfalights",
-          "#unexplained",
-          "#mysteries",
-          "#sky",
-          "#science"
-        ],
-        "created": "2026-09-05"
-      },
-      {
-        "title": "Hessdalen Glow Mystery",
-        "file": "hessdalen_glow_mystery.mp4",
-        "url": "https://github.com/brockai667/UnexplainedDaily/releases/download/media/hessdalen_glow_mystery.mp4",
-        "size_mb": 30.3,
-        "desc": "Hessdalen’s eerie lights have sparked decades of research. Learn what scientists think creates them and why the mystery persists.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#hessdalen",
-          "#norway",
-          "#lights",
-          "#science",
-          "#unexplained"
-        ],
-        "created": "2026-09-05"
       }
     ]
   },
@@ -311,6 +308,22 @@
       "#quiz"
     ],
     "videos": [
+      {
+        "title": "Riddle 029 Wall Hats",
+        "file": "riddle_029_wall_hats.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_029_wall_hats.mp4",
+        "size_mb": 29.3,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-09-07"
+      },
       {
         "title": "Riddle 028 Tigers100",
         "file": "riddle_028_tigers100.mp4",
@@ -422,22 +435,6 @@
           "#quiz"
         ],
         "created": "2026-08-28"
-      },
-      {
-        "title": "Riddle 021 Island Fire",
-        "file": "riddle_021_island_fire.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_021_island_fire.mp4",
-        "size_mb": 27.2,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-08-27"
       }
     ]
   }
