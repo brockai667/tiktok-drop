@@ -1,5 +1,35 @@
 [
  {
+  "dur": 18,
+  "b_avg": 50,
+  "b_min": 2,
+  "s_avg": 439,
+  "s_min": 37,
+  "title": "The Unsolved Murder of Jill Dando",
+  "repo": "coldcasedaily667",
+  "file": "the_unsolved_murder_of_jill_dando.mp4"
+ },
+ {
+  "dur": 25,
+  "b_avg": 46,
+  "b_min": 12,
+  "s_avg": 167,
+  "s_min": 32,
+  "title": "The D.B. Cooper Hijacking Reveal",
+  "repo": "coldcasedaily667",
+  "file": "the_d_b_cooper_hijacking_reveal.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 61,
+  "b_min": 5,
+  "s_avg": 180,
+  "s_min": 42,
+  "title": "Lindberhous Kidnapping Mystery",
+  "repo": "coldcasedaily667",
+  "file": "lindberhous_kidnapping_mystery.mp4"
+ },
+ {
   "dur": 19,
   "b_avg": 27,
   "b_min": 19,
@@ -50,34 +80,34 @@
   "file": "john_lennon_s_final_night.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 43,
-  "b_min": 12,
-  "s_avg": 160,
-  "s_min": 58,
-  "title": "Civil Rights Leader Murder",
-  "repo": "coldcasedaily667",
-  "file": "civil_rights_leader_murder.mp4"
+  "dur": 24,
+  "b_avg": 41,
+  "b_min": 19,
+  "s_avg": 212,
+  "s_min": 141,
+  "title": "Oak Island Money Pit Secrets",
+  "repo": "UnexplainedDaily",
+  "file": "oak_island_money_pit_secrets.mp4"
  },
  {
   "dur": 25,
-  "b_avg": 45,
-  "b_min": 32,
-  "s_avg": 162,
-  "s_min": 83,
-  "title": "Tylenol Poisoning Scare",
-  "repo": "coldcasedaily667",
-  "file": "tylenol_poisoning_scare.mp4"
+  "b_avg": 66,
+  "b_min": 27,
+  "s_avg": 316,
+  "s_min": 165,
+  "title": "Mysterious Metal Disc Beneath Baltic",
+  "repo": "UnexplainedDaily",
+  "file": "mysterious_metal_disc_beneath_baltic_sea.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 51,
-  "b_min": 12,
-  "s_avg": 303,
-  "s_min": 104,
-  "title": "Elizabeth Smart Kidnapping Case",
-  "repo": "coldcasedaily667",
-  "file": "elizabeth_smart_kidnapping_case.mp4"
+  "dur": 26,
+  "b_avg": 71,
+  "b_min": 33,
+  "s_avg": 258,
+  "s_min": 76,
+  "title": "Ancient Map Shows Ice\u2011Free Antarctic",
+  "repo": "UnexplainedDaily",
+  "file": "ancient_map_shows_ice_free_antarctica.mp4"
  },
  {
   "dur": 27,
@@ -130,34 +160,14 @@
   "file": "piri_reis_map_enigma.mp4"
  },
  {
-  "dur": 23,
-  "b_avg": 35,
-  "b_min": 14,
-  "s_avg": 333,
-  "s_min": 110,
-  "title": "Great Zimbabwe Stone Enigma",
-  "repo": "UnexplainedDaily",
-  "file": "great_zimbabwe_stone_enigma.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 32,
-  "b_min": 3,
-  "s_avg": 140,
-  "s_min": 50,
-  "title": "The Unexplained Hessdalen Lights",
-  "repo": "UnexplainedDaily",
-  "file": "the_unexplained_hessdalen_lights.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 52,
-  "b_min": 9,
-  "s_avg": 223,
-  "s_min": 135,
-  "title": "Marfa Lights Unexplained Glow",
-  "repo": "UnexplainedDaily",
-  "file": "marfa_lights_unexplained_glow.mp4"
+  "dur": 96,
+  "b_avg": 82,
+  "b_min": 69,
+  "s_avg": 142,
+  "s_min": 91,
+  "title": "Riddle 030 Last Ball",
+  "repo": "MotivationFactory",
+  "file": "riddle_030_last_ball.mp4"
  },
  {
   "dur": 94,
@@ -228,15 +238,5 @@
   "title": "Riddle 023 Wolf Goat",
   "repo": "MotivationFactory",
   "file": "riddle_023_wolf_goat.mp4"
- },
- {
-  "dur": 99,
-  "b_avg": 88,
-  "b_min": 58,
-  "s_avg": 106,
-  "s_min": 28,
-  "title": "Riddle 022 Hat River",
-  "repo": "MotivationFactory",
-  "file": "riddle_022_hat_river.mp4"
  }
 ]
