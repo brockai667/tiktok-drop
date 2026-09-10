@@ -1,5 +1,35 @@
 [
  {
+  "dur": 16,
+  "b_avg": 48,
+  "b_min": 14,
+  "s_avg": 250,
+  "s_min": 51,
+  "title": "JFK Assassination Conspiracy Theorie",
+  "repo": "coldcasedaily667",
+  "file": "jfk_assassination_conspiracy_theories.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 48,
+  "b_min": 25,
+  "s_avg": 123,
+  "s_min": 36,
+  "title": "Jack the Ripper Mystery",
+  "repo": "coldcasedaily667",
+  "file": "jack_the_ripper_mystery.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 40,
+  "b_min": 12,
+  "s_avg": 122,
+  "s_min": 19,
+  "title": "Alcatraz Escape Plot",
+  "repo": "coldcasedaily667",
+  "file": "alcatraz_escape_plot.mp4"
+ },
+ {
   "dur": 18,
   "b_avg": 50,
   "b_min": 2,
@@ -50,34 +80,34 @@
   "file": "jonestown_massacre.mp4"
  },
  {
-  "dur": 24,
-  "b_avg": 46,
+  "dur": 23,
+  "b_avg": 31,
+  "b_min": 11,
+  "s_avg": 271,
+  "s_min": 78,
+  "title": "Klerksdorp Spheres Puzzle",
+  "repo": "UnexplainedDaily",
+  "file": "klerksdorp_spheres_puzzle.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 47,
+  "b_min": 31,
+  "s_avg": 338,
+  "s_min": 68,
+  "title": "Great Zimbabwe Stone Walls",
+  "repo": "UnexplainedDaily",
+  "file": "great_zimbabwe_stone_walls.mp4"
+ },
+ {
+  "dur": 27,
+  "b_avg": 47,
   "b_min": 5,
-  "s_avg": 324,
-  "s_min": 44,
-  "title": "Heaven's Gate Tragedy Explained",
-  "repo": "coldcasedaily667",
-  "file": "heaven_s_gate_tragedy_explained.mp4"
- },
- {
-  "dur": 20,
-  "b_avg": 48,
-  "b_min": 21,
-  "s_avg": 177,
-  "s_min": 44,
-  "title": "Mountbatten Assassination Mystery",
-  "repo": "coldcasedaily667",
-  "file": "mountbatten_assassination_mystery.mp4"
- },
- {
-  "dur": 20,
-  "b_avg": 36,
-  "b_min": 7,
-  "s_avg": 261,
-  "s_min": 64,
-  "title": "John Lennon's Final Night",
-  "repo": "coldcasedaily667",
-  "file": "john_lennon_s_final_night.mp4"
+  "s_avg": 343,
+  "s_min": 56,
+  "title": "Glowing Stones of Costa Rica",
+  "repo": "UnexplainedDaily",
+  "file": "glowing_stones_of_costa_rica.mp4"
  },
  {
   "dur": 24,
@@ -130,34 +160,14 @@
   "file": "green_flash_mystery_explained.mp4"
  },
  {
-  "dur": 26,
-  "b_avg": 42,
-  "b_min": 17,
-  "s_avg": 661,
-  "s_min": 140,
-  "title": "Bimini Road Enigma",
-  "repo": "UnexplainedDaily",
-  "file": "bimini_road_enigma.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 34,
-  "b_min": 10,
-  "s_avg": 175,
-  "s_min": 27,
-  "title": "Saqqara Bird Ancient Puzzle",
-  "repo": "UnexplainedDaily",
-  "file": "saqqara_bird_ancient_puzzle.mp4"
- },
- {
-  "dur": 23,
-  "b_avg": 88,
-  "b_min": 6,
-  "s_avg": 166,
-  "s_min": 59,
-  "title": "Piri Reis Map Enigma",
-  "repo": "UnexplainedDaily",
-  "file": "piri_reis_map_enigma.mp4"
+  "dur": 94,
+  "b_avg": 146,
+  "b_min": 137,
+  "s_avg": 124,
+  "s_min": 33,
+  "title": "Riddle 031 Locks Swap",
+  "repo": "MotivationFactory",
+  "file": "riddle_031_locks_swap.mp4"
  },
  {
   "dur": 96,
@@ -228,15 +238,5 @@
   "title": "Riddle 024 Camel3000",
   "repo": "MotivationFactory",
   "file": "riddle_024_camel3000.mp4"
- },
- {
-  "dur": 96,
-  "b_avg": 122,
-  "b_min": 80,
-  "s_avg": 98,
-  "s_min": 39,
-  "title": "Riddle 023 Wolf Goat",
-  "repo": "MotivationFactory",
-  "file": "riddle_023_wolf_goat.mp4"
  }
 ]
