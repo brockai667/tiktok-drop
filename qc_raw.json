@@ -1,5 +1,35 @@
 [
  {
+  "dur": 21,
+  "b_avg": 44,
+  "b_min": 3,
+  "s_avg": 510,
+  "s_min": 130,
+  "title": "Tupac Shakur Murder Theory",
+  "repo": "coldcasedaily667",
+  "file": "tupac_shakur_murder_theory.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 73,
+  "b_min": 51,
+  "s_avg": 251,
+  "s_min": 84,
+  "title": "Jaycee Dugard Capture",
+  "repo": "coldcasedaily667",
+  "file": "jaycee_dugard_capture.mp4"
+ },
+ {
+  "dur": 20,
+  "b_avg": 32,
+  "b_min": 3,
+  "s_avg": 267,
+  "s_min": 38,
+  "title": "Boston Strangler Case",
+  "repo": "coldcasedaily667",
+  "file": "boston_strangler_case.mp4"
+ },
+ {
   "dur": 16,
   "b_avg": 48,
   "b_min": 14,
@@ -50,34 +80,34 @@
   "file": "the_d_b_cooper_hijacking_reveal.mp4"
  },
  {
-  "dur": 21,
-  "b_avg": 61,
-  "b_min": 5,
-  "s_avg": 180,
-  "s_min": 42,
-  "title": "Lindberhous Kidnapping Mystery",
-  "repo": "coldcasedaily667",
-  "file": "lindberhous_kidnapping_mystery.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 27,
-  "b_min": 19,
-  "s_avg": 217,
-  "s_min": 96,
-  "title": "Murder of Olof Palme",
-  "repo": "coldcasedaily667",
-  "file": "murder_of_olof_palme.mp4"
+  "dur": 24,
+  "b_avg": 31,
+  "b_min": 14,
+  "s_avg": 161,
+  "s_min": 32,
+  "title": "Hessdalen Lights Norway",
+  "repo": "UnexplainedDaily",
+  "file": "hessdalen_lights_norway.mp4"
  },
  {
   "dur": 23,
-  "b_avg": 42,
-  "b_min": 12,
-  "s_avg": 383,
-  "s_min": 58,
-  "title": "Jonestown Massacre",
-  "repo": "coldcasedaily667",
-  "file": "jonestown_massacre.mp4"
+  "b_avg": 57,
+  "b_min": 40,
+  "s_avg": 274,
+  "s_min": 75,
+  "title": "Costa Rica Stone Spheres Mystery",
+  "repo": "UnexplainedDaily",
+  "file": "costa_rica_stone_spheres_mystery.mp4"
+ },
+ {
+  "dur": 23,
+  "b_avg": 26,
+  "b_min": 6,
+  "s_avg": 142,
+  "s_min": 27,
+  "title": "Bristol Hum Unexplained Noise",
+  "repo": "UnexplainedDaily",
+  "file": "bristol_hum_unexplained_noise.mp4"
  },
  {
   "dur": 23,
@@ -130,34 +160,14 @@
   "file": "mysterious_metal_disc_beneath_baltic_sea.mp4"
  },
  {
-  "dur": 26,
-  "b_avg": 71,
-  "b_min": 33,
-  "s_avg": 258,
-  "s_min": 76,
-  "title": "Ancient Map Shows Ice\u2011Free Antarctic",
-  "repo": "UnexplainedDaily",
-  "file": "ancient_map_shows_ice_free_antarctica.mp4"
- },
- {
-  "dur": 27,
-  "b_avg": 42,
-  "b_min": 13,
-  "s_avg": 314,
-  "s_min": 116,
-  "title": "Mystery of Costa Rican Spheres",
-  "repo": "UnexplainedDaily",
-  "file": "mystery_of_costa_rican_spheres.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 67,
-  "b_min": 31,
-  "s_avg": 110,
-  "s_min": 54,
-  "title": "Green Flash Mystery Explained",
-  "repo": "UnexplainedDaily",
-  "file": "green_flash_mystery_explained.mp4"
+  "dur": 96,
+  "b_avg": 139,
+  "b_min": 122,
+  "s_avg": 157,
+  "s_min": 90,
+  "title": "Riddle 032 Chain63",
+  "repo": "MotivationFactory",
+  "file": "riddle_032_chain63.mp4"
  },
  {
   "dur": 94,
@@ -228,15 +238,5 @@
   "title": "Riddle 025 Bulb100",
   "repo": "MotivationFactory",
   "file": "riddle_025_bulb100.mp4"
- },
- {
-  "dur": 90,
-  "b_avg": 162,
-  "b_min": 139,
-  "s_avg": 121,
-  "s_min": 61,
-  "title": "Riddle 024 Camel3000",
-  "repo": "MotivationFactory",
-  "file": "riddle_024_camel3000.mp4"
  }
 ]
