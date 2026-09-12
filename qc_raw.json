@@ -1,5 +1,35 @@
 [
  {
+  "dur": 23,
+  "b_avg": 30,
+  "b_min": 4,
+  "s_avg": 199,
+  "s_min": 51,
+  "title": "Munich Olympic Tragedy",
+  "repo": "coldcasedaily667",
+  "file": "munich_olympic_tragedy.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 53,
+  "b_min": 3,
+  "s_avg": 163,
+  "s_min": 65,
+  "title": "Mona Lisa Heist Mystery",
+  "repo": "coldcasedaily667",
+  "file": "mona_lisa_heist_mystery.mp4"
+ },
+ {
+  "dur": 23,
+  "b_avg": 67,
+  "b_min": 46,
+  "s_avg": 161,
+  "s_min": 42,
+  "title": "Chowchilla School Bus Kidnapping",
+  "repo": "coldcasedaily667",
+  "file": "chowchilla_school_bus_kidnapping.mp4"
+ },
+ {
   "dur": 21,
   "b_avg": 44,
   "b_min": 3,
@@ -50,34 +80,34 @@
   "file": "jack_the_ripper_mystery.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 40,
-  "b_min": 12,
-  "s_avg": 122,
-  "s_min": 19,
-  "title": "Alcatraz Escape Plot",
-  "repo": "coldcasedaily667",
-  "file": "alcatraz_escape_plot.mp4"
+  "dur": 27,
+  "b_avg": 36,
+  "b_min": 19,
+  "s_avg": 468,
+  "s_min": 227,
+  "title": "Yonaguni Underwater Enigma",
+  "repo": "UnexplainedDaily",
+  "file": "yonaguni_underwater_enigma.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 50,
-  "b_min": 2,
-  "s_avg": 439,
-  "s_min": 37,
-  "title": "The Unsolved Murder of Jill Dando",
-  "repo": "coldcasedaily667",
-  "file": "the_unsolved_murder_of_jill_dando.mp4"
+  "dur": 23,
+  "b_avg": 27,
+  "b_min": 12,
+  "s_avg": 618,
+  "s_min": 88,
+  "title": "The Enigmatic Saqqara Bird",
+  "repo": "UnexplainedDaily",
+  "file": "the_enigmatic_saqqara_bird.mp4"
  },
  {
-  "dur": 25,
-  "b_avg": 46,
-  "b_min": 12,
-  "s_avg": 167,
-  "s_min": 32,
-  "title": "The D.B. Cooper Hijacking Reveal",
-  "repo": "coldcasedaily667",
-  "file": "the_d_b_cooper_hijacking_reveal.mp4"
+  "dur": 26,
+  "b_avg": 58,
+  "b_min": 34,
+  "s_avg": 781,
+  "s_min": 108,
+  "title": "Costa Rica Stone Spheres Puzzle",
+  "repo": "UnexplainedDaily",
+  "file": "costa_rica_stone_spheres_puzzle.mp4"
  },
  {
   "dur": 24,
@@ -128,36 +158,6 @@
   "title": "Great Zimbabwe Stone Walls",
   "repo": "UnexplainedDaily",
   "file": "great_zimbabwe_stone_walls.mp4"
- },
- {
-  "dur": 27,
-  "b_avg": 47,
-  "b_min": 5,
-  "s_avg": 343,
-  "s_min": 56,
-  "title": "Glowing Stones of Costa Rica",
-  "repo": "UnexplainedDaily",
-  "file": "glowing_stones_of_costa_rica.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 41,
-  "b_min": 19,
-  "s_avg": 212,
-  "s_min": 141,
-  "title": "Oak Island Money Pit Secrets",
-  "repo": "UnexplainedDaily",
-  "file": "oak_island_money_pit_secrets.mp4"
- },
- {
-  "dur": 25,
-  "b_avg": 66,
-  "b_min": 27,
-  "s_avg": 316,
-  "s_min": 165,
-  "title": "Mysterious Metal Disc Beneath Baltic",
-  "repo": "UnexplainedDaily",
-  "file": "mysterious_metal_disc_beneath_baltic_sea.mp4"
  },
  {
   "dur": 96,
