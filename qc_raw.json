@@ -1,6 +1,36 @@
 [
  {
   "dur": 23,
+  "b_avg": 46,
+  "b_min": 7,
+  "s_avg": 220,
+  "s_min": 89,
+  "title": "Tylenol Poisonings Uncovered",
+  "repo": "coldcasedaily667",
+  "file": "tylenol_poisonings_uncovered.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 47,
+  "b_min": 11,
+  "s_avg": 166,
+  "s_min": 50,
+  "title": "The Beaumont Children Vanish",
+  "repo": "coldcasedaily667",
+  "file": "the_beaumont_children_vanish.mp4"
+ },
+ {
+  "dur": 23,
+  "b_avg": 44,
+  "b_min": 29,
+  "s_avg": 282,
+  "s_min": 125,
+  "title": "Harvey Milk Assassination Story",
+  "repo": "coldcasedaily667",
+  "file": "harvey_milk_assassination_story.mp4"
+ },
+ {
+  "dur": 23,
   "b_avg": 30,
   "b_min": 4,
   "s_avg": 199,
@@ -50,34 +80,34 @@
   "file": "jaycee_dugard_capture.mp4"
  },
  {
-  "dur": 20,
-  "b_avg": 32,
-  "b_min": 3,
-  "s_avg": 267,
-  "s_min": 38,
-  "title": "Boston Strangler Case",
-  "repo": "coldcasedaily667",
-  "file": "boston_strangler_case.mp4"
- },
- {
-  "dur": 16,
-  "b_avg": 48,
+  "dur": 21,
+  "b_avg": 63,
   "b_min": 14,
-  "s_avg": 250,
-  "s_min": 51,
-  "title": "JFK Assassination Conspiracy Theorie",
-  "repo": "coldcasedaily667",
-  "file": "jfk_assassination_conspiracy_theories.mp4"
+  "s_avg": 133,
+  "s_min": 63,
+  "title": "Nazca Lines Alien Runways",
+  "repo": "UnexplainedDaily",
+  "file": "nazca_lines_alien_runways.mp4"
  },
  {
-  "dur": 19,
-  "b_avg": 48,
-  "b_min": 25,
-  "s_avg": 123,
-  "s_min": 36,
-  "title": "Jack the Ripper Mystery",
-  "repo": "coldcasedaily667",
-  "file": "jack_the_ripper_mystery.mp4"
+  "dur": 23,
+  "b_avg": 56,
+  "b_min": 26,
+  "s_avg": 213,
+  "s_min": 111,
+  "title": "Missing Gear of Ancient Clock",
+  "repo": "UnexplainedDaily",
+  "file": "missing_gear_of_ancient_clock.mp4"
+ },
+ {
+  "dur": 22,
+  "b_avg": 44,
+  "b_min": 6,
+  "s_avg": 357,
+  "s_min": 124,
+  "title": "Eternal Light of Hessdalen",
+  "repo": "UnexplainedDaily",
+  "file": "eternal_light_of_hessdalen.mp4"
  },
  {
   "dur": 27,
@@ -130,34 +160,14 @@
   "file": "costa_rica_stone_spheres_mystery.mp4"
  },
  {
-  "dur": 23,
-  "b_avg": 26,
-  "b_min": 6,
-  "s_avg": 142,
-  "s_min": 27,
-  "title": "Bristol Hum Unexplained Noise",
-  "repo": "UnexplainedDaily",
-  "file": "bristol_hum_unexplained_noise.mp4"
- },
- {
-  "dur": 23,
-  "b_avg": 31,
-  "b_min": 11,
-  "s_avg": 271,
-  "s_min": 78,
-  "title": "Klerksdorp Spheres Puzzle",
-  "repo": "UnexplainedDaily",
-  "file": "klerksdorp_spheres_puzzle.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 47,
-  "b_min": 31,
-  "s_avg": 338,
-  "s_min": 68,
-  "title": "Great Zimbabwe Stone Walls",
-  "repo": "UnexplainedDaily",
-  "file": "great_zimbabwe_stone_walls.mp4"
+  "dur": 103,
+  "b_avg": 145,
+  "b_min": 103,
+  "s_avg": 181,
+  "s_min": 90,
+  "title": "Riddle 033 Ants100",
+  "repo": "MotivationFactory",
+  "file": "riddle_033_ants100.mp4"
  },
  {
   "dur": 96,
@@ -228,15 +238,5 @@
   "title": "Riddle 026 Joseph100",
   "repo": "MotivationFactory",
   "file": "riddle_026_joseph100.mp4"
- },
- {
-  "dur": 101,
-  "b_avg": 126,
-  "b_min": 79,
-  "s_avg": 83,
-  "s_min": 43,
-  "title": "Riddle 025 Bulb100",
-  "repo": "MotivationFactory",
-  "file": "riddle_025_bulb100.mp4"
  }
 ]
