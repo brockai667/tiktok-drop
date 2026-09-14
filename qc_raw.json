@@ -1,5 +1,35 @@
 [
  {
+  "dur": 22,
+  "b_avg": 39,
+  "b_min": 22,
+  "s_avg": 306,
+  "s_min": 19,
+  "title": "Versace Murder Unsolved Twist",
+  "repo": "coldcasedaily667",
+  "file": "versace_murder_unsolved_twist.mp4"
+ },
+ {
+  "dur": 24,
+  "b_avg": 42,
+  "b_min": 3,
+  "s_avg": 230,
+  "s_min": 74,
+  "title": "Tylenol Murders Poison Plot",
+  "repo": "coldcasedaily667",
+  "file": "tylenol_murders_poison_plot.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 46,
+  "b_min": 1,
+  "s_avg": 237,
+  "s_min": 42,
+  "title": "Atlanta Olympic Bomb Tragedy",
+  "repo": "coldcasedaily667",
+  "file": "atlanta_olympic_bomb_tragedy.mp4"
+ },
+ {
   "dur": 23,
   "b_avg": 46,
   "b_min": 7,
@@ -50,34 +80,34 @@
   "file": "mona_lisa_heist_mystery.mp4"
  },
  {
-  "dur": 23,
-  "b_avg": 67,
-  "b_min": 46,
-  "s_avg": 161,
-  "s_min": 42,
-  "title": "Chowchilla School Bus Kidnapping",
-  "repo": "coldcasedaily667",
-  "file": "chowchilla_school_bus_kidnapping.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 44,
+  "dur": 19,
+  "b_avg": 41,
   "b_min": 3,
-  "s_avg": 510,
-  "s_min": 130,
-  "title": "Tupac Shakur Murder Theory",
-  "repo": "coldcasedaily667",
-  "file": "tupac_shakur_murder_theory.mp4"
+  "s_avg": 540,
+  "s_min": 104,
+  "title": "The Whispering Gallery of St Paul",
+  "repo": "UnexplainedDaily",
+  "file": "the_whispering_gallery_of_st_paul.mp4"
  },
  {
   "dur": 19,
-  "b_avg": 73,
-  "b_min": 51,
-  "s_avg": 251,
-  "s_min": 84,
-  "title": "Jaycee Dugard Capture",
-  "repo": "coldcasedaily667",
-  "file": "jaycee_dugard_capture.mp4"
+  "b_avg": 39,
+  "b_min": 4,
+  "s_avg": 657,
+  "s_min": 44,
+  "title": "The Silent Stones of Carnac",
+  "repo": "UnexplainedDaily",
+  "file": "the_silent_stones_of_carnac.mp4"
+ },
+ {
+  "dur": 18,
+  "b_avg": 56,
+  "b_min": 39,
+  "s_avg": 365,
+  "s_min": 64,
+  "title": "Antikythera Mechanism Missing Gear",
+  "repo": "UnexplainedDaily",
+  "file": "antikythera_mechanism_missing_gear.mp4"
  },
  {
   "dur": 21,
@@ -130,34 +160,14 @@
   "file": "the_enigmatic_saqqara_bird.mp4"
  },
  {
-  "dur": 26,
-  "b_avg": 58,
-  "b_min": 34,
-  "s_avg": 781,
-  "s_min": 108,
-  "title": "Costa Rica Stone Spheres Puzzle",
-  "repo": "UnexplainedDaily",
-  "file": "costa_rica_stone_spheres_puzzle.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 31,
-  "b_min": 14,
-  "s_avg": 161,
-  "s_min": 32,
-  "title": "Hessdalen Lights Norway",
-  "repo": "UnexplainedDaily",
-  "file": "hessdalen_lights_norway.mp4"
- },
- {
-  "dur": 23,
-  "b_avg": 57,
-  "b_min": 40,
-  "s_avg": 274,
-  "s_min": 75,
-  "title": "Costa Rica Stone Spheres Mystery",
-  "repo": "UnexplainedDaily",
-  "file": "costa_rica_stone_spheres_mystery.mp4"
+  "dur": 100,
+  "b_avg": 131,
+  "b_min": 115,
+  "s_avg": 184,
+  "s_min": 156,
+  "title": "Riddle 034 Chameleons",
+  "repo": "MotivationFactory",
+  "file": "riddle_034_chameleons.mp4"
  },
  {
   "dur": 103,
@@ -228,15 +238,5 @@
   "title": "Riddle 027 Camels17",
   "repo": "MotivationFactory",
   "file": "riddle_027_camels17.mp4"
- },
- {
-  "dur": 93,
-  "b_avg": 175,
-  "b_min": 165,
-  "s_avg": 185,
-  "s_min": 99,
-  "title": "Riddle 026 Joseph100",
-  "repo": "MotivationFactory",
-  "file": "riddle_026_joseph100.mp4"
  }
 ]
