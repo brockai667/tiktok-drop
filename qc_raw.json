@@ -1,5 +1,35 @@
 [
  {
+  "dur": 19,
+  "b_avg": 43,
+  "b_min": 3,
+  "s_avg": 314,
+  "s_min": 77,
+  "title": "Sharon Tate Murder",
+  "repo": "coldcasedaily667",
+  "file": "sharon_tate_murder.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 47,
+  "b_min": 4,
+  "s_avg": 274,
+  "s_min": 41,
+  "title": "Oklahoma City Terror Attack",
+  "repo": "coldcasedaily667",
+  "file": "oklahoma_city_terror_attack.mp4"
+ },
+ {
+  "dur": 17,
+  "b_avg": 54,
+  "b_min": 15,
+  "s_avg": 392,
+  "s_min": 65,
+  "title": "Hae Min Lee Murder",
+  "repo": "coldcasedaily667",
+  "file": "hae_min_lee_murder.mp4"
+ },
+ {
   "dur": 22,
   "b_avg": 39,
   "b_min": 22,
@@ -50,34 +80,34 @@
   "file": "the_beaumont_children_vanish.mp4"
  },
  {
-  "dur": 23,
-  "b_avg": 44,
-  "b_min": 29,
-  "s_avg": 282,
-  "s_min": 125,
-  "title": "Harvey Milk Assassination Story",
-  "repo": "coldcasedaily667",
-  "file": "harvey_milk_assassination_story.mp4"
+  "dur": 21,
+  "b_avg": 63,
+  "b_min": 59,
+  "s_avg": 386,
+  "s_min": 160,
+  "title": "The Vanishing Lake of Sarychev",
+  "repo": "UnexplainedDaily",
+  "file": "the_vanishing_lake_of_sarychev.mp4"
  },
  {
   "dur": 23,
-  "b_avg": 30,
-  "b_min": 4,
-  "s_avg": 199,
-  "s_min": 51,
-  "title": "Munich Olympic Tragedy",
-  "repo": "coldcasedaily667",
-  "file": "munich_olympic_tragedy.mp4"
+  "b_avg": 54,
+  "b_min": 40,
+  "s_avg": 255,
+  "s_min": 139,
+  "title": "Nazca Lines Hidden Water Theory",
+  "repo": "UnexplainedDaily",
+  "file": "nazca_lines_hidden_water_theory.mp4"
  },
  {
-  "dur": 19,
-  "b_avg": 53,
-  "b_min": 3,
-  "s_avg": 163,
-  "s_min": 65,
-  "title": "Mona Lisa Heist Mystery",
-  "repo": "coldcasedaily667",
-  "file": "mona_lisa_heist_mystery.mp4"
+  "dur": 18,
+  "b_avg": 42,
+  "b_min": 13,
+  "s_avg": 122,
+  "s_min": 22,
+  "title": "Mystery of the Antikythera Gear",
+  "repo": "UnexplainedDaily",
+  "file": "mystery_of_the_antikythera_gear.mp4"
  },
  {
   "dur": 19,
@@ -130,34 +160,14 @@
   "file": "missing_gear_of_ancient_clock.mp4"
  },
  {
-  "dur": 22,
-  "b_avg": 44,
-  "b_min": 6,
-  "s_avg": 357,
-  "s_min": 124,
-  "title": "Eternal Light of Hessdalen",
-  "repo": "UnexplainedDaily",
-  "file": "eternal_light_of_hessdalen.mp4"
- },
- {
-  "dur": 27,
-  "b_avg": 36,
-  "b_min": 19,
-  "s_avg": 468,
-  "s_min": 227,
-  "title": "Yonaguni Underwater Enigma",
-  "repo": "UnexplainedDaily",
-  "file": "yonaguni_underwater_enigma.mp4"
- },
- {
-  "dur": 23,
-  "b_avg": 27,
-  "b_min": 12,
-  "s_avg": 618,
-  "s_min": 88,
-  "title": "The Enigmatic Saqqara Bird",
-  "repo": "UnexplainedDaily",
-  "file": "the_enigmatic_saqqara_bird.mp4"
+  "dur": 106,
+  "b_avg": 118,
+  "b_min": 100,
+  "s_avg": 242,
+  "s_min": 123,
+  "title": "Riddle 035 Hotel30",
+  "repo": "MotivationFactory",
+  "file": "riddle_035_hotel30.mp4"
  },
  {
   "dur": 100,
@@ -228,15 +238,5 @@
   "title": "Riddle 028 Tigers100",
   "repo": "MotivationFactory",
   "file": "riddle_028_tigers100.mp4"
- },
- {
-  "dur": 88,
-  "b_avg": 155,
-  "b_min": 128,
-  "s_avg": 114,
-  "s_min": 86,
-  "title": "Riddle 027 Camels17",
-  "repo": "MotivationFactory",
-  "file": "riddle_027_camels17.mp4"
  }
 ]
