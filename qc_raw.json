@@ -1,5 +1,35 @@
 [
  {
+  "dur": 18,
+  "b_avg": 21,
+  "b_min": 6,
+  "s_avg": 123,
+  "s_min": 19,
+  "title": "Nicole Brown Simpson Murder",
+  "repo": "coldcasedaily667",
+  "file": "nicole_brown_simpson_murder.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 26,
+  "b_min": 5,
+  "s_avg": 134,
+  "s_min": 68,
+  "title": "Lufthansa Heist Secrets",
+  "repo": "coldcasedaily667",
+  "file": "lufthansa_heist_secrets.mp4"
+ },
+ {
+  "dur": 19,
+  "b_avg": 38,
+  "b_min": 6,
+  "s_avg": 347,
+  "s_min": 80,
+  "title": "Lindbergh Baby Kidnapping",
+  "repo": "coldcasedaily667",
+  "file": "lindbergh_baby_kidnapping.mp4"
+ },
+ {
   "dur": 19,
   "b_avg": 43,
   "b_min": 3,
@@ -50,34 +80,34 @@
   "file": "tylenol_murders_poison_plot.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 46,
+  "dur": 22,
+  "b_avg": 55,
+  "b_min": 5,
+  "s_avg": 414,
+  "s_min": 26,
+  "title": "Nazca Lines Water Theory",
+  "repo": "UnexplainedDaily",
+  "file": "nazca_lines_water_theory.mp4"
+ },
+ {
+  "dur": 21,
+  "b_avg": 31,
   "b_min": 1,
-  "s_avg": 237,
-  "s_min": 42,
-  "title": "Atlanta Olympic Bomb Tragedy",
-  "repo": "coldcasedaily667",
-  "file": "atlanta_olympic_bomb_tragedy.mp4"
+  "s_avg": 204,
+  "s_min": 67,
+  "title": "Baghdad Battery Controversy",
+  "repo": "UnexplainedDaily",
+  "file": "baghdad_battery_controversy.mp4"
  },
  {
-  "dur": 23,
-  "b_avg": 46,
-  "b_min": 7,
-  "s_avg": 220,
-  "s_min": 89,
-  "title": "Tylenol Poisonings Uncovered",
-  "repo": "coldcasedaily667",
-  "file": "tylenol_poisonings_uncovered.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 47,
-  "b_min": 11,
-  "s_avg": 166,
-  "s_min": 50,
-  "title": "The Beaumont Children Vanish",
-  "repo": "coldcasedaily667",
-  "file": "the_beaumont_children_vanish.mp4"
+  "dur": 21,
+  "b_avg": 43,
+  "b_min": 17,
+  "s_avg": 145,
+  "s_min": 81,
+  "title": "Antikythera Missing Gear Mystery",
+  "repo": "UnexplainedDaily",
+  "file": "antikythera_missing_gear_mystery.mp4"
  },
  {
   "dur": 21,
@@ -130,34 +160,14 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
-  "dur": 18,
-  "b_avg": 56,
-  "b_min": 39,
-  "s_avg": 365,
-  "s_min": 64,
-  "title": "Antikythera Mechanism Missing Gear",
-  "repo": "UnexplainedDaily",
-  "file": "antikythera_mechanism_missing_gear.mp4"
- },
- {
-  "dur": 21,
-  "b_avg": 63,
-  "b_min": 14,
-  "s_avg": 133,
-  "s_min": 63,
-  "title": "Nazca Lines Alien Runways",
-  "repo": "UnexplainedDaily",
-  "file": "nazca_lines_alien_runways.mp4"
- },
- {
-  "dur": 23,
-  "b_avg": 56,
-  "b_min": 26,
-  "s_avg": 213,
-  "s_min": 111,
-  "title": "Missing Gear of Ancient Clock",
-  "repo": "UnexplainedDaily",
-  "file": "missing_gear_of_ancient_clock.mp4"
+  "dur": 87,
+  "b_avg": 155,
+  "b_min": 87,
+  "s_avg": 144,
+  "s_min": 89,
+  "title": "Riddle 036 Monty",
+  "repo": "MotivationFactory",
+  "file": "riddle_036_monty.mp4"
  },
  {
   "dur": 106,
@@ -228,15 +238,5 @@
   "title": "Riddle 029 Wall Hats",
   "repo": "MotivationFactory",
   "file": "riddle_029_wall_hats.mp4"
- },
- {
-  "dur": 92,
-  "b_avg": 52,
-  "b_min": 41,
-  "s_avg": 180,
-  "s_min": 43,
-  "title": "Riddle 028 Tigers100",
-  "repo": "MotivationFactory",
-  "file": "riddle_028_tigers100.mp4"
  }
 ]
