@@ -316,6 +316,22 @@
     ],
     "videos": [
       {
+        "title": "Riddle 037 Miss3",
+        "file": "riddle_037_miss3.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_037_miss3.mp4",
+        "size_mb": 35.4,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-09-16"
+      },
+      {
         "title": "Riddle 036 Monty",
         "file": "riddle_036_monty.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_036_monty.mp4",
@@ -426,22 +442,6 @@
           "#quiz"
         ],
         "created": "2026-09-08"
-      },
-      {
-        "title": "Riddle 029 Wall Hats",
-        "file": "riddle_029_wall_hats.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_029_wall_hats.mp4",
-        "size_mb": 29.3,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-09-07"
       }
     ]
   }

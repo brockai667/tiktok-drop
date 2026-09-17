@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 95,
+  "b_avg": 152,
+  "b_min": 149,
+  "s_avg": 162,
+  "s_min": 110,
+  "title": "Riddle 037 Miss3",
+  "repo": "MotivationFactory",
+  "file": "riddle_037_miss3.mp4"
+ },
+ {
   "dur": 87,
   "b_avg": 155,
   "b_min": 87,
@@ -228,15 +238,5 @@
   "title": "Riddle 030 Last Ball",
   "repo": "MotivationFactory",
   "file": "riddle_030_last_ball.mp4"
- },
- {
-  "dur": 94,
-  "b_avg": 179,
-  "b_min": 162,
-  "s_avg": 103,
-  "s_min": 59,
-  "title": "Riddle 029 Wall Hats",
-  "repo": "MotivationFactory",
-  "file": "riddle_029_wall_hats.mp4"
  }
 ]
