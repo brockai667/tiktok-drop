@@ -316,6 +316,22 @@
     ],
     "videos": [
       {
+        "title": "Riddle 038 Jugs844",
+        "file": "riddle_038_jugs844.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_038_jugs844.mp4",
+        "size_mb": 41.3,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-09-20"
+      },
+      {
         "title": "Riddle 037 Miss3",
         "file": "riddle_037_miss3.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_037_miss3.mp4",
@@ -426,22 +442,6 @@
           "#quiz"
         ],
         "created": "2026-09-09"
-      },
-      {
-        "title": "Riddle 030 Last Ball",
-        "file": "riddle_030_last_ball.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_030_last_ball.mp4",
-        "size_mb": 32.6,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-09-08"
       }
     ]
   }
