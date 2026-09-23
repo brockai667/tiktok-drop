@@ -316,6 +316,22 @@
     ],
     "videos": [
       {
+        "title": "Riddle 039 Pages552",
+        "file": "riddle_039_pages552.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_039_pages552.mp4",
+        "size_mb": 31.1,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-09-22"
+      },
+      {
         "title": "Riddle 038 Jugs844",
         "file": "riddle_038_jugs844.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_038_jugs844.mp4",
@@ -426,22 +442,6 @@
           "#quiz"
         ],
         "created": "2026-09-10"
-      },
-      {
-        "title": "Riddle 031 Locks Swap",
-        "file": "riddle_031_locks_swap.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_031_locks_swap.mp4",
-        "size_mb": 28.4,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-09-09"
       }
     ]
   }
