@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 104,
+  "b_avg": 123,
+  "b_min": 91,
+  "s_avg": 203,
+  "s_min": 91,
+  "title": "Riddle 040 Boat Kids",
+  "repo": "MotivationFactory",
+  "file": "riddle_040_boat_kids.mp4"
+ },
+ {
   "dur": 103,
   "b_avg": 145,
   "b_min": 133,
@@ -228,15 +238,5 @@
   "title": "Riddle 033 Ants100",
   "repo": "MotivationFactory",
   "file": "riddle_033_ants100.mp4"
- },
- {
-  "dur": 96,
-  "b_avg": 139,
-  "b_min": 122,
-  "s_avg": 157,
-  "s_min": 90,
-  "title": "Riddle 032 Chain63",
-  "repo": "MotivationFactory",
-  "file": "riddle_032_chain63.mp4"
  }
 ]
