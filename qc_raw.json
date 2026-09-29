@@ -1,5 +1,25 @@
 [
  {
+  "dur": 45,
+  "b_avg": 127,
+  "b_min": 104,
+  "s_avg": 1294,
+  "s_min": 336,
+  "title": "Case-Dyatlov-Pass",
+  "repo": "coldcasedaily667",
+  "file": "case-dyatlov-pass.mp4"
+ },
+ {
+  "dur": 28,
+  "b_avg": 202,
+  "b_min": 195,
+  "s_avg": 537,
+  "s_min": 423,
+  "title": "The-Dyatlov-Pass-Incident",
+  "repo": "coldcasedaily667",
+  "file": "the-dyatlov-pass-incident.mp4"
+ },
+ {
   "dur": 18,
   "b_avg": 21,
   "b_min": 6,
@@ -58,26 +78,6 @@
   "title": "Hae Min Lee Murder",
   "repo": "coldcasedaily667",
   "file": "hae_min_lee_murder.mp4"
- },
- {
-  "dur": 22,
-  "b_avg": 39,
-  "b_min": 22,
-  "s_avg": 306,
-  "s_min": 19,
-  "title": "Versace Murder Unsolved Twist",
-  "repo": "coldcasedaily667",
-  "file": "versace_murder_unsolved_twist.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 42,
-  "b_min": 3,
-  "s_avg": 230,
-  "s_min": 74,
-  "title": "Tylenol Murders Poison Plot",
-  "repo": "coldcasedaily667",
-  "file": "tylenol_murders_poison_plot.mp4"
  },
  {
   "dur": 22,

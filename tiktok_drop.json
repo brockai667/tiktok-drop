@@ -14,6 +14,42 @@
     ],
     "videos": [
       {
+        "title": "Case-Dyatlov-Pass",
+        "file": "case-dyatlov-pass.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-dyatlov-pass.mp4",
+        "size_mb": 23.5,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-09-29"
+      },
+      {
+        "title": "The-Dyatlov-Pass-Incident",
+        "file": "the-dyatlov-pass-incident.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/the-dyatlov-pass-incident.mp4",
+        "size_mb": 7.5,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-09-28"
+      },
+      {
         "title": "Nicole Brown Simpson Murder",
         "file": "nicole_brown_simpson_murder.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/nicole_brown_simpson_murder.mp4",
@@ -113,40 +149,6 @@
           "#history"
         ],
         "created": "2026-09-15"
-      },
-      {
-        "title": "Versace Murder Unsolved Twist",
-        "file": "versace_murder_unsolved_twist.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/versace_murder_unsolved_twist.mp4",
-        "size_mb": 23.6,
-        "desc": "The brutal killing of fashion legend Gianni Versace stunned the world. Explore the eerie possibility of a hate‑group motive behind the murder.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#gianniVersace",
-          "#crime",
-          "#murderMystery",
-          "#fashion",
-          "#unsolved"
-        ],
-        "created": "2026-09-14"
-      },
-      {
-        "title": "Tylenol Murders Poison Plot",
-        "file": "tylenol_murders_poison_plot.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/tylenol_murders_poison_plot.mp4",
-        "size_mb": 23.5,
-        "desc": "In 1982, a mysterious poisoner turned everyday medicine into a lethal weapon, reshaping product safety standards. Dive into the facts and lingering questions. Follow for more untold crime stories.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#truecrime",
-          "#TylenolMurders",
-          "#cynide",
-          "#1982",
-          "#investigation"
-        ],
-        "created": "2026-09-14"
       }
     ]
   },
@@ -329,7 +331,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-09-27"
+        "created": "2026-09-29"
       },
       {
         "title": "Riddle 039 Pages552",
