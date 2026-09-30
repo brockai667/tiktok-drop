@@ -1,5 +1,15 @@
 [
  {
+  "dur": 38,
+  "b_avg": 99,
+  "b_min": 35,
+  "s_avg": 980,
+  "s_min": 122,
+  "title": "Case-Mary-Celeste",
+  "repo": "coldcasedaily667",
+  "file": "case-mary-celeste.mp4"
+ },
+ {
   "dur": 45,
   "b_avg": 127,
   "b_min": 104,
@@ -68,16 +78,6 @@
   "title": "Oklahoma City Terror Attack",
   "repo": "coldcasedaily667",
   "file": "oklahoma_city_terror_attack.mp4"
- },
- {
-  "dur": 17,
-  "b_avg": 54,
-  "b_min": 15,
-  "s_avg": 392,
-  "s_min": 65,
-  "title": "Hae Min Lee Murder",
-  "repo": "coldcasedaily667",
-  "file": "hae_min_lee_murder.mp4"
  },
  {
   "dur": 22,

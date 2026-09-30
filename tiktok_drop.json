@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-Mary-Celeste",
+        "file": "case-mary-celeste.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-mary-celeste.mp4",
+        "size_mb": 20.7,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-09-30"
+      },
+      {
         "title": "Case-Dyatlov-Pass",
         "file": "case-dyatlov-pass.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-dyatlov-pass.mp4",
@@ -129,23 +147,6 @@
           "#bombing",
           "#OklahomaCity",
           "#terror",
-          "#history"
-        ],
-        "created": "2026-09-15"
-      },
-      {
-        "title": "Hae Min Lee Murder",
-        "file": "hae_min_lee_murder.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/hae_min_lee_murder.mp4",
-        "size_mb": 16.3,
-        "desc": "A high‑profile murder that sparked nationwide debate. Examine the facts and ongoing controversy. Follow for more.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#truecrime",
-          "#HaeMinLee",
-          "#Baltimore",
-          "#coldcase",
           "#history"
         ],
         "created": "2026-09-15"
