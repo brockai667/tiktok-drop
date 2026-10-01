@@ -1,5 +1,15 @@
 [
  {
+  "dur": 45,
+  "b_avg": 112,
+  "b_min": 38,
+  "s_avg": 1398,
+  "s_min": 116,
+  "title": "Case-Wow-Signal",
+  "repo": "coldcasedaily667",
+  "file": "case-wow-signal.mp4"
+ },
+ {
   "dur": 38,
   "b_avg": 99,
   "b_min": 35,
@@ -68,16 +78,6 @@
   "title": "Sharon Tate Murder",
   "repo": "coldcasedaily667",
   "file": "sharon_tate_murder.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 47,
-  "b_min": 4,
-  "s_avg": 274,
-  "s_min": 41,
-  "title": "Oklahoma City Terror Attack",
-  "repo": "coldcasedaily667",
-  "file": "oklahoma_city_terror_attack.mp4"
  },
  {
   "dur": 22,

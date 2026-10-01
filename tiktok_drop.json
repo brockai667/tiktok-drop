@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-Wow-Signal",
+        "file": "case-wow-signal.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-wow-signal.mp4",
+        "size_mb": 23.9,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-01"
+      },
+      {
         "title": "Case-Mary-Celeste",
         "file": "case-mary-celeste.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-mary-celeste.mp4",
@@ -130,23 +148,6 @@
           "#SharonTate",
           "#Manson",
           "#Hollywood",
-          "#history"
-        ],
-        "created": "2026-09-15"
-      },
-      {
-        "title": "Oklahoma City Terror Attack",
-        "file": "oklahoma_city_terror_attack.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/oklahoma_city_terror_attack.mp4",
-        "size_mb": 19.9,
-        "desc": "The 1995 Oklahoma City bombing shocked a nation and reshaped security policies. Explore the details of the blast and its lasting impact.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#truecrime",
-          "#bombing",
-          "#OklahomaCity",
-          "#terror",
           "#history"
         ],
         "created": "2026-09-15"
@@ -332,7 +333,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-09-29"
+        "created": "2026-09-30"
       },
       {
         "title": "Riddle 039 Pages552",
