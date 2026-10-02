@@ -1,5 +1,15 @@
 [
  {
+  "dur": 40,
+  "b_avg": 138,
+  "b_min": 121,
+  "s_avg": 1357,
+  "s_min": 80,
+  "title": "Case-Flannan-Isles",
+  "repo": "coldcasedaily667",
+  "file": "case-flannan-isles.mp4"
+ },
+ {
   "dur": 45,
   "b_avg": 112,
   "b_min": 38,
@@ -68,16 +78,6 @@
   "title": "Lindbergh Baby Kidnapping",
   "repo": "coldcasedaily667",
   "file": "lindbergh_baby_kidnapping.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 43,
-  "b_min": 3,
-  "s_avg": 314,
-  "s_min": 77,
-  "title": "Sharon Tate Murder",
-  "repo": "coldcasedaily667",
-  "file": "sharon_tate_murder.mp4"
  },
  {
   "dur": 22,
