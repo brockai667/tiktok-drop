@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-Flight-19",
+        "file": "case-flight-19.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-flight-19.mp4",
+        "size_mb": 20.1,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-03"
+      },
+      {
         "title": "Case-Flannan-Isles",
         "file": "case-flannan-isles.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-flannan-isles.mp4",
@@ -133,23 +151,6 @@
           "#heist",
           "#unsolved",
           "#history"
-        ],
-        "created": "2026-09-16"
-      },
-      {
-        "title": "Lindbergh Baby Kidnapping",
-        "file": "lindbergh_baby_kidnapping.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/lindbergh_baby_kidnapping.mp4",
-        "size_mb": 19.1,
-        "desc": "The 1932 Lindbergh kidnapping shocked a nation and still haunts investigators. Follow for more unsolved legends.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#truecrime",
-          "#lindbergh",
-          "#unsolved",
-          "#history",
-          "#mystery"
         ],
         "created": "2026-09-16"
       }
@@ -334,7 +335,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-10-01"
+        "created": "2026-10-02"
       },
       {
         "title": "Riddle 039 Pages552",

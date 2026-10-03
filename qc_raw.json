@@ -1,5 +1,15 @@
 [
  {
+  "dur": 37,
+  "b_avg": 111,
+  "b_min": 41,
+  "s_avg": 1176,
+  "s_min": 91,
+  "title": "Case-Flight-19",
+  "repo": "coldcasedaily667",
+  "file": "case-flight-19.mp4"
+ },
+ {
   "dur": 40,
   "b_avg": 138,
   "b_min": 121,
@@ -68,16 +78,6 @@
   "title": "Lufthansa Heist Secrets",
   "repo": "coldcasedaily667",
   "file": "lufthansa_heist_secrets.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 38,
-  "b_min": 6,
-  "s_avg": 347,
-  "s_min": 80,
-  "title": "Lindbergh Baby Kidnapping",
-  "repo": "coldcasedaily667",
-  "file": "lindbergh_baby_kidnapping.mp4"
  },
  {
   "dur": 22,
