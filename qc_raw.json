@@ -1,5 +1,15 @@
 [
  {
+  "dur": 39,
+  "b_avg": 110,
+  "b_min": 50,
+  "s_avg": 1162,
+  "s_min": 174,
+  "title": "Case-Amelia-Earhart",
+  "repo": "coldcasedaily667",
+  "file": "case-amelia-earhart.mp4"
+ },
+ {
   "dur": 37,
   "b_avg": 111,
   "b_min": 41,
@@ -68,16 +78,6 @@
   "title": "Nicole Brown Simpson Murder",
   "repo": "coldcasedaily667",
   "file": "nicole_brown_simpson_murder.mp4"
- },
- {
-  "dur": 19,
-  "b_avg": 26,
-  "b_min": 5,
-  "s_avg": 134,
-  "s_min": 68,
-  "title": "Lufthansa Heist Secrets",
-  "repo": "coldcasedaily667",
-  "file": "lufthansa_heist_secrets.mp4"
  },
  {
   "dur": 22,

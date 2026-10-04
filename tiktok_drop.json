@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-Amelia-Earhart",
+        "file": "case-amelia-earhart.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-amelia-earhart.mp4",
+        "size_mb": 21.3,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-04"
+      },
+      {
         "title": "Case-Flight-19",
         "file": "case-flight-19.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-flight-19.mp4",
@@ -134,23 +152,6 @@
           "#truecrime",
           "#hollywood",
           "#legaldrama"
-        ],
-        "created": "2026-09-16"
-      },
-      {
-        "title": "Lufthansa Heist Secrets",
-        "file": "lufthansa_heist_secrets.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/lufthansa_heist_secrets.mp4",
-        "size_mb": 20.7,
-        "desc": "Uncover how a daring crew emptied a vault in minutes and walked away free. Subscribe for more heist analyses.",
-        "hashtags": [
-          "#shorts",
-          "#fyp",
-          "#truecrime",
-          "#Lufthansa",
-          "#heist",
-          "#unsolved",
-          "#history"
         ],
         "created": "2026-09-16"
       }
@@ -335,7 +336,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-10-02"
+        "created": "2026-10-03"
       },
       {
         "title": "Riddle 039 Pages552",
