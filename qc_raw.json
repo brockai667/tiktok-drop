@@ -1,5 +1,15 @@
 [
  {
+  "dur": 40,
+  "b_avg": 109,
+  "b_min": 39,
+  "s_avg": 1104,
+  "s_min": 123,
+  "title": "Case-Ss-Baychimo",
+  "repo": "coldcasedaily667",
+  "file": "case-ss-baychimo.mp4"
+ },
+ {
   "dur": 39,
   "b_avg": 110,
   "b_min": 50,
@@ -68,16 +78,6 @@
   "title": "The-Dyatlov-Pass-Incident",
   "repo": "coldcasedaily667",
   "file": "the-dyatlov-pass-incident.mp4"
- },
- {
-  "dur": 18,
-  "b_avg": 21,
-  "b_min": 6,
-  "s_avg": 123,
-  "s_min": 19,
-  "title": "Nicole Brown Simpson Murder",
-  "repo": "coldcasedaily667",
-  "file": "nicole_brown_simpson_murder.mp4"
  },
  {
   "dur": 22,
