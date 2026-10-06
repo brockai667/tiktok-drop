@@ -1,5 +1,15 @@
 [
  {
+  "dur": 43,
+  "b_avg": 115,
+  "b_min": 50,
+  "s_avg": 1352,
+  "s_min": 92,
+  "title": "Case-Franklin-Expedition",
+  "repo": "coldcasedaily667",
+  "file": "case-franklin-expedition.mp4"
+ },
+ {
   "dur": 40,
   "b_avg": 109,
   "b_min": 39,
@@ -68,16 +78,6 @@
   "title": "Case-Dyatlov-Pass",
   "repo": "coldcasedaily667",
   "file": "case-dyatlov-pass.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 202,
-  "b_min": 195,
-  "s_avg": 537,
-  "s_min": 423,
-  "title": "The-Dyatlov-Pass-Incident",
-  "repo": "coldcasedaily667",
-  "file": "the-dyatlov-pass-incident.mp4"
  },
  {
   "dur": 22,
