@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-Tunguska-Event",
+        "file": "case-tunguska-event.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-tunguska-event.mp4",
+        "size_mb": 24.9,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-07"
+      },
+      {
         "title": "Case-Franklin-Expedition",
         "file": "case-franklin-expedition.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-franklin-expedition.mp4",
@@ -138,24 +156,6 @@
           "#casefiles"
         ],
         "created": "2026-09-30"
-      },
-      {
-        "title": "Case-Dyatlov-Pass",
-        "file": "case-dyatlov-pass.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-dyatlov-pass.mp4",
-        "size_mb": 23.5,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-09-29"
       }
     ]
   },
@@ -338,7 +338,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-10-05"
+        "created": "2026-10-06"
       },
       {
         "title": "Riddle 039 Pages552",

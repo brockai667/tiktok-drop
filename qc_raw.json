@@ -1,6 +1,16 @@
 [
  {
   "dur": 43,
+  "b_avg": 122,
+  "b_min": 88,
+  "s_avg": 1168,
+  "s_min": 129,
+  "title": "Case-Tunguska-Event",
+  "repo": "coldcasedaily667",
+  "file": "case-tunguska-event.mp4"
+ },
+ {
+  "dur": 43,
   "b_avg": 115,
   "b_min": 50,
   "s_avg": 1352,
@@ -68,16 +78,6 @@
   "title": "Case-Mary-Celeste",
   "repo": "coldcasedaily667",
   "file": "case-mary-celeste.mp4"
- },
- {
-  "dur": 45,
-  "b_avg": 127,
-  "b_min": 104,
-  "s_avg": 1294,
-  "s_min": 336,
-  "title": "Case-Dyatlov-Pass",
-  "repo": "coldcasedaily667",
-  "file": "case-dyatlov-pass.mp4"
  },
  {
   "dur": 22,
