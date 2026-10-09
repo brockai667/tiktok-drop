@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-Shiptons-Yeti-Footprint",
+        "file": "case-shiptons-yeti-footprint.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-shiptons-yeti-footprint.mp4",
+        "size_mb": 21.8,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-09"
+      },
+      {
         "title": "Case-Hessdalen-Lights",
         "file": "case-hessdalen-lights.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-hessdalen-lights.mp4",
@@ -138,24 +156,6 @@
           "#casefiles"
         ],
         "created": "2026-10-02"
-      },
-      {
-        "title": "Case-Wow-Signal",
-        "file": "case-wow-signal.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-wow-signal.mp4",
-        "size_mb": 23.9,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-10-01"
       }
     ]
   },

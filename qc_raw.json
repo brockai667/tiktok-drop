@@ -1,5 +1,15 @@
 [
  {
+  "dur": 38,
+  "b_avg": 131,
+  "b_min": 102,
+  "s_avg": 1387,
+  "s_min": 59,
+  "title": "Case-Shiptons-Yeti-Footprint",
+  "repo": "coldcasedaily667",
+  "file": "case-shiptons-yeti-footprint.mp4"
+ },
+ {
   "dur": 40,
   "b_avg": 123,
   "b_min": 95,
@@ -68,16 +78,6 @@
   "title": "Case-Flannan-Isles",
   "repo": "coldcasedaily667",
   "file": "case-flannan-isles.mp4"
- },
- {
-  "dur": 45,
-  "b_avg": 112,
-  "b_min": 38,
-  "s_avg": 1398,
-  "s_min": 116,
-  "title": "Case-Wow-Signal",
-  "repo": "coldcasedaily667",
-  "file": "case-wow-signal.mp4"
  },
  {
   "dur": 22,
