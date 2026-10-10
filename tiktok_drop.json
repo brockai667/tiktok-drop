@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-Phoenix-Lights",
+        "file": "case-phoenix-lights.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-phoenix-lights.mp4",
+        "size_mb": 21.3,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-10"
+      },
+      {
         "title": "Case-Shiptons-Yeti-Footprint",
         "file": "case-shiptons-yeti-footprint.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-shiptons-yeti-footprint.mp4",
@@ -138,24 +156,6 @@
           "#casefiles"
         ],
         "created": "2026-10-03"
-      },
-      {
-        "title": "Case-Flannan-Isles",
-        "file": "case-flannan-isles.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-flannan-isles.mp4",
-        "size_mb": 22.8,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-10-02"
       }
     ]
   },
@@ -338,7 +338,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-10-08"
+        "created": "2026-10-10"
       },
       {
         "title": "Riddle 039 Pages552",

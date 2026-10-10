@@ -1,5 +1,15 @@
 [
  {
+  "dur": 40,
+  "b_avg": 113,
+  "b_min": 34,
+  "s_avg": 1149,
+  "s_min": 77,
+  "title": "Case-Phoenix-Lights",
+  "repo": "coldcasedaily667",
+  "file": "case-phoenix-lights.mp4"
+ },
+ {
   "dur": 38,
   "b_avg": 131,
   "b_min": 102,
@@ -68,16 +78,6 @@
   "title": "Case-Flight-19",
   "repo": "coldcasedaily667",
   "file": "case-flight-19.mp4"
- },
- {
-  "dur": 40,
-  "b_avg": 138,
-  "b_min": 121,
-  "s_avg": 1357,
-  "s_min": 80,
-  "title": "Case-Flannan-Isles",
-  "repo": "coldcasedaily667",
-  "file": "case-flannan-isles.mp4"
  },
  {
   "dur": 22,
