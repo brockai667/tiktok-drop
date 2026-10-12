@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-Rendlesham-Forest",
+        "file": "case-rendlesham-forest.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-rendlesham-forest.mp4",
+        "size_mb": 21.1,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-12"
+      },
+      {
         "title": "Case-Kentucky-Meat-Shower",
         "file": "case-kentucky-meat-shower.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-kentucky-meat-shower.mp4",
@@ -138,24 +156,6 @@
           "#casefiles"
         ],
         "created": "2026-10-05"
-      },
-      {
-        "title": "Case-Amelia-Earhart",
-        "file": "case-amelia-earhart.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-amelia-earhart.mp4",
-        "size_mb": 21.3,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-10-04"
       }
     ]
   },
