@@ -1,5 +1,15 @@
 [
  {
+  "dur": 46,
+  "b_avg": 130,
+  "b_min": 123,
+  "s_avg": 1404,
+  "s_min": 638,
+  "title": "Case-The-Bermuda-Triangle-Disappeara",
+  "repo": "coldcasedaily667",
+  "file": "case-the-bermuda-triangle-disappearances.mp4"
+ },
+ {
   "dur": 43,
   "b_avg": 127,
   "b_min": 122,
@@ -68,16 +78,6 @@
   "title": "Case-Tunguska-Event",
   "repo": "coldcasedaily667",
   "file": "case-tunguska-event.mp4"
- },
- {
-  "dur": 43,
-  "b_avg": 115,
-  "b_min": 50,
-  "s_avg": 1352,
-  "s_min": 92,
-  "title": "Case-Franklin-Expedition",
-  "repo": "coldcasedaily667",
-  "file": "case-franklin-expedition.mp4"
  },
  {
   "dur": 22,
