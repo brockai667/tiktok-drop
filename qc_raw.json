@@ -1,5 +1,15 @@
 [
  {
+  "dur": 45,
+  "b_avg": 133,
+  "b_min": 124,
+  "s_avg": 1484,
+  "s_min": 599,
+  "title": "Case-The-Flannan-Isles-Lighthouse-My",
+  "repo": "coldcasedaily667",
+  "file": "case-the-flannan-isles-lighthouse-mystery.mp4"
+ },
+ {
   "dur": 46,
   "b_avg": 130,
   "b_min": 123,
@@ -68,16 +78,6 @@
   "title": "Case-Hessdalen-Lights",
   "repo": "coldcasedaily667",
   "file": "case-hessdalen-lights.mp4"
- },
- {
-  "dur": 43,
-  "b_avg": 122,
-  "b_min": 88,
-  "s_avg": 1168,
-  "s_min": 129,
-  "title": "Case-Tunguska-Event",
-  "repo": "coldcasedaily667",
-  "file": "case-tunguska-event.mp4"
  },
  {
   "dur": 22,

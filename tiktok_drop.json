@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-The-Flannan-Isles-Lighthouse-Mystery",
+        "file": "case-the-flannan-isles-lighthouse-mystery.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-flannan-isles-lighthouse-mystery.mp4",
+        "size_mb": 22.5,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-15"
+      },
+      {
         "title": "Case-The-Bermuda-Triangle-Disappearances",
         "file": "case-the-bermuda-triangle-disappearances.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-bermuda-triangle-disappearances.mp4",
@@ -138,24 +156,6 @@
           "#casefiles"
         ],
         "created": "2026-10-08"
-      },
-      {
-        "title": "Case-Tunguska-Event",
-        "file": "case-tunguska-event.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-tunguska-event.mp4",
-        "size_mb": 24.9,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-10-07"
       }
     ]
   },
@@ -338,7 +338,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-10-14"
+        "created": "2026-10-15"
       },
       {
         "title": "Riddle 039 Pages552",
