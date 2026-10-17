@@ -1,5 +1,15 @@
 [
  {
+  "dur": 43,
+  "b_avg": 121,
+  "b_min": 102,
+  "s_avg": 1196,
+  "s_min": 321,
+  "title": "Case-The-Sodder-Children-Fire",
+  "repo": "coldcasedaily667",
+  "file": "case-the-sodder-children-fire.mp4"
+ },
+ {
   "dur": 45,
   "b_avg": 133,
   "b_min": 124,
@@ -68,16 +78,6 @@
   "title": "Case-Shiptons-Yeti-Footprint",
   "repo": "coldcasedaily667",
   "file": "case-shiptons-yeti-footprint.mp4"
- },
- {
-  "dur": 40,
-  "b_avg": 123,
-  "b_min": 95,
-  "s_avg": 1402,
-  "s_min": 270,
-  "title": "Case-Hessdalen-Lights",
-  "repo": "coldcasedaily667",
-  "file": "case-hessdalen-lights.mp4"
  },
  {
   "dur": 22,

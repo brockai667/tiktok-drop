@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-The-Sodder-Children-Fire",
+        "file": "case-the-sodder-children-fire.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-sodder-children-fire.mp4",
+        "size_mb": 21.3,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-16"
+      },
+      {
         "title": "Case-The-Flannan-Isles-Lighthouse-Mystery",
         "file": "case-the-flannan-isles-lighthouse-mystery.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-flannan-isles-lighthouse-mystery.mp4",
@@ -138,24 +156,6 @@
           "#casefiles"
         ],
         "created": "2026-10-09"
-      },
-      {
-        "title": "Case-Hessdalen-Lights",
-        "file": "case-hessdalen-lights.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-hessdalen-lights.mp4",
-        "size_mb": 23.4,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-10-08"
       }
     ]
   },
@@ -338,7 +338,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-10-15"
+        "created": "2026-10-16"
       },
       {
         "title": "Riddle 039 Pages552",
