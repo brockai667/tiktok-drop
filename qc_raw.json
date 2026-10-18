@@ -1,5 +1,15 @@
 [
  {
+  "dur": 46,
+  "b_avg": 126,
+  "b_min": 122,
+  "s_avg": 1662,
+  "s_min": 586,
+  "title": "Case-Amelia-Earhart-S-Final-Flight",
+  "repo": "coldcasedaily667",
+  "file": "case-amelia-earhart-s-final-flight.mp4"
+ },
+ {
   "dur": 43,
   "b_avg": 121,
   "b_min": 102,
@@ -68,16 +78,6 @@
   "title": "Case-Phoenix-Lights",
   "repo": "coldcasedaily667",
   "file": "case-phoenix-lights.mp4"
- },
- {
-  "dur": 38,
-  "b_avg": 131,
-  "b_min": 102,
-  "s_avg": 1387,
-  "s_min": 59,
-  "title": "Case-Shiptons-Yeti-Footprint",
-  "repo": "coldcasedaily667",
-  "file": "case-shiptons-yeti-footprint.mp4"
  },
  {
   "dur": 22,
