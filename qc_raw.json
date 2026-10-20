@@ -1,6 +1,26 @@
 [
  {
   "dur": 46,
+  "b_avg": 131,
+  "b_min": 124,
+  "s_avg": 1417,
+  "s_min": 624,
+  "title": "Case-The-Carroll-A-Deering-Mystery",
+  "repo": "coldcasedaily667",
+  "file": "case-the-carroll-a-deering-mystery.mp4"
+ },
+ {
+  "dur": 38,
+  "b_avg": 129,
+  "b_min": 123,
+  "s_avg": 1398,
+  "s_min": 587,
+  "title": "Case-The-Baghdad-Battery-Mystery",
+  "repo": "coldcasedaily667",
+  "file": "case-the-baghdad-battery-mystery.mp4"
+ },
+ {
+  "dur": 46,
   "b_avg": 126,
   "b_min": 122,
   "s_avg": 1662,
@@ -58,26 +78,6 @@
   "title": "Case-Rendlesham-Forest",
   "repo": "coldcasedaily667",
   "file": "case-rendlesham-forest.mp4"
- },
- {
-  "dur": 40,
-  "b_avg": 108,
-  "b_min": 27,
-  "s_avg": 1426,
-  "s_min": 67,
-  "title": "Case-Kentucky-Meat-Shower",
-  "repo": "coldcasedaily667",
-  "file": "case-kentucky-meat-shower.mp4"
- },
- {
-  "dur": 40,
-  "b_avg": 113,
-  "b_min": 34,
-  "s_avg": 1149,
-  "s_min": 77,
-  "title": "Case-Phoenix-Lights",
-  "repo": "coldcasedaily667",
-  "file": "case-phoenix-lights.mp4"
  },
  {
   "dur": 22,
