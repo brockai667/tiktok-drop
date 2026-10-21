@@ -1,5 +1,15 @@
 [
  {
+  "dur": 44,
+  "b_avg": 113,
+  "b_min": 38,
+  "s_avg": 1240,
+  "s_min": 153,
+  "title": "Case-The-Kaspar-Hauser-Mystery",
+  "repo": "coldcasedaily667",
+  "file": "case-the-kaspar-hauser-mystery.mp4"
+ },
+ {
   "dur": 46,
   "b_avg": 131,
   "b_min": 124,
@@ -68,16 +78,6 @@
   "title": "Case-Voynich-Manuscript",
   "repo": "coldcasedaily667",
   "file": "case-voynich-manuscript.mp4"
- },
- {
-  "dur": 39,
-  "b_avg": 106,
-  "b_min": 34,
-  "s_avg": 1390,
-  "s_min": 121,
-  "title": "Case-Rendlesham-Forest",
-  "repo": "coldcasedaily667",
-  "file": "case-rendlesham-forest.mp4"
  },
  {
   "dur": 22,

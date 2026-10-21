@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-The-Kaspar-Hauser-Mystery",
+        "file": "case-the-kaspar-hauser-mystery.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-kaspar-hauser-mystery.mp4",
+        "size_mb": 20.8,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-21"
+      },
+      {
         "title": "Case-The-Carroll-A-Deering-Mystery",
         "file": "case-the-carroll-a-deering-mystery.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-carroll-a-deering-mystery.mp4",
@@ -138,24 +156,6 @@
           "#casefiles"
         ],
         "created": "2026-10-14"
-      },
-      {
-        "title": "Case-Rendlesham-Forest",
-        "file": "case-rendlesham-forest.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-rendlesham-forest.mp4",
-        "size_mb": 21.1,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-10-12"
       }
     ]
   },
@@ -338,7 +338,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-10-19"
+        "created": "2026-10-20"
       },
       {
         "title": "Riddle 039 Pages552",
