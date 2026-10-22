@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-The-Dendera-Light-Relief",
+        "file": "case-the-dendera-light-relief.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-dendera-light-relief.mp4",
+        "size_mb": 14.9,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-22"
+      },
+      {
         "title": "Case-The-Kaspar-Hauser-Mystery",
         "file": "case-the-kaspar-hauser-mystery.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-kaspar-hauser-mystery.mp4",
@@ -138,24 +156,6 @@
           "#casefiles"
         ],
         "created": "2026-10-15"
-      },
-      {
-        "title": "Case-Voynich-Manuscript",
-        "file": "case-voynich-manuscript.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-voynich-manuscript.mp4",
-        "size_mb": 22.8,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-10-14"
       }
     ]
   },
@@ -338,7 +338,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-10-20"
+        "created": "2026-10-21"
       },
       {
         "title": "Riddle 039 Pages552",

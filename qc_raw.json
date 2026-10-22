@@ -1,5 +1,15 @@
 [
  {
+  "dur": 28,
+  "b_avg": 125,
+  "b_min": 122,
+  "s_avg": 1754,
+  "s_min": 522,
+  "title": "Case-The-Dendera-Light-Relief",
+  "repo": "coldcasedaily667",
+  "file": "case-the-dendera-light-relief.mp4"
+ },
+ {
   "dur": 44,
   "b_avg": 113,
   "b_min": 38,
@@ -68,16 +78,6 @@
   "title": "Case-The-Bermuda-Triangle-Disappeara",
   "repo": "coldcasedaily667",
   "file": "case-the-bermuda-triangle-disappearances.mp4"
- },
- {
-  "dur": 43,
-  "b_avg": 127,
-  "b_min": 122,
-  "s_avg": 1742,
-  "s_min": 582,
-  "title": "Case-Voynich-Manuscript",
-  "repo": "coldcasedaily667",
-  "file": "case-voynich-manuscript.mp4"
  },
  {
   "dur": 22,
