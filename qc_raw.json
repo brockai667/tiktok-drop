@@ -1,5 +1,15 @@
 [
  {
+  "dur": 31,
+  "b_avg": 127,
+  "b_min": 122,
+  "s_avg": 1670,
+  "s_min": 566,
+  "title": "Case-The-Min-Min-Light-Phenomenon",
+  "repo": "coldcasedaily667",
+  "file": "case-the-min-min-light-phenomenon.mp4"
+ },
+ {
   "dur": 28,
   "b_avg": 125,
   "b_min": 122,
@@ -68,16 +78,6 @@
   "title": "Case-The-Flannan-Isles-Lighthouse-My",
   "repo": "coldcasedaily667",
   "file": "case-the-flannan-isles-lighthouse-mystery.mp4"
- },
- {
-  "dur": 46,
-  "b_avg": 130,
-  "b_min": 123,
-  "s_avg": 1404,
-  "s_min": 638,
-  "title": "Case-The-Bermuda-Triangle-Disappeara",
-  "repo": "coldcasedaily667",
-  "file": "case-the-bermuda-triangle-disappearances.mp4"
  },
  {
   "dur": 22,
