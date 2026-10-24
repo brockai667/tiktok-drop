@@ -1,5 +1,15 @@
 [
  {
+  "dur": 34,
+  "b_avg": 135,
+  "b_min": 125,
+  "s_avg": 1642,
+  "s_min": 626,
+  "title": "Case-The-Somerton-Man-Mystery",
+  "repo": "coldcasedaily667",
+  "file": "case-the-somerton-man-mystery.mp4"
+ },
+ {
   "dur": 31,
   "b_avg": 127,
   "b_min": 122,
@@ -68,16 +78,6 @@
   "title": "Case-The-Sodder-Children-Fire",
   "repo": "coldcasedaily667",
   "file": "case-the-sodder-children-fire.mp4"
- },
- {
-  "dur": 45,
-  "b_avg": 133,
-  "b_min": 124,
-  "s_avg": 1484,
-  "s_min": 599,
-  "title": "Case-The-Flannan-Isles-Lighthouse-My",
-  "repo": "coldcasedaily667",
-  "file": "case-the-flannan-isles-lighthouse-mystery.mp4"
  },
  {
   "dur": 22,
