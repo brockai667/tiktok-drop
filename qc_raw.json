@@ -1,5 +1,15 @@
 [
  {
+  "dur": 30,
+  "b_avg": 120,
+  "b_min": 105,
+  "s_avg": 1500,
+  "s_min": 254,
+  "title": "Case-The-Mexican-Zone-Of-Silence",
+  "repo": "coldcasedaily667",
+  "file": "case-the-mexican-zone-of-silence.mp4"
+ },
+ {
   "dur": 26,
   "b_avg": 133,
   "b_min": 123,
@@ -68,16 +78,6 @@
   "title": "Case-The-Baghdad-Battery-Mystery",
   "repo": "coldcasedaily667",
   "file": "case-the-baghdad-battery-mystery.mp4"
- },
- {
-  "dur": 46,
-  "b_avg": 126,
-  "b_min": 122,
-  "s_avg": 1662,
-  "s_min": 586,
-  "title": "Case-Amelia-Earhart-S-Final-Flight",
-  "repo": "coldcasedaily667",
-  "file": "case-amelia-earhart-s-final-flight.mp4"
  },
  {
   "dur": 22,

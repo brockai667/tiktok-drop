@@ -14,6 +14,24 @@
     ],
     "videos": [
       {
+        "title": "Case-The-Mexican-Zone-Of-Silence",
+        "file": "case-the-mexican-zone-of-silence.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-mexican-zone-of-silence.mp4",
+        "size_mb": 18.2,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-25"
+      },
+      {
         "title": "Case-The-Patterson-Gimlin-Bigfoot-Film",
         "file": "case-the-patterson-gimlin-bigfoot-film.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-patterson-gimlin-bigfoot-film.mp4",
@@ -138,24 +156,6 @@
           "#casefiles"
         ],
         "created": "2026-10-19"
-      },
-      {
-        "title": "Case-Amelia-Earhart-S-Final-Flight",
-        "file": "case-amelia-earhart-s-final-flight.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-amelia-earhart-s-final-flight.mp4",
-        "size_mb": 22.9,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-10-17"
       }
     ]
   },
@@ -338,7 +338,7 @@
           "#brainheist",
           "#quiz"
         ],
-        "created": "2026-10-24"
+        "created": "2026-10-25"
       },
       {
         "title": "Riddle 039 Pages552",
