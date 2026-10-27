@@ -238,5 +238,85 @@
   "title": "Riddle 033 Ants100",
   "repo": "MotivationFactory",
   "file": "riddle_033_ants100.mp4"
+ },
+ {
+  "dur": 26,
+  "b_avg": 190,
+  "b_min": 165,
+  "s_avg": 197,
+  "s_min": 162,
+  "title": "Paper-Puzzle-Marathon-Effects",
+  "repo": "FacelessFactory",
+  "file": "paper-puzzle-marathon-effects.mp4"
+ },
+ {
+  "dur": 26,
+  "b_avg": 169,
+  "b_min": 164,
+  "s_avg": 170,
+  "s_min": 134,
+  "title": "Paper-Constant-White-Noise-Effects",
+  "repo": "FacelessFactory",
+  "file": "paper-constant-white-noise-effects.mp4"
+ },
+ {
+  "dur": 28,
+  "b_avg": 191,
+  "b_min": 173,
+  "s_avg": 209,
+  "s_min": 115,
+  "title": "Paper-One-Day-At-Altitude",
+  "repo": "FacelessFactory",
+  "file": "paper-one-day-at-altitude.mp4"
+ },
+ {
+  "dur": 29,
+  "b_avg": 168,
+  "b_min": 157,
+  "s_avg": 269,
+  "s_min": 222,
+  "title": "Paper-Perfect-Posture-While-Typing",
+  "repo": "FacelessFactory",
+  "file": "paper-perfect-posture-while-typing.mp4"
+ },
+ {
+  "dur": 32,
+  "b_avg": 180,
+  "b_min": 171,
+  "s_avg": 166,
+  "s_min": 115,
+  "title": "Paper-Mimic-A-Hummingbird-S-Wing-Bea",
+  "repo": "FacelessFactory",
+  "file": "paper-mimic-a-hummingbird-s-wing-beat.mp4"
+ },
+ {
+  "dur": 29,
+  "b_avg": 164,
+  "b_min": 161,
+  "s_avg": 237,
+  "s_min": 106,
+  "title": "Paper-Swap-Soda-For-Tea-Body-Changes",
+  "repo": "FacelessFactory",
+  "file": "paper-swap-soda-for-tea-body-changes.mp4"
+ },
+ {
+  "dur": 30,
+  "b_avg": 178,
+  "b_min": 165,
+  "s_avg": 206,
+  "s_min": 154,
+  "title": "Paper-Calm-In-Chaos-Meditation-Count",
+  "repo": "FacelessFactory",
+  "file": "paper-calm-in-chaos-meditation-countdown.mp4"
+ },
+ {
+  "dur": 28,
+  "b_avg": 175,
+  "b_min": 172,
+  "s_avg": 140,
+  "s_min": 85,
+  "title": "Paper-Climbing-A-Tall-Tree",
+  "repo": "FacelessFactory",
+  "file": "paper-climbing-a-tall-tree.mp4"
  }
 ]
