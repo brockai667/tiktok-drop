@@ -4,7 +4,7 @@ Re-runnable: ked pribudnu nove videa, len znova spusti."""
 import html, json, re
 
 DATA = json.load(open("tiktok_drop.json", encoding="utf-8"))
-ACCENT = {"coldcasedaily667": "#ff4d5e", "UnexplainedDaily": "#a988ff", "MotivationFactory": "#ffb03a"}
+ACCENT = {"FacelessFactory": "#35d3e0", "coldcasedaily667": "#ff4d5e", "UnexplainedDaily": "#a988ff", "MotivationFactory": "#ffb03a"}
 SONGS = {
     "coldcasedaily667": [("E85", "Don Toliver", "temný trap ambient"),
                           ("Raindance", "Dave ft. Tems", "napäté, atmosferické")],
@@ -13,7 +13,7 @@ SONGS = {
     "MotivationFactory": [("I Just Might", "Bruno Mars", "uplift, lifestyle"),
                            ("PRESSURE!", "Nyck Caution", "tvrdá motivácia")],
 }
-HANDLES = {"coldcasedaily667": "coldcasedaily667", "UnexplainedDaily": "unexplained_daily",
+HANDLES = {"coldcasedaily667": "coldcase_daily", "FacelessFactory": "min.dblowndaily", "UnexplainedDaily": "unexplained_daily",
            "MotivationFactory": "disciplinedaily667"}
 # QC „ocko" — nacitaj metriky (jas/ostrost/dlzka) a urob verdikt
 try:

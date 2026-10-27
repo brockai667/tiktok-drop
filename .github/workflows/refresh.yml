@@ -7,6 +7,8 @@ name: Refresh TikTok Drop
 on:
   schedule:
     - cron: "20 5 * * *"   # ~07:20 Bratislava
+    - cron: "20 12 * * *"  # po MindBlown (papier ~10-11 UTC) a BrainHeist (~09 UTC) - appka TikTok Nahravac
+    - cron: "20 17 * * *"  # poistka, GitHub cron mesk. aj hodiny
   workflow_dispatch: {}
 
 permissions:
