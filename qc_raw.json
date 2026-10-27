@@ -1,6 +1,16 @@
 [
  {
   "dur": 30,
+  "b_avg": 131,
+  "b_min": 125,
+  "s_avg": 1801,
+  "s_min": 587,
+  "title": "Case-The-Green-Children-Of-Woolpit",
+  "repo": "coldcasedaily667",
+  "file": "case-the-green-children-of-woolpit.mp4"
+ },
+ {
+  "dur": 30,
   "b_avg": 120,
   "b_min": 105,
   "s_avg": 1500,
@@ -68,16 +78,6 @@
   "title": "Case-The-Carroll-A-Deering-Mystery",
   "repo": "coldcasedaily667",
   "file": "case-the-carroll-a-deering-mystery.mp4"
- },
- {
-  "dur": 38,
-  "b_avg": 129,
-  "b_min": 123,
-  "s_avg": 1398,
-  "s_min": 587,
-  "title": "Case-The-Baghdad-Battery-Mystery",
-  "repo": "coldcasedaily667",
-  "file": "case-the-baghdad-battery-mystery.mp4"
  },
  {
   "dur": 22,
