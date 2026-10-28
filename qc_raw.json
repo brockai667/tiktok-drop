@@ -240,6 +240,16 @@
   "file": "riddle_033_ants100.mp4"
  },
  {
+  "dur": 28,
+  "b_avg": 162,
+  "b_min": 151,
+  "s_avg": 245,
+  "s_min": 187,
+  "title": "Paper-Night-On-Everest",
+  "repo": "FacelessFactory",
+  "file": "paper-night-on-everest.mp4"
+ },
+ {
   "dur": 26,
   "b_avg": 190,
   "b_min": 165,
@@ -308,15 +318,5 @@
   "title": "Paper-Calm-In-Chaos-Meditation-Count",
   "repo": "FacelessFactory",
   "file": "paper-calm-in-chaos-meditation-countdown.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 175,
-  "b_min": 172,
-  "s_avg": 140,
-  "s_min": 85,
-  "title": "Paper-Climbing-A-Tall-Tree",
-  "repo": "FacelessFactory",
-  "file": "paper-climbing-a-tall-tree.mp4"
  }
 ]
