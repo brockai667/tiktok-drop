@@ -1,5 +1,15 @@
 [
  {
+  "dur": 33,
+  "b_avg": 135,
+  "b_min": 127,
+  "s_avg": 1823,
+  "s_min": 619,
+  "title": "Case-The-Kensington-Runestone",
+  "repo": "coldcasedaily667",
+  "file": "case-the-kensington-runestone.mp4"
+ },
+ {
   "dur": 30,
   "b_avg": 131,
   "b_min": 125,
@@ -68,16 +78,6 @@
   "title": "Case-The-Kaspar-Hauser-Mystery",
   "repo": "coldcasedaily667",
   "file": "case-the-kaspar-hauser-mystery.mp4"
- },
- {
-  "dur": 46,
-  "b_avg": 131,
-  "b_min": 124,
-  "s_avg": 1417,
-  "s_min": 624,
-  "title": "Case-The-Carroll-A-Deering-Mystery",
-  "repo": "coldcasedaily667",
-  "file": "case-the-carroll-a-deering-mystery.mp4"
  },
  {
   "dur": 22,
