@@ -1,5 +1,15 @@
 [
  {
+  "dur": 40,
+  "b_avg": 128,
+  "b_min": 107,
+  "s_avg": 1628,
+  "s_min": 228,
+  "title": "Case-The-Coso-Artifact",
+  "repo": "coldcasedaily667",
+  "file": "case-the-coso-artifact.mp4"
+ },
+ {
   "dur": 33,
   "b_avg": 135,
   "b_min": 127,
@@ -68,16 +78,6 @@
   "title": "Case-The-Dendera-Light-Relief",
   "repo": "coldcasedaily667",
   "file": "case-the-dendera-light-relief.mp4"
- },
- {
-  "dur": 44,
-  "b_avg": 113,
-  "b_min": 38,
-  "s_avg": 1240,
-  "s_min": 153,
-  "title": "Case-The-Kaspar-Hauser-Mystery",
-  "repo": "coldcasedaily667",
-  "file": "case-the-kaspar-hauser-mystery.mp4"
  },
  {
   "dur": 22,
