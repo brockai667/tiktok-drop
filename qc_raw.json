@@ -240,6 +240,16 @@
   "file": "riddle_033_ants100.mp4"
  },
  {
+  "dur": 25,
+  "b_avg": 190,
+  "b_min": 186,
+  "s_avg": 217,
+  "s_min": 131,
+  "title": "Paper-Space-Without-A-Suit",
+  "repo": "FacelessFactory",
+  "file": "paper-space-without-a-suit.mp4"
+ },
+ {
   "dur": 27,
   "b_avg": 162,
   "b_min": 112,
@@ -308,15 +318,5 @@
   "title": "Paper-Mimic-A-Hummingbird-S-Wing-Bea",
   "repo": "FacelessFactory",
   "file": "paper-mimic-a-hummingbird-s-wing-beat.mp4"
- },
- {
-  "dur": 29,
-  "b_avg": 164,
-  "b_min": 161,
-  "s_avg": 237,
-  "s_min": 106,
-  "title": "Paper-Swap-Soda-For-Tea-Body-Changes",
-  "repo": "FacelessFactory",
-  "file": "paper-swap-soda-for-tea-body-changes.mp4"
  }
 ]
