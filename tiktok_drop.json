@@ -14,6 +14,26 @@
     ],
     "videos": [
       {
+        "title": "Case-The-Rongorongo-Script-Enigma",
+        "file": "case-the-rongorongo-script-enigma.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-rongorongo-script-enigma.mp4",
+        "size_mb": 17.4,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-30",
+        "created_at": "2026-10-30T01:21:31Z",
+        "caption": "Explore the mystery of Easter Island's undeciphered rongorongo tablets. Case file: The Rongorongo Script Enigma.\n#unexplained #mystery #history #archaeology #RongorongoMystery\nMusic: \"Cut and Run\" - Kevin MacLeod (incompetech.com), licensed under CC BY 4.0"
+      },
+      {
         "title": "Case-The-Coso-Artifact",
         "file": "case-the-coso-artifact.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-coso-artifact.mp4",
@@ -151,26 +171,6 @@
         ],
         "created": "2026-10-23",
         "created_at": "2026-10-23T00:26:15Z",
-        "caption": ""
-      },
-      {
-        "title": "Case-The-Dendera-Light-Relief",
-        "file": "case-the-dendera-light-relief.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-dendera-light-relief.mp4",
-        "size_mb": 14.9,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-10-22",
-        "created_at": "2026-10-22T00:17:35Z",
         "caption": ""
       }
     ]

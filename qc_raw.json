@@ -1,5 +1,15 @@
 [
  {
+  "dur": 33,
+  "b_avg": 130,
+  "b_min": 126,
+  "s_avg": 1916,
+  "s_min": 633,
+  "title": "Case-The-Rongorongo-Script-Enigma",
+  "repo": "coldcasedaily667",
+  "file": "case-the-rongorongo-script-enigma.mp4"
+ },
+ {
   "dur": 40,
   "b_avg": 128,
   "b_min": 107,
@@ -68,16 +78,6 @@
   "title": "Case-The-Min-Min-Light-Phenomenon",
   "repo": "coldcasedaily667",
   "file": "case-the-min-min-light-phenomenon.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 125,
-  "b_min": 122,
-  "s_avg": 1754,
-  "s_min": 522,
-  "title": "Case-The-Dendera-Light-Relief",
-  "repo": "coldcasedaily667",
-  "file": "case-the-dendera-light-relief.mp4"
  },
  {
   "dur": 22,
