@@ -1,5 +1,15 @@
 [
  {
+  "dur": 34,
+  "b_avg": 127,
+  "b_min": 125,
+  "s_avg": 1547,
+  "s_min": 593,
+  "title": "Case-The-Phaistos-Disc-Mystery",
+  "repo": "coldcasedaily667",
+  "file": "case-the-phaistos-disc-mystery.mp4"
+ },
+ {
   "dur": 33,
   "b_avg": 130,
   "b_min": 126,
@@ -68,16 +78,6 @@
   "title": "Case-The-Somerton-Man-Mystery",
   "repo": "coldcasedaily667",
   "file": "case-the-somerton-man-mystery.mp4"
- },
- {
-  "dur": 31,
-  "b_avg": 127,
-  "b_min": 122,
-  "s_avg": 1670,
-  "s_min": 566,
-  "title": "Case-The-Min-Min-Light-Phenomenon",
-  "repo": "coldcasedaily667",
-  "file": "case-the-min-min-light-phenomenon.mp4"
  },
  {
   "dur": 22,

@@ -14,6 +14,26 @@
     ],
     "videos": [
       {
+        "title": "Case-The-Phaistos-Disc-Mystery",
+        "file": "case-the-phaistos-disc-mystery.mp4",
+        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-phaistos-disc-mystery.mp4",
+        "size_mb": 16.8,
+        "desc": "",
+        "hashtags": [
+          "#truecrime",
+          "#coldcase",
+          "#unsolved",
+          "#mystery",
+          "#crimetok",
+          "#shorts",
+          "#fyp",
+          "#casefiles"
+        ],
+        "created": "2026-10-31",
+        "created_at": "2026-10-31T01:05:01Z",
+        "caption": "A brief look at the enigmatic Phaistos Disc and its unsolved secrets. Case file: The Phaistos Disc Mystery.\n#unexplained #mystery #archaeology #PhaistosDisc\nMusic: \"Cut and Run\" - Kevin MacLeod (incompetech.com), licensed under CC BY 4.0"
+      },
+      {
         "title": "Case-The-Rongorongo-Script-Enigma",
         "file": "case-the-rongorongo-script-enigma.mp4",
         "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-rongorongo-script-enigma.mp4",
@@ -151,26 +171,6 @@
         ],
         "created": "2026-10-23",
         "created_at": "2026-10-23T23:59:53Z",
-        "caption": ""
-      },
-      {
-        "title": "Case-The-Min-Min-Light-Phenomenon",
-        "file": "case-the-min-min-light-phenomenon.mp4",
-        "url": "https://github.com/brockai667/coldcasedaily667/releases/download/media/case-the-min-min-light-phenomenon.mp4",
-        "size_mb": 15.3,
-        "desc": "",
-        "hashtags": [
-          "#truecrime",
-          "#coldcase",
-          "#unsolved",
-          "#mystery",
-          "#crimetok",
-          "#shorts",
-          "#fyp",
-          "#casefiles"
-        ],
-        "created": "2026-10-23",
-        "created_at": "2026-10-23T00:26:15Z",
         "caption": ""
       }
     ]
