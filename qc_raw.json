@@ -240,6 +240,16 @@
   "file": "riddle_033_ants100.mp4"
  },
  {
+  "dur": 27,
+  "b_avg": 138,
+  "b_min": 107,
+  "s_avg": 158,
+  "s_min": 138,
+  "title": "Paper-Six-Months-Asleep",
+  "repo": "FacelessFactory",
+  "file": "paper-six-months-asleep.mp4"
+ },
+ {
   "dur": 25,
   "b_avg": 190,
   "b_min": 186,
@@ -308,15 +318,5 @@
   "title": "Paper-Perfect-Posture-While-Typing",
   "repo": "FacelessFactory",
   "file": "paper-perfect-posture-while-typing.mp4"
- },
- {
-  "dur": 32,
-  "b_avg": 180,
-  "b_min": 171,
-  "s_avg": 166,
-  "s_min": 115,
-  "title": "Paper-Mimic-A-Hummingbird-S-Wing-Bea",
-  "repo": "FacelessFactory",
-  "file": "paper-mimic-a-hummingbird-s-wing-beat.mp4"
  }
 ]
