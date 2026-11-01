@@ -1,5 +1,15 @@
 [
  {
+  "dur": 33,
+  "b_avg": 133,
+  "b_min": 125,
+  "s_avg": 1929,
+  "s_min": 567,
+  "title": "Case-The-Battle-Of-Los-Angeles",
+  "repo": "coldcasedaily667",
+  "file": "case-the-battle-of-los-angeles.mp4"
+ },
+ {
   "dur": 34,
   "b_avg": 127,
   "b_min": 125,
@@ -68,16 +78,6 @@
   "title": "Case-The-Patterson-Gimlin-Bigfoot-Fi",
   "repo": "coldcasedaily667",
   "file": "case-the-patterson-gimlin-bigfoot-film.mp4"
- },
- {
-  "dur": 34,
-  "b_avg": 135,
-  "b_min": 125,
-  "s_avg": 1642,
-  "s_min": 626,
-  "title": "Case-The-Somerton-Man-Mystery",
-  "repo": "coldcasedaily667",
-  "file": "case-the-somerton-man-mystery.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 101,
+  "b_avg": 91,
+  "b_min": 53,
+  "s_avg": 202,
+  "s_min": 103,
+  "title": "Riddle 042 Chess204",
+  "repo": "MotivationFactory",
+  "file": "riddle_042_chess204.mp4"
+ },
+ {
   "dur": 102,
   "b_avg": 66,
   "b_min": 42,
@@ -230,14 +240,14 @@
   "file": "riddle_035_hotel30.mp4"
  },
  {
-  "dur": 100,
-  "b_avg": 131,
-  "b_min": 115,
-  "s_avg": 184,
-  "s_min": 156,
-  "title": "Riddle 034 Chameleons",
-  "repo": "MotivationFactory",
-  "file": "riddle_034_chameleons.mp4"
+  "dur": 28,
+  "b_avg": 139,
+  "b_min": 108,
+  "s_avg": 228,
+  "s_min": 167,
+  "title": "Paper-Eleven-Days-Awake",
+  "repo": "FacelessFactory",
+  "file": "paper-eleven-days-awake.mp4"
  },
  {
   "dur": 27,
@@ -308,15 +318,5 @@
   "title": "Paper-One-Day-At-Altitude",
   "repo": "FacelessFactory",
   "file": "paper-one-day-at-altitude.mp4"
- },
- {
-  "dur": 29,
-  "b_avg": 168,
-  "b_min": 157,
-  "s_avg": 269,
-  "s_min": 222,
-  "title": "Paper-Perfect-Posture-While-Typing",
-  "repo": "FacelessFactory",
-  "file": "paper-perfect-posture-while-typing.mp4"
  }
 ]
