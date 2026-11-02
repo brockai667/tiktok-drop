@@ -1,5 +1,15 @@
 [
  {
+  "dur": 26,
+  "b_avg": 124,
+  "b_min": 118,
+  "s_avg": 1663,
+  "s_min": 643,
+  "title": "Case-The-Hoia-Baciu-Forest-Mystery",
+  "repo": "coldcasedaily667",
+  "file": "case-the-hoia-baciu-forest-mystery.mp4"
+ },
+ {
   "dur": 33,
   "b_avg": 133,
   "b_min": 125,
@@ -68,16 +78,6 @@
   "title": "Case-The-Mexican-Zone-Of-Silence",
   "repo": "coldcasedaily667",
   "file": "case-the-mexican-zone-of-silence.mp4"
- },
- {
-  "dur": 26,
-  "b_avg": 133,
-  "b_min": 123,
-  "s_avg": 1260,
-  "s_min": 59,
-  "title": "Case-The-Patterson-Gimlin-Bigfoot-Fi",
-  "repo": "coldcasedaily667",
-  "file": "case-the-patterson-gimlin-bigfoot-film.mp4"
  },
  {
   "dur": 22,
@@ -240,6 +240,16 @@
   "file": "riddle_035_hotel30.mp4"
  },
  {
+  "dur": 26,
+  "b_avg": 175,
+  "b_min": 158,
+  "s_avg": 143,
+  "s_min": 66,
+  "title": "Paper-Dead-Sea-Float",
+  "repo": "FacelessFactory",
+  "file": "paper-dead-sea-float.mp4"
+ },
+ {
   "dur": 28,
   "b_avg": 139,
   "b_min": 108,
@@ -308,15 +318,5 @@
   "title": "Paper-Constant-White-Noise-Effects",
   "repo": "FacelessFactory",
   "file": "paper-constant-white-noise-effects.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 191,
-  "b_min": 173,
-  "s_avg": 209,
-  "s_min": 115,
-  "title": "Paper-One-Day-At-Altitude",
-  "repo": "FacelessFactory",
-  "file": "paper-one-day-at-altitude.mp4"
  }
 ]
