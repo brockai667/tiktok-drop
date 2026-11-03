@@ -1,5 +1,15 @@
 [
  {
+  "dur": 31,
+  "b_avg": 133,
+  "b_min": 126,
+  "s_avg": 1884,
+  "s_min": 542,
+  "title": "Case-The-1911-Mona-Lisa-Theft",
+  "repo": "coldcasedaily667",
+  "file": "case-the-1911-mona-lisa-theft.mp4"
+ },
+ {
   "dur": 26,
   "b_avg": 124,
   "b_min": 118,
@@ -68,16 +78,6 @@
   "title": "Case-The-Green-Children-Of-Woolpit",
   "repo": "coldcasedaily667",
   "file": "case-the-green-children-of-woolpit.mp4"
- },
- {
-  "dur": 30,
-  "b_avg": 120,
-  "b_min": 105,
-  "s_avg": 1500,
-  "s_min": 254,
-  "title": "Case-The-Mexican-Zone-Of-Silence",
-  "repo": "coldcasedaily667",
-  "file": "case-the-mexican-zone-of-silence.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 103,
+  "b_avg": 88,
+  "b_min": 44,
+  "s_avg": 452,
+  "s_min": 220,
+  "title": "Riddle 043 Gauss",
+  "repo": "MotivationFactory",
+  "file": "riddle_043_gauss.mp4"
+ },
+ {
   "dur": 101,
   "b_avg": 91,
   "b_min": 53,
@@ -230,14 +240,14 @@
   "file": "riddle_036_monty.mp4"
  },
  {
-  "dur": 106,
-  "b_avg": 118,
-  "b_min": 100,
-  "s_avg": 242,
-  "s_min": 123,
-  "title": "Riddle 035 Hotel30",
-  "repo": "MotivationFactory",
-  "file": "riddle_035_hotel30.mp4"
+  "dur": 22,
+  "b_avg": 174,
+  "b_min": 161,
+  "s_avg": 229,
+  "s_min": 163,
+  "title": "Paper-Through-Thin-Ice",
+  "repo": "FacelessFactory",
+  "file": "paper-through-thin-ice.mp4"
  },
  {
   "dur": 26,
@@ -308,15 +318,5 @@
   "title": "Paper-Puzzle-Marathon-Effects",
   "repo": "FacelessFactory",
   "file": "paper-puzzle-marathon-effects.mp4"
- },
- {
-  "dur": 26,
-  "b_avg": 169,
-  "b_min": 164,
-  "s_avg": 170,
-  "s_min": 134,
-  "title": "Paper-Constant-White-Noise-Effects",
-  "repo": "FacelessFactory",
-  "file": "paper-constant-white-noise-effects.mp4"
  }
 ]
