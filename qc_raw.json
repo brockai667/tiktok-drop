@@ -1,6 +1,16 @@
 [
  {
   "dur": 31,
+  "b_avg": 96,
+  "b_min": 35,
+  "s_avg": 1075,
+  "s_min": 67,
+  "title": "Case-The-2010-Paris-Modern-Art-Heist",
+  "repo": "coldcasedaily667",
+  "file": "case-the-2010-paris-modern-art-heist.mp4"
+ },
+ {
+  "dur": 31,
   "b_avg": 133,
   "b_min": 126,
   "s_avg": 1884,
@@ -68,16 +78,6 @@
   "title": "Case-The-Kensington-Runestone",
   "repo": "coldcasedaily667",
   "file": "case-the-kensington-runestone.mp4"
- },
- {
-  "dur": 30,
-  "b_avg": 131,
-  "b_min": 125,
-  "s_avg": 1801,
-  "s_min": 587,
-  "title": "Case-The-Green-Children-Of-Woolpit",
-  "repo": "coldcasedaily667",
-  "file": "case-the-green-children-of-woolpit.mp4"
  },
  {
   "dur": 22,
