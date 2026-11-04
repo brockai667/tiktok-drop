@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 108,
+  "b_avg": 127,
+  "b_min": 103,
+  "s_avg": 158,
+  "s_min": 74,
+  "title": "Riddle 044 Guess20",
+  "repo": "MotivationFactory",
+  "file": "riddle_044_guess20.mp4"
+ },
+ {
   "dur": 103,
   "b_avg": 88,
   "b_min": 44,
@@ -230,14 +240,14 @@
   "file": "riddle_037_miss3.mp4"
  },
  {
-  "dur": 87,
-  "b_avg": 155,
-  "b_min": 87,
-  "s_avg": 144,
-  "s_min": 89,
-  "title": "Riddle 036 Monty",
-  "repo": "MotivationFactory",
-  "file": "riddle_036_monty.mp4"
+  "dur": 25,
+  "b_avg": 181,
+  "b_min": 162,
+  "s_avg": 168,
+  "s_min": 110,
+  "title": "Paper-Drinking-Only-Seawater",
+  "repo": "FacelessFactory",
+  "file": "paper-drinking-only-seawater.mp4"
  },
  {
   "dur": 22,
@@ -308,15 +318,5 @@
   "title": "Paper-Night-On-Everest",
   "repo": "FacelessFactory",
   "file": "paper-night-on-everest.mp4"
- },
- {
-  "dur": 26,
-  "b_avg": 190,
-  "b_min": 165,
-  "s_avg": 197,
-  "s_min": 162,
-  "title": "Paper-Puzzle-Marathon-Effects",
-  "repo": "FacelessFactory",
-  "file": "paper-puzzle-marathon-effects.mp4"
  }
 ]

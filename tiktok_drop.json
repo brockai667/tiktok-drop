@@ -357,6 +357,24 @@
     ],
     "videos": [
       {
+        "title": "Riddle 044 Guess20",
+        "file": "riddle_044_guess20.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_044_guess20.mp4",
+        "size_mb": 28.2,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-11-04",
+        "created_at": "2026-11-04T00:16:37Z",
+        "caption": "A stone golem picks a number from 1 to 1,000,000. Name it and $1,000,000 in diamonds is yours - but you only get 20 yes/no questions. Can you always find it? #riddle #brainteaser #puzzle #logicpuzzle #brainheist #quiz\nMusic: Sneaky Snitch - Kevin MacLeod (incompetech.com), CC BY 4.0"
+      },
+      {
         "title": "Riddle 043 Gauss",
         "file": "riddle_043_gauss.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_043_gauss.mp4",
@@ -481,24 +499,6 @@
         "created": "2026-09-17",
         "created_at": "2026-09-17T15:31:03Z",
         "caption": "$500,000 in gold if you get 3 monks and 3 hungry ogres across the river. The boat holds two, and ogres can never outnumber the monks. Can you do it without losing a single monk? #riddle #brainteaser #puzzle #logicpuzzle #brainheist #quiz\nMusic: Sneaky Snitch - Kevin MacLeod (incompetech.com), CC BY 4.0"
-      },
-      {
-        "title": "Riddle 036 Monty",
-        "file": "riddle_036_monty.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_036_monty.mp4",
-        "size_mb": 27.0,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-09-15",
-        "created_at": "2026-09-15T18:03:56Z",
-        "caption": "A $1,000,000 cube of cash is yours if you win the car. You pick a door, the host opens another one with a goat and offers a switch. Two doors left... is it really fifty-fifty? #riddle #brainteaser #puzzle #logicpuzzle #brainheist #quiz\nMusic: Sneaky Snitch - Kevin MacLeod (incompetech.com), CC BY 4.0"
       }
     ]
   },
@@ -514,6 +514,24 @@
       "#viral"
     ],
     "videos": [
+      {
+        "title": "Paper-Drinking-Only-Seawater",
+        "file": "paper-drinking-only-seawater.mp4",
+        "url": "https://github.com/brockai667/FacelessFactory/releases/download/media/paper-drinking-only-seawater.mp4",
+        "size_mb": 12.0,
+        "desc": "",
+        "hashtags": [
+          "#mindblowndaily",
+          "#facts",
+          "#didyouknow",
+          "#shorts",
+          "#fyp",
+          "#viral"
+        ],
+        "created": "2026-11-04",
+        "created_at": "2026-11-04T00:56:23Z",
+        "caption": "Water everywhere, but not a drop to drink: why seawater makes you thirstier.\n#ocean #survival #body #science\nNot medical advice.\nMusic: \"Cut and Run\" - Kevin MacLeod (incompetech.com), licensed under CC BY 4.0"
+      },
       {
         "title": "Paper-Through-Thin-Ice",
         "file": "paper-through-thin-ice.mp4",
@@ -639,24 +657,6 @@
         "created": "2026-10-28",
         "created_at": "2026-10-28T11:28:41Z",
         "caption": "Thin air, a racing heart and a swelling brain: one night on the roof of the world.\n#everest #altitude #deathzone #science\nNot medical advice.\nMusic: \"Cut and Run\" - Kevin MacLeod (incompetech.com), licensed under CC BY 4.0"
-      },
-      {
-        "title": "Paper-Puzzle-Marathon-Effects",
-        "file": "paper-puzzle-marathon-effects.mp4",
-        "url": "https://github.com/brockai667/FacelessFactory/releases/download/media/paper-puzzle-marathon-effects.mp4",
-        "size_mb": 11.9,
-        "desc": "",
-        "hashtags": [
-          "#mindblowndaily",
-          "#facts",
-          "#didyouknow",
-          "#shorts",
-          "#fyp",
-          "#viral"
-        ],
-        "created": "2026-10-26",
-        "created_at": "2026-10-26T11:17:37Z",
-        "caption": ""
       }
     ]
   }
