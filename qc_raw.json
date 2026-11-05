@@ -1,5 +1,15 @@
 [
  {
+  "dur": 30,
+  "b_avg": 129,
+  "b_min": 123,
+  "s_avg": 1706,
+  "s_min": 541,
+  "title": "Case-The-1792-French-Crown-Jewels-Th",
+  "repo": "coldcasedaily667",
+  "file": "case-the-1792-french-crown-jewels-theft.mp4"
+ },
+ {
   "dur": 31,
   "b_avg": 96,
   "b_min": 35,
@@ -68,16 +78,6 @@
   "title": "Case-The-Coso-Artifact",
   "repo": "coldcasedaily667",
   "file": "case-the-coso-artifact.mp4"
- },
- {
-  "dur": 33,
-  "b_avg": 135,
-  "b_min": 127,
-  "s_avg": 1823,
-  "s_min": 619,
-  "title": "Case-The-Kensington-Runestone",
-  "repo": "coldcasedaily667",
-  "file": "case-the-kensington-runestone.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 95,
+  "b_avg": 128,
+  "b_min": 54,
+  "s_avg": 287,
+  "s_min": 85,
+  "title": "Riddle 045 Cards31",
+  "repo": "MotivationFactory",
+  "file": "riddle_045_cards31.mp4"
+ },
+ {
   "dur": 108,
   "b_avg": 127,
   "b_min": 103,
@@ -230,14 +240,14 @@
   "file": "riddle_038_jugs844.mp4"
  },
  {
-  "dur": 95,
-  "b_avg": 152,
-  "b_min": 149,
-  "s_avg": 162,
-  "s_min": 110,
-  "title": "Riddle 037 Miss3",
-  "repo": "MotivationFactory",
-  "file": "riddle_037_miss3.mp4"
+  "dur": 27,
+  "b_avg": 165,
+  "b_min": 152,
+  "s_avg": 167,
+  "s_min": 101,
+  "title": "Paper-Jump-From-Space",
+  "repo": "FacelessFactory",
+  "file": "paper-jump-from-space.mp4"
  },
  {
   "dur": 25,
@@ -308,15 +318,5 @@
   "title": "Paper-Struck-By-Lightning",
   "repo": "FacelessFactory",
   "file": "paper-struck-by-lightning.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 162,
-  "b_min": 151,
-  "s_avg": 245,
-  "s_min": 187,
-  "title": "Paper-Night-On-Everest",
-  "repo": "FacelessFactory",
-  "file": "paper-night-on-everest.mp4"
  }
 ]
