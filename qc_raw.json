@@ -1,5 +1,15 @@
 [
  {
+  "dur": 35,
+  "b_avg": 127,
+  "b_min": 126,
+  "s_avg": 1682,
+  "s_min": 607,
+  "title": "Case-The-Amber-Room",
+  "repo": "coldcasedaily667",
+  "file": "case-the-amber-room.mp4"
+ },
+ {
   "dur": 30,
   "b_avg": 129,
   "b_min": 123,
@@ -68,16 +78,6 @@
   "title": "Case-The-Rongorongo-Script-Enigma",
   "repo": "coldcasedaily667",
   "file": "case-the-rongorongo-script-enigma.mp4"
- },
- {
-  "dur": 40,
-  "b_avg": 128,
-  "b_min": 107,
-  "s_avg": 1628,
-  "s_min": 228,
-  "title": "Case-The-Coso-Artifact",
-  "repo": "coldcasedaily667",
-  "file": "case-the-coso-artifact.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 96,
+  "b_avg": 115,
+  "b_min": 94,
+  "s_avg": 244,
+  "s_min": 103,
+  "title": "Riddle 046 Domino62",
+  "repo": "MotivationFactory",
+  "file": "riddle_046_domino62.mp4"
+ },
+ {
   "dur": 95,
   "b_avg": 128,
   "b_min": 54,
@@ -230,14 +240,14 @@
   "file": "riddle_039_pages552.mp4"
  },
  {
-  "dur": 96,
-  "b_avg": 83,
-  "b_min": 81,
-  "s_avg": 179,
-  "s_min": 96,
-  "title": "Riddle 038 Jugs844",
-  "repo": "MotivationFactory",
-  "file": "riddle_038_jugs844.mp4"
+  "dur": 25,
+  "b_avg": 180,
+  "b_min": 172,
+  "s_avg": 185,
+  "s_min": 118,
+  "title": "Paper-Stuck-In-Quicksand",
+  "repo": "FacelessFactory",
+  "file": "paper-stuck-in-quicksand.mp4"
  },
  {
   "dur": 27,
@@ -308,15 +318,5 @@
   "title": "Paper-Space-Without-A-Suit",
   "repo": "FacelessFactory",
   "file": "paper-space-without-a-suit.mp4"
- },
- {
-  "dur": 27,
-  "b_avg": 162,
-  "b_min": 112,
-  "s_avg": 161,
-  "s_min": 114,
-  "title": "Paper-Struck-By-Lightning",
-  "repo": "FacelessFactory",
-  "file": "paper-struck-by-lightning.mp4"
  }
 ]
