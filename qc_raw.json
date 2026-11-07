@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 108,
+  "b_avg": 157,
+  "b_min": 155,
+  "s_avg": 180,
+  "s_min": 65,
+  "title": "Riddle 047 Dots9",
+  "repo": "MotivationFactory",
+  "file": "riddle_047_dots9.mp4"
+ },
+ {
   "dur": 96,
   "b_avg": 115,
   "b_min": 94,
@@ -230,14 +240,14 @@
   "file": "riddle_040_boat_kids.mp4"
  },
  {
-  "dur": 103,
-  "b_avg": 145,
-  "b_min": 133,
-  "s_avg": 209,
-  "s_min": 77,
-  "title": "Riddle 039 Pages552",
-  "repo": "MotivationFactory",
-  "file": "riddle_039_pages552.mp4"
+  "dur": 32,
+  "b_avg": 169,
+  "b_min": 165,
+  "s_avg": 255,
+  "s_min": 115,
+  "title": "Paper-Sleeping-In-A-Hammock",
+  "repo": "FacelessFactory",
+  "file": "paper-sleeping-in-a-hammock.mp4"
  },
  {
   "dur": 25,
@@ -308,15 +318,5 @@
   "title": "Paper-Six-Months-Asleep",
   "repo": "FacelessFactory",
   "file": "paper-six-months-asleep.mp4"
- },
- {
-  "dur": 25,
-  "b_avg": 190,
-  "b_min": 186,
-  "s_avg": 217,
-  "s_min": 131,
-  "title": "Paper-Space-Without-A-Suit",
-  "repo": "FacelessFactory",
-  "file": "paper-space-without-a-suit.mp4"
  }
 ]

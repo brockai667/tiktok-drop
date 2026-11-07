@@ -357,6 +357,24 @@
     ],
     "videos": [
       {
+        "title": "Riddle 047 Dots9",
+        "file": "riddle_047_dots9.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_047_dots9.mp4",
+        "size_mb": 29.4,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-11-06",
+        "created_at": "2026-11-06T23:52:15Z",
+        "caption": "Nine glowing dots frozen in a wall of ice. Cross every one of them with four straight lines in a single stroke, and a $700,000 gold bar is yours. Can you spot the trick before the ice closes? #riddle #brainteaser #puzzle #logicpuzzle #brainheist #quiz\nMusic: Sneaky Snitch - Kevin MacLeod (incompetech.com), CC BY 4.0"
+      },
+      {
         "title": "Riddle 046 Domino62",
         "file": "riddle_046_domino62.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_046_domino62.mp4",
@@ -481,24 +499,6 @@
         "created": "2026-10-31",
         "created_at": "2026-10-31T16:00:32Z",
         "caption": "A chest of diamonds worth a million is yours if all four of them reach the far bank. Each soldier weighs 100 kg, each kid weighs 50, the boat holds exactly 100 kg, and nobody can swim. Nine crossings do it. Can you see how? #riddle #brainteaser #puzzle #logicpuzzle #brainheist #quiz\nMusic: Sneaky Snitch - Kevin MacLeod (incompetech.com), CC BY 4.0"
-      },
-      {
-        "title": "Riddle 039 Pages552",
-        "file": "riddle_039_pages552.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_039_pages552.mp4",
-        "size_mb": 31.1,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-09-22",
-        "created_at": "2026-09-22T15:21:41Z",
-        "caption": "A $5,000,000 vault opens only if you name the page count of a sealed book. All you know: numbering its pages used exactly 552 digits. Can you solve it before the reveal? #riddle #brainteaser #puzzle #logicpuzzle #brainheist #quiz\nMusic: Sneaky Snitch - Kevin MacLeod (incompetech.com), CC BY 4.0"
       }
     ]
   },
@@ -514,6 +514,24 @@
       "#viral"
     ],
     "videos": [
+      {
+        "title": "Paper-Sleeping-In-A-Hammock",
+        "file": "paper-sleeping-in-a-hammock.mp4",
+        "url": "https://github.com/brockai667/FacelessFactory/releases/download/media/paper-sleeping-in-a-hammock.mp4",
+        "size_mb": 12.6,
+        "desc": "",
+        "hashtags": [
+          "#mindblowndaily",
+          "#facts",
+          "#didyouknow",
+          "#shorts",
+          "#fyp",
+          "#viral"
+        ],
+        "created": "2026-11-07",
+        "created_at": "2026-11-07T00:27:24Z",
+        "caption": "A quick visual tour of the body’s changes when you spend a night in a hammock.\n#HammockSleep #ScienceFacts #SleepHealth\nNot medical advice.\nMusic: \"Inspired\" - Kevin MacLeod (incompetech.com), licensed under CC BY 4.0"
+      },
       {
         "title": "Paper-Stuck-In-Quicksand",
         "file": "paper-stuck-in-quicksand.mp4",
@@ -639,24 +657,6 @@
         "created": "2026-10-31",
         "created_at": "2026-10-31T11:01:20Z",
         "caption": "No food, no water, no bathroom for months: how a bear's body survives the winter.\n#bears #hibernation #animals #science\nNot medical advice.\nMusic: \"Inspired\" - Kevin MacLeod (incompetech.com), licensed under CC BY 4.0"
-      },
-      {
-        "title": "Paper-Space-Without-A-Suit",
-        "file": "paper-space-without-a-suit.mp4",
-        "url": "https://github.com/brockai667/FacelessFactory/releases/download/media/paper-space-without-a-suit.mp4",
-        "size_mb": 11.7,
-        "desc": "",
-        "hashtags": [
-          "#mindblowndaily",
-          "#facts",
-          "#didyouknow",
-          "#shorts",
-          "#fyp",
-          "#viral"
-        ],
-        "created": "2026-10-30",
-        "created_at": "2026-10-30T11:30:39Z",
-        "caption": "No explosion, no frozen statue: the real first seconds in space without a suit.\n#space #nasa #astronaut #science\nNot medical advice.\nMusic: \"Cut and Run\" - Kevin MacLeod (incompetech.com), licensed under CC BY 4.0"
       }
     ]
   }
