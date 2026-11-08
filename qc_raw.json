@@ -30,13 +30,21 @@
   "file": "case-the-amber-room.mp4"
  },
  {
-  "err": "HTTP Error 502: Bad Gateway",
+  "dur": 30,
+  "b_avg": 129,
+  "b_min": 123,
+  "s_avg": 1706,
+  "s_min": 541,
   "title": "Case-The-1792-French-Crown-Jewels-Th",
   "repo": "coldcasedaily667",
   "file": "case-the-1792-french-crown-jewels-theft.mp4"
  },
  {
-  "err": "HTTP Error 502: Bad Gateway",
+  "dur": 31,
+  "b_avg": 96,
+  "b_min": 35,
+  "s_avg": 1075,
+  "s_min": 67,
   "title": "Case-The-2010-Paris-Modern-Art-Heist",
   "repo": "coldcasedaily667",
   "file": "case-the-2010-paris-modern-art-heist.mp4"
@@ -92,13 +100,21 @@
   "file": "baghdad_battery_controversy.mp4"
  },
  {
-  "err": "HTTP Error 502: Bad Gateway",
+  "dur": 21,
+  "b_avg": 43,
+  "b_min": 17,
+  "s_avg": 145,
+  "s_min": 81,
   "title": "Antikythera Missing Gear Mystery",
   "repo": "UnexplainedDaily",
   "file": "antikythera_missing_gear_mystery.mp4"
  },
  {
-  "err": "HTTP Error 502: Bad Gateway",
+  "dur": 21,
+  "b_avg": 63,
+  "b_min": 59,
+  "s_avg": 386,
+  "s_min": 160,
   "title": "The Vanishing Lake of Sarychev",
   "repo": "UnexplainedDaily",
   "file": "the_vanishing_lake_of_sarychev.mp4"
@@ -274,7 +290,11 @@
   "file": "paper-drinking-only-seawater.mp4"
  },
  {
-  "err": "HTTP Error 504: Gateway Timeout",
+  "dur": 22,
+  "b_avg": 174,
+  "b_min": 161,
+  "s_avg": 229,
+  "s_min": 163,
   "title": "Paper-Through-Thin-Ice",
   "repo": "FacelessFactory",
   "file": "paper-through-thin-ice.mp4"
@@ -290,7 +310,11 @@
   "file": "paper-dead-sea-float.mp4"
  },
  {
-  "err": "HTTP Error 502: Bad Gateway",
+  "dur": 28,
+  "b_avg": 139,
+  "b_min": 108,
+  "s_avg": 228,
+  "s_min": 167,
   "title": "Paper-Eleven-Days-Awake",
   "repo": "FacelessFactory",
   "file": "paper-eleven-days-awake.mp4"
