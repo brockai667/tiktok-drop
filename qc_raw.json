@@ -1,5 +1,15 @@
 [
  {
+  "dur": 31,
+  "b_avg": 130,
+  "b_min": 125,
+  "s_avg": 1901,
+  "s_min": 623,
+  "title": "Case-The-Kryptos-Sculpture-Cipher",
+  "repo": "coldcasedaily667",
+  "file": "case-the-kryptos-sculpture-cipher.mp4"
+ },
+ {
   "dur": 26,
   "b_avg": 122,
   "b_min": 102,
@@ -68,16 +78,6 @@
   "title": "Case-The-Battle-Of-Los-Angeles",
   "repo": "coldcasedaily667",
   "file": "case-the-battle-of-los-angeles.mp4"
- },
- {
-  "dur": 34,
-  "b_avg": 127,
-  "b_min": 125,
-  "s_avg": 1547,
-  "s_min": 593,
-  "title": "Case-The-Phaistos-Disc-Mystery",
-  "repo": "coldcasedaily667",
-  "file": "case-the-phaistos-disc-mystery.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 107,
+  "b_avg": 166,
+  "b_min": 161,
+  "s_avg": 206,
+  "s_min": 165,
+  "title": "Riddle 048 Bridges7",
+  "repo": "MotivationFactory",
+  "file": "riddle_048_bridges7.mp4"
+ },
+ {
   "dur": 108,
   "b_avg": 157,
   "b_min": 155,
@@ -230,14 +240,14 @@
   "file": "riddle_041_ages36.mp4"
  },
  {
-  "dur": 104,
-  "b_avg": 123,
-  "b_min": 91,
-  "s_avg": 203,
-  "s_min": 91,
-  "title": "Riddle 040 Boat Kids",
-  "repo": "MotivationFactory",
-  "file": "riddle_040_boat_kids.mp4"
+  "dur": 29,
+  "b_avg": 166,
+  "b_min": 160,
+  "s_avg": 151,
+  "s_min": 131,
+  "title": "Paper-Salad-Lunch-Swap",
+  "repo": "FacelessFactory",
+  "file": "paper-salad-lunch-swap.mp4"
  },
  {
   "dur": 32,
@@ -308,15 +318,5 @@
   "title": "Paper-Eleven-Days-Awake",
   "repo": "FacelessFactory",
   "file": "paper-eleven-days-awake.mp4"
- },
- {
-  "dur": 27,
-  "b_avg": 138,
-  "b_min": 107,
-  "s_avg": 158,
-  "s_min": 138,
-  "title": "Paper-Six-Months-Asleep",
-  "repo": "FacelessFactory",
-  "file": "paper-six-months-asleep.mp4"
  }
 ]
