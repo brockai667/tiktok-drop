@@ -1,5 +1,15 @@
 [
  {
+  "dur": 29,
+  "b_avg": 132,
+  "b_min": 124,
+  "s_avg": 1848,
+  "s_min": 578,
+  "title": "Case-The-Disappearance-Of-Ambrose-Bi",
+  "repo": "coldcasedaily667",
+  "file": "case-the-disappearance-of-ambrose-bierce.mp4"
+ },
+ {
   "dur": 31,
   "b_avg": 130,
   "b_min": 125,
@@ -68,16 +78,6 @@
   "title": "Case-The-Hoia-Baciu-Forest-Mystery",
   "repo": "coldcasedaily667",
   "file": "case-the-hoia-baciu-forest-mystery.mp4"
- },
- {
-  "dur": 33,
-  "b_avg": 133,
-  "b_min": 125,
-  "s_avg": 1929,
-  "s_min": 567,
-  "title": "Case-The-Battle-Of-Los-Angeles",
-  "repo": "coldcasedaily667",
-  "file": "case-the-battle-of-los-angeles.mp4"
  },
  {
   "dur": 22,
