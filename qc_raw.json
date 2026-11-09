@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 105,
+  "b_avg": 140,
+  "b_min": 66,
+  "s_avg": 970,
+  "s_min": 434,
+  "title": "Riddle 049 Monk Path",
+  "repo": "MotivationFactory",
+  "file": "riddle_049_monk_path.mp4"
+ },
+ {
   "dur": 107,
   "b_avg": 166,
   "b_min": 161,
@@ -230,14 +240,14 @@
   "file": "riddle_042_chess204.mp4"
  },
  {
-  "dur": 102,
-  "b_avg": 66,
-  "b_min": 42,
-  "s_avg": 150,
-  "s_min": 92,
-  "title": "Riddle 041 Ages36",
-  "repo": "MotivationFactory",
-  "file": "riddle_041_ages36.mp4"
+  "dur": 28,
+  "b_avg": 150,
+  "b_min": 105,
+  "s_avg": 234,
+  "s_min": 146,
+  "title": "Paper-Nightly-Herbal-Tea-Effects",
+  "repo": "FacelessFactory",
+  "file": "paper-nightly-herbal-tea-effects.mp4"
  },
  {
   "dur": 29,
@@ -308,15 +318,5 @@
   "title": "Paper-Dead-Sea-Float",
   "repo": "FacelessFactory",
   "file": "paper-dead-sea-float.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 139,
-  "b_min": 108,
-  "s_avg": 228,
-  "s_min": 167,
-  "title": "Paper-Eleven-Days-Awake",
-  "repo": "FacelessFactory",
-  "file": "paper-eleven-days-awake.mp4"
  }
 ]
