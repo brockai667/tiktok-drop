@@ -1,5 +1,15 @@
 [
  {
+  "dur": 28,
+  "b_avg": 130,
+  "b_min": 124,
+  "s_avg": 1757,
+  "s_min": 528,
+  "title": "Case-The-Disappearance-Of-Rudolf-Die",
+  "repo": "coldcasedaily667",
+  "file": "case-the-disappearance-of-rudolf-diesel.mp4"
+ },
+ {
   "dur": 29,
   "b_avg": 132,
   "b_min": 124,
@@ -68,16 +78,6 @@
   "title": "Case-The-1911-Mona-Lisa-Theft",
   "repo": "coldcasedaily667",
   "file": "case-the-1911-mona-lisa-theft.mp4"
- },
- {
-  "dur": 26,
-  "b_avg": 124,
-  "b_min": 118,
-  "s_avg": 1663,
-  "s_min": 643,
-  "title": "Case-The-Hoia-Baciu-Forest-Mystery",
-  "repo": "coldcasedaily667",
-  "file": "case-the-hoia-baciu-forest-mystery.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 95,
+  "b_avg": 129,
+  "b_min": 115,
+  "s_avg": 1225,
+  "s_min": 851,
+  "title": "Riddle 050 Overlap22",
+  "repo": "MotivationFactory",
+  "file": "riddle_050_overlap22.mp4"
+ },
+ {
   "dur": 105,
   "b_avg": 140,
   "b_min": 66,
@@ -230,14 +240,14 @@
   "file": "riddle_043_gauss.mp4"
  },
  {
-  "dur": 101,
-  "b_avg": 91,
-  "b_min": 53,
-  "s_avg": 202,
-  "s_min": 103,
-  "title": "Riddle 042 Chess204",
-  "repo": "MotivationFactory",
-  "file": "riddle_042_chess204.mp4"
+  "dur": 34,
+  "b_avg": 190,
+  "b_min": 165,
+  "s_avg": 253,
+  "s_min": 127,
+  "title": "Paper-Cold-Showers-Shock-To-The-Syst",
+  "repo": "FacelessFactory",
+  "file": "paper-cold-showers-shock-to-the-system.mp4"
  },
  {
   "dur": 28,
@@ -308,15 +318,5 @@
   "title": "Paper-Through-Thin-Ice",
   "repo": "FacelessFactory",
   "file": "paper-through-thin-ice.mp4"
- },
- {
-  "dur": 26,
-  "b_avg": 175,
-  "b_min": 158,
-  "s_avg": 143,
-  "s_min": 66,
-  "title": "Paper-Dead-Sea-Float",
-  "repo": "FacelessFactory",
-  "file": "paper-dead-sea-float.mp4"
  }
 ]
