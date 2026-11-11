@@ -1,6 +1,16 @@
 [
  {
   "dur": 28,
+  "b_avg": 127,
+  "b_min": 124,
+  "s_avg": 1803,
+  "s_min": 551,
+  "title": "Case-The-Disappearance-Of-Benjamin-B",
+  "repo": "coldcasedaily667",
+  "file": "case-the-disappearance-of-benjamin-bathurst.mp4"
+ },
+ {
+  "dur": 28,
   "b_avg": 130,
   "b_min": 124,
   "s_avg": 1757,
@@ -68,16 +78,6 @@
   "title": "Case-The-2010-Paris-Modern-Art-Heist",
   "repo": "coldcasedaily667",
   "file": "case-the-2010-paris-modern-art-heist.mp4"
- },
- {
-  "dur": 31,
-  "b_avg": 133,
-  "b_min": 126,
-  "s_avg": 1884,
-  "s_min": 542,
-  "title": "Case-The-1911-Mona-Lisa-Theft",
-  "repo": "coldcasedaily667",
-  "file": "case-the-1911-mona-lisa-theft.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 93,
+  "b_avg": 48,
+  "b_min": 32,
+  "s_avg": 657,
+  "s_min": 446,
+  "title": "Riddle 051 Stack1M",
+  "repo": "MotivationFactory",
+  "file": "riddle_051_stack1m.mp4"
+ },
+ {
   "dur": 95,
   "b_avg": 129,
   "b_min": 115,
@@ -230,14 +240,14 @@
   "file": "riddle_044_guess20.mp4"
  },
  {
-  "dur": 103,
-  "b_avg": 88,
-  "b_min": 44,
-  "s_avg": 452,
-  "s_min": 220,
-  "title": "Riddle 043 Gauss",
-  "repo": "MotivationFactory",
-  "file": "riddle_043_gauss.mp4"
+  "dur": 23,
+  "b_avg": 162,
+  "b_min": 159,
+  "s_avg": 185,
+  "s_min": 155,
+  "title": "Paper-Standing-Desk-Danger",
+  "repo": "FacelessFactory",
+  "file": "paper-standing-desk-danger.mp4"
  },
  {
   "dur": 34,
@@ -308,15 +318,5 @@
   "title": "Paper-Drinking-Only-Seawater",
   "repo": "FacelessFactory",
   "file": "paper-drinking-only-seawater.mp4"
- },
- {
-  "dur": 22,
-  "b_avg": 174,
-  "b_min": 161,
-  "s_avg": 229,
-  "s_min": 163,
-  "title": "Paper-Through-Thin-Ice",
-  "repo": "FacelessFactory",
-  "file": "paper-through-thin-ice.mp4"
  }
 ]
