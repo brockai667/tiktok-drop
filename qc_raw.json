@@ -1,5 +1,15 @@
 [
  {
+  "dur": 30,
+  "b_avg": 127,
+  "b_min": 125,
+  "s_avg": 1818,
+  "s_min": 560,
+  "title": "Case-Theodosia-Burr-Alston-Disappear",
+  "repo": "coldcasedaily667",
+  "file": "case-theodosia-burr-alston-disappearance.mp4"
+ },
+ {
   "dur": 28,
   "b_avg": 127,
   "b_min": 124,
@@ -68,16 +78,6 @@
   "title": "Case-The-1792-French-Crown-Jewels-Th",
   "repo": "coldcasedaily667",
   "file": "case-the-1792-french-crown-jewels-theft.mp4"
- },
- {
-  "dur": 31,
-  "b_avg": 96,
-  "b_min": 35,
-  "s_avg": 1075,
-  "s_min": 67,
-  "title": "Case-The-2010-Paris-Modern-Art-Heist",
-  "repo": "coldcasedaily667",
-  "file": "case-the-2010-paris-modern-art-heist.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 92,
+  "b_avg": 117,
+  "b_min": 24,
+  "s_avg": 627,
+  "s_min": 327,
+  "title": "Riddle 052 Fold42",
+  "repo": "MotivationFactory",
+  "file": "riddle_052_fold42.mp4"
+ },
+ {
   "dur": 93,
   "b_avg": 48,
   "b_min": 32,
@@ -230,14 +240,14 @@
   "file": "riddle_045_cards31.mp4"
  },
  {
-  "dur": 108,
-  "b_avg": 127,
-  "b_min": 103,
-  "s_avg": 158,
-  "s_min": 74,
-  "title": "Riddle 044 Guess20",
-  "repo": "MotivationFactory",
-  "file": "riddle_044_guess20.mp4"
+  "dur": 26,
+  "b_avg": 182,
+  "b_min": 166,
+  "s_avg": 178,
+  "s_min": 106,
+  "title": "Paper-Skipping-Dessert",
+  "repo": "FacelessFactory",
+  "file": "paper-skipping-dessert.mp4"
  },
  {
   "dur": 23,
@@ -308,15 +318,5 @@
   "title": "Paper-Jump-From-Space",
   "repo": "FacelessFactory",
   "file": "paper-jump-from-space.mp4"
- },
- {
-  "dur": 25,
-  "b_avg": 181,
-  "b_min": 162,
-  "s_avg": 168,
-  "s_min": 110,
-  "title": "Paper-Drinking-Only-Seawater",
-  "repo": "FacelessFactory",
-  "file": "paper-drinking-only-seawater.mp4"
  }
 ]
