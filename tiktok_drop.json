@@ -357,6 +357,24 @@
     ],
     "videos": [
       {
+        "title": "Riddle 053 Trains Meet",
+        "file": "riddle_053_trains_meet.mp4",
+        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_053_trains_meet.mp4",
+        "size_mb": 20.7,
+        "desc": "",
+        "hashtags": [
+          "#riddle",
+          "#brainteaser",
+          "#puzzle",
+          "#logicpuzzle",
+          "#brainheist",
+          "#quiz"
+        ],
+        "created": "2026-11-13",
+        "created_at": "2026-11-13T00:46:33Z",
+        "caption": "Two trains race toward each other at 60 and 40. Which one is closer to the red station when they meet? Get it right and a $700,000 gold bar is yours. #riddle #brainteaser #puzzle #logicpuzzle #brainheist #quiz\nMusic: Sneaky Snitch - Kevin MacLeod (incompetech.com), CC BY 4.0"
+      },
+      {
         "title": "Riddle 052 Fold42",
         "file": "riddle_052_fold42.mp4",
         "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_052_fold42.mp4",
@@ -481,24 +499,6 @@
         "created": "2026-11-06",
         "created_at": "2026-11-06T00:36:27Z",
         "caption": "Two corners are cut off a chessboard. Can 31 dominoes cover the 62 squares left? $500,000 in gold says you have one answer. #riddle #brainteaser #puzzle #logicpuzzle #brainheist #quiz\nMusic: Sneaky Snitch - Kevin MacLeod (incompetech.com), CC BY 4.0"
-      },
-      {
-        "title": "Riddle 045 Cards31",
-        "file": "riddle_045_cards31.mp4",
-        "url": "https://github.com/brockai667/MotivationFactory/releases/download/media/riddle_045_cards31.mp4",
-        "size_mb": 30.2,
-        "desc": "",
-        "hashtags": [
-          "#riddle",
-          "#brainteaser",
-          "#puzzle",
-          "#logicpuzzle",
-          "#brainheist",
-          "#quiz"
-        ],
-        "created": "2026-11-05",
-        "created_at": "2026-11-05T00:34:31Z",
-        "caption": "Pick any number from 1 to 31, point at the cards that hold it, and I name it in 3 seconds. Can you crack the trick before the vault slams shut? #riddle #brainteaser #puzzle #logicpuzzle #brainheist #quiz\nMusic: Sneaky Snitch - Kevin MacLeod (incompetech.com), CC BY 4.0"
       }
     ]
   },
