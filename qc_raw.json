@@ -1,6 +1,16 @@
 [
  {
   "dur": 30,
+  "b_avg": 130,
+  "b_min": 126,
+  "s_avg": 1880,
+  "s_min": 573,
+  "title": "Case-The-Piltdown-Man-Hoax",
+  "repo": "coldcasedaily667",
+  "file": "case-the-piltdown-man-hoax.mp4"
+ },
+ {
+  "dur": 30,
   "b_avg": 123,
   "b_min": 105,
   "s_avg": 1500,
@@ -68,16 +78,6 @@
   "title": "Case-The-Lost-Dutchman-S-Gold-Mine",
   "repo": "coldcasedaily667",
   "file": "case-the-lost-dutchman-s-gold-mine.mp4"
- },
- {
-  "dur": 35,
-  "b_avg": 127,
-  "b_min": 126,
-  "s_avg": 1682,
-  "s_min": 607,
-  "title": "Case-The-Amber-Room",
-  "repo": "coldcasedaily667",
-  "file": "case-the-amber-room.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 94,
+  "b_avg": 81,
+  "b_min": 48,
+  "s_avg": 773,
+  "s_min": 478,
+  "title": "Riddle 054 Bread8",
+  "repo": "MotivationFactory",
+  "file": "riddle_054_bread8.mp4"
+ },
+ {
   "dur": 102,
   "b_avg": 63,
   "b_min": 36,
@@ -228,16 +238,6 @@
   "title": "Riddle 047 Dots9",
   "repo": "MotivationFactory",
   "file": "riddle_047_dots9.mp4"
- },
- {
-  "dur": 96,
-  "b_avg": 115,
-  "b_min": 94,
-  "s_avg": 244,
-  "s_min": 103,
-  "title": "Riddle 046 Domino62",
-  "repo": "MotivationFactory",
-  "file": "riddle_046_domino62.mp4"
  },
  {
   "dur": 24,
