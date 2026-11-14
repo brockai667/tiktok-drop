@@ -515,6 +515,24 @@
     ],
     "videos": [
       {
+        "title": "Paper-Buried-By-Avalanche",
+        "file": "paper-buried-by-avalanche.mp4",
+        "url": "https://github.com/brockai667/FacelessFactory/releases/download/media/paper-buried-by-avalanche.mp4",
+        "size_mb": 20.3,
+        "desc": "",
+        "hashtags": [
+          "#mindblowndaily",
+          "#facts",
+          "#didyouknow",
+          "#shorts",
+          "#fyp",
+          "#viral"
+        ],
+        "created": "2026-11-14",
+        "created_at": "2026-11-14T09:26:22Z",
+        "caption": "Buried by an avalanche: the snow sets like concrete. Three things to remember before it does.\n#avalanche #survival #snow #science #mindblown\nNot medical advice.\nMusic: \"Cut and Run\" - Kevin MacLeod (incompetech.com), licensed under CC BY 4.0"
+      },
+      {
         "title": "Paper-Stretching-Saves-Your-Spine",
         "file": "paper-stretching-saves-your-spine.mp4",
         "url": "https://github.com/brockai667/FacelessFactory/releases/download/media/paper-stretching-saves-your-spine.mp4",
@@ -639,24 +657,6 @@
         "created": "2026-11-07",
         "created_at": "2026-11-07T00:27:24Z",
         "caption": "A quick visual tour of the body’s changes when you spend a night in a hammock.\n#HammockSleep #ScienceFacts #SleepHealth\nNot medical advice.\nMusic: \"Inspired\" - Kevin MacLeod (incompetech.com), licensed under CC BY 4.0"
-      },
-      {
-        "title": "Paper-Stuck-In-Quicksand",
-        "file": "paper-stuck-in-quicksand.mp4",
-        "url": "https://github.com/brockai667/FacelessFactory/releases/download/media/paper-stuck-in-quicksand.mp4",
-        "size_mb": 11.7,
-        "desc": "",
-        "hashtags": [
-          "#mindblowndaily",
-          "#facts",
-          "#didyouknow",
-          "#shorts",
-          "#fyp",
-          "#viral"
-        ],
-        "created": "2026-11-06",
-        "created_at": "2026-11-06T01:17:01Z",
-        "caption": "You won't sink like in the movies, but you won't pull free either: the physics of quicksand.\n#quicksand #survival #physics #science\nNot medical advice.\nMusic: \"Hyperfun\" - Kevin MacLeod (incompetech.com), licensed under CC BY 4.0"
       }
     ]
   }

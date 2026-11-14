@@ -240,6 +240,16 @@
   "file": "riddle_047_dots9.mp4"
  },
  {
+  "dur": 38,
+  "b_avg": 170,
+  "b_min": 163,
+  "s_avg": 164,
+  "s_min": 49,
+  "title": "Paper-Buried-By-Avalanche",
+  "repo": "FacelessFactory",
+  "file": "paper-buried-by-avalanche.mp4"
+ },
+ {
   "dur": 24,
   "b_avg": 166,
   "b_min": 162,
@@ -308,15 +318,5 @@
   "title": "Paper-Sleeping-In-A-Hammock",
   "repo": "FacelessFactory",
   "file": "paper-sleeping-in-a-hammock.mp4"
- },
- {
-  "dur": 25,
-  "b_avg": 180,
-  "b_min": 172,
-  "s_avg": 185,
-  "s_min": 118,
-  "title": "Paper-Stuck-In-Quicksand",
-  "repo": "FacelessFactory",
-  "file": "paper-stuck-in-quicksand.mp4"
  }
 ]
