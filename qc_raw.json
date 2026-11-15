@@ -1,5 +1,15 @@
 [
  {
+  "dur": 29,
+  "b_avg": 132,
+  "b_min": 127,
+  "s_avg": 1891,
+  "s_min": 612,
+  "title": "Case-The-Hope-Diamond-Curse",
+  "repo": "coldcasedaily667",
+  "file": "case-the-hope-diamond-curse.mp4"
+ },
+ {
   "dur": 30,
   "b_avg": 130,
   "b_min": 126,
@@ -68,16 +78,6 @@
   "title": "Case-The-Kryptos-Sculpture-Cipher",
   "repo": "coldcasedaily667",
   "file": "case-the-kryptos-sculpture-cipher.mp4"
- },
- {
-  "dur": 26,
-  "b_avg": 122,
-  "b_min": 102,
-  "s_avg": 1195,
-  "s_min": 280,
-  "title": "Case-The-Lost-Dutchman-S-Gold-Mine",
-  "repo": "coldcasedaily667",
-  "file": "case-the-lost-dutchman-s-gold-mine.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 91,
+  "b_avg": 109,
+  "b_min": 68,
+  "s_avg": 806,
+  "s_min": 312,
+  "title": "Riddle 055 Bookworm",
+  "repo": "MotivationFactory",
+  "file": "riddle_055_bookworm.mp4"
+ },
+ {
   "dur": 94,
   "b_avg": 81,
   "b_min": 48,
@@ -230,14 +240,14 @@
   "file": "riddle_048_bridges7.mp4"
  },
  {
-  "dur": 108,
-  "b_avg": 157,
-  "b_min": 155,
-  "s_avg": 180,
-  "s_min": 65,
-  "title": "Riddle 047 Dots9",
-  "repo": "MotivationFactory",
-  "file": "riddle_047_dots9.mp4"
+  "dur": 37,
+  "b_avg": 170,
+  "b_min": 165,
+  "s_avg": 182,
+  "s_min": 128,
+  "title": "Paper-Stranded-In-The-Desert",
+  "repo": "FacelessFactory",
+  "file": "paper-stranded-in-the-desert.mp4"
  },
  {
   "dur": 38,
@@ -308,15 +318,5 @@
   "title": "Paper-Salad-Lunch-Swap",
   "repo": "FacelessFactory",
   "file": "paper-salad-lunch-swap.mp4"
- },
- {
-  "dur": 32,
-  "b_avg": 169,
-  "b_min": 165,
-  "s_avg": 255,
-  "s_min": 115,
-  "title": "Paper-Sleeping-In-A-Hammock",
-  "repo": "FacelessFactory",
-  "file": "paper-sleeping-in-a-hammock.mp4"
  }
 ]
