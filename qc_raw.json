@@ -1,5 +1,15 @@
 [
  {
+  "dur": 27,
+  "b_avg": 128,
+  "b_min": 124,
+  "s_avg": 1676,
+  "s_min": 567,
+  "title": "Case-The-Kalahari-Sky-Fireballs",
+  "repo": "coldcasedaily667",
+  "file": "case-the-kalahari-sky-fireballs.mp4"
+ },
+ {
   "dur": 29,
   "b_avg": 132,
   "b_min": 127,
@@ -68,16 +78,6 @@
   "title": "Case-The-Disappearance-Of-Ambrose-Bi",
   "repo": "coldcasedaily667",
   "file": "case-the-disappearance-of-ambrose-bierce.mp4"
- },
- {
-  "dur": 31,
-  "b_avg": 130,
-  "b_min": 125,
-  "s_avg": 1901,
-  "s_min": 623,
-  "title": "Case-The-Kryptos-Sculpture-Cipher",
-  "repo": "coldcasedaily667",
-  "file": "case-the-kryptos-sculpture-cipher.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 92,
+  "b_avg": 112,
+  "b_min": 51,
+  "s_avg": 733,
+  "s_min": 356,
+  "title": "Riddle 056 Cube27",
+  "repo": "MotivationFactory",
+  "file": "riddle_056_cube27.mp4"
+ },
+ {
   "dur": 91,
   "b_avg": 109,
   "b_min": 68,
@@ -230,14 +240,14 @@
   "file": "riddle_049_monk_path.mp4"
  },
  {
-  "dur": 107,
-  "b_avg": 166,
-  "b_min": 161,
-  "s_avg": 206,
-  "s_min": 165,
-  "title": "Riddle 048 Bridges7",
-  "repo": "MotivationFactory",
-  "file": "riddle_048_bridges7.mp4"
+  "dur": 33,
+  "b_avg": 171,
+  "b_min": 167,
+  "s_avg": 178,
+  "s_min": 80,
+  "title": "Paper-Bitten-By-A-Snake",
+  "repo": "FacelessFactory",
+  "file": "paper-bitten-by-a-snake.mp4"
  },
  {
   "dur": 37,
@@ -308,15 +318,5 @@
   "title": "Paper-Nightly-Herbal-Tea-Effects",
   "repo": "FacelessFactory",
   "file": "paper-nightly-herbal-tea-effects.mp4"
- },
- {
-  "dur": 29,
-  "b_avg": 166,
-  "b_min": 160,
-  "s_avg": 151,
-  "s_min": 131,
-  "title": "Paper-Salad-Lunch-Swap",
-  "repo": "FacelessFactory",
-  "file": "paper-salad-lunch-swap.mp4"
  }
 ]
