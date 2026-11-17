@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 87,
+  "b_avg": 79,
+  "b_min": 74,
+  "s_avg": 301,
+  "s_min": 128,
+  "title": "Riddle 057 Digit101",
+  "repo": "MotivationFactory",
+  "file": "riddle_057_digit101.mp4"
+ },
+ {
   "dur": 92,
   "b_avg": 112,
   "b_min": 51,
@@ -230,14 +240,14 @@
   "file": "riddle_050_overlap22.mp4"
  },
  {
-  "dur": 105,
-  "b_avg": 140,
-  "b_min": 66,
-  "s_avg": 970,
-  "s_min": 434,
-  "title": "Riddle 049 Monk Path",
-  "repo": "MotivationFactory",
-  "file": "riddle_049_monk_path.mp4"
+  "dur": 35,
+  "b_avg": 114,
+  "b_min": 89,
+  "s_avg": 163,
+  "s_min": 80,
+  "title": "Paper-Falling-Elevator",
+  "repo": "FacelessFactory",
+  "file": "paper-falling-elevator.mp4"
  },
  {
   "dur": 33,
@@ -308,15 +318,5 @@
   "title": "Paper-Cold-Showers-Shock-To-The-Syst",
   "repo": "FacelessFactory",
   "file": "paper-cold-showers-shock-to-the-system.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 150,
-  "b_min": 105,
-  "s_avg": 234,
-  "s_min": 146,
-  "title": "Paper-Nightly-Herbal-Tea-Effects",
-  "repo": "FacelessFactory",
-  "file": "paper-nightly-herbal-tea-effects.mp4"
  }
 ]
