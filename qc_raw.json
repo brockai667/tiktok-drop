@@ -1,6 +1,16 @@
 [
  {
   "dur": 27,
+  "b_avg": 132,
+  "b_min": 124,
+  "s_avg": 1632,
+  "s_min": 589,
+  "title": "Case-The-Montserrat-Vanishing-Hikers",
+  "repo": "coldcasedaily667",
+  "file": "case-the-montserrat-vanishing-hikers.mp4"
+ },
+ {
+  "dur": 27,
   "b_avg": 128,
   "b_min": 124,
   "s_avg": 1676,
@@ -68,16 +78,6 @@
   "title": "Case-The-Disappearance-Of-Rudolf-Die",
   "repo": "coldcasedaily667",
   "file": "case-the-disappearance-of-rudolf-diesel.mp4"
- },
- {
-  "dur": 29,
-  "b_avg": 132,
-  "b_min": 124,
-  "s_avg": 1848,
-  "s_min": 578,
-  "title": "Case-The-Disappearance-Of-Ambrose-Bi",
-  "repo": "coldcasedaily667",
-  "file": "case-the-disappearance-of-ambrose-bierce.mp4"
  },
  {
   "dur": 22,
