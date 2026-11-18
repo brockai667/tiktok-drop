@@ -1,5 +1,15 @@
 [
  {
+  "dur": 26,
+  "b_avg": 126,
+  "b_min": 122,
+  "s_avg": 1575,
+  "s_min": 487,
+  "title": "Case-The-Gobi-Desert-Lights-Mystery",
+  "repo": "coldcasedaily667",
+  "file": "case-the-gobi-desert-lights-mystery.mp4"
+ },
+ {
   "dur": 27,
   "b_avg": 132,
   "b_min": 124,
@@ -68,16 +78,6 @@
   "title": "Case-The-Disappearance-Of-Benjamin-B",
   "repo": "coldcasedaily667",
   "file": "case-the-disappearance-of-benjamin-bathurst.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 130,
-  "b_min": 124,
-  "s_avg": 1757,
-  "s_min": 528,
-  "title": "Case-The-Disappearance-Of-Rudolf-Die",
-  "repo": "coldcasedaily667",
-  "file": "case-the-disappearance-of-rudolf-diesel.mp4"
  },
  {
   "dur": 22,
@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 86,
+  "b_avg": 107,
+  "b_min": 101,
+  "s_avg": 698,
+  "s_min": 490,
+  "title": "Riddle 058 Pizza11",
+  "repo": "MotivationFactory",
+  "file": "riddle_058_pizza11.mp4"
+ },
+ {
   "dur": 87,
   "b_avg": 79,
   "b_min": 74,
@@ -230,14 +240,14 @@
   "file": "riddle_051_stack1m.mp4"
  },
  {
-  "dur": 95,
-  "b_avg": 129,
-  "b_min": 115,
-  "s_avg": 1225,
-  "s_min": 851,
-  "title": "Riddle 050 Overlap22",
-  "repo": "MotivationFactory",
-  "file": "riddle_050_overlap22.mp4"
+  "dur": 34,
+  "b_avg": 149,
+  "b_min": 139,
+  "s_avg": 157,
+  "s_min": 85,
+  "title": "Paper-Rip-Current",
+  "repo": "FacelessFactory",
+  "file": "paper-rip-current.mp4"
  },
  {
   "dur": 35,
@@ -308,15 +318,5 @@
   "title": "Paper-Standing-Desk-Danger",
   "repo": "FacelessFactory",
   "file": "paper-standing-desk-danger.mp4"
- },
- {
-  "dur": 34,
-  "b_avg": 190,
-  "b_min": 165,
-  "s_avg": 253,
-  "s_min": 127,
-  "title": "Paper-Cold-Showers-Shock-To-The-Syst",
-  "repo": "FacelessFactory",
-  "file": "paper-cold-showers-shock-to-the-system.mp4"
  }
 ]
