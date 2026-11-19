@@ -1,5 +1,15 @@
 [
  {
+  "dur": 28,
+  "b_avg": 128,
+  "b_min": 112,
+  "s_avg": 1802,
+  "s_min": 571,
+  "title": "Case-Kettle-Moraine-Ufo-Sightings",
+  "repo": "coldcasedaily667",
+  "file": "case-kettle-moraine-ufo-sightings.mp4"
+ },
+ {
   "dur": 26,
   "b_avg": 126,
   "b_min": 122,
@@ -68,16 +78,6 @@
   "title": "Case-Theodosia-Burr-Alston-Disappear",
   "repo": "coldcasedaily667",
   "file": "case-theodosia-burr-alston-disappearance.mp4"
- },
- {
-  "dur": 28,
-  "b_avg": 127,
-  "b_min": 124,
-  "s_avg": 1803,
-  "s_min": 551,
-  "title": "Case-The-Disappearance-Of-Benjamin-B",
-  "repo": "coldcasedaily667",
-  "file": "case-the-disappearance-of-benjamin-bathurst.mp4"
  },
  {
   "dur": 22,
