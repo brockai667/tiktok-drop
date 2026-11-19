@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 91,
+  "b_avg": 150,
+  "b_min": 132,
+  "s_avg": 707,
+  "s_min": 201,
+  "title": "Riddle 059 Birthday",
+  "repo": "MotivationFactory",
+  "file": "riddle_059_birthday.mp4"
+ },
+ {
   "dur": 86,
   "b_avg": 107,
   "b_min": 101,
@@ -230,14 +240,14 @@
   "file": "riddle_052_fold42.mp4"
  },
  {
-  "dur": 93,
-  "b_avg": 48,
-  "b_min": 32,
-  "s_avg": 657,
-  "s_min": 446,
-  "title": "Riddle 051 Stack1M",
-  "repo": "MotivationFactory",
-  "file": "riddle_051_stack1m.mp4"
+  "dur": 34,
+  "b_avg": 129,
+  "b_min": 113,
+  "s_avg": 211,
+  "s_min": 113,
+  "title": "Paper-Night-In-Antarctica",
+  "repo": "FacelessFactory",
+  "file": "paper-night-in-antarctica.mp4"
  },
  {
   "dur": 34,
@@ -308,15 +318,5 @@
   "title": "Paper-Skipping-Dessert",
   "repo": "FacelessFactory",
   "file": "paper-skipping-dessert.mp4"
- },
- {
-  "dur": 23,
-  "b_avg": 162,
-  "b_min": 159,
-  "s_avg": 185,
-  "s_min": 155,
-  "title": "Paper-Standing-Desk-Danger",
-  "repo": "FacelessFactory",
-  "file": "paper-standing-desk-danger.mp4"
  }
 ]
