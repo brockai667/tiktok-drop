@@ -160,6 +160,16 @@
   "file": "the_silent_stones_of_carnac.mp4"
  },
  {
+  "dur": 81,
+  "b_avg": 161,
+  "b_min": 158,
+  "s_avg": 883,
+  "s_min": 708,
+  "title": "Riddle 061 Sisters8",
+  "repo": "MotivationFactory",
+  "file": "riddle_061_sisters8.mp4"
+ },
+ {
   "dur": 79,
   "b_avg": 141,
   "b_min": 137,
@@ -230,14 +240,14 @@
   "file": "riddle_054_bread8.mp4"
  },
  {
-  "dur": 102,
-  "b_avg": 63,
-  "b_min": 36,
-  "s_avg": 877,
-  "s_min": 628,
-  "title": "Riddle 053 Trains Meet",
-  "repo": "MotivationFactory",
-  "file": "riddle_053_trains_meet.mp4"
+  "dur": 37,
+  "b_avg": 161,
+  "b_min": 155,
+  "s_avg": 188,
+  "s_min": 122,
+  "title": "Paper-Holding-Your-Breath",
+  "repo": "FacelessFactory",
+  "file": "paper-holding-your-breath.mp4"
  },
  {
   "dur": 33,
@@ -308,15 +318,5 @@
   "title": "Paper-Buried-By-Avalanche",
   "repo": "FacelessFactory",
   "file": "paper-buried-by-avalanche.mp4"
- },
- {
-  "dur": 24,
-  "b_avg": 166,
-  "b_min": 162,
-  "s_avg": 179,
-  "s_min": 105,
-  "title": "Paper-Stretching-Saves-Your-Spine",
-  "repo": "FacelessFactory",
-  "file": "paper-stretching-saves-your-spine.mp4"
  }
 ]
